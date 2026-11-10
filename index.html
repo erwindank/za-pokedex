@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Z-A Dex Tracker</title>
+  <meta name="description" content="Pokémon Legends: Z-A Pokédex tracker — natures, movesets, locations, every form, shiny and alpha.">
+  <meta name="theme-color" content="#0b1220">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css?v=2">
+</head>
+<body>
+  <!-- Top bar: title, search and backup menu -->
+  <header class="top">
+    <div class="top-inner">
+      <h1 class="brand"><span class="brand-za">Z-A</span> Dex Tracker</h1>
+      <label class="search">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="q" type="search" placeholder="Dex number or name — e.g. 3, H12, Rotom" autocomplete="off" spellcheck="false">
+        <kbd>/</kbd>
+      </label>
+      <div class="menu-wrap">
+        <button class="icon-btn" id="menuBtn" aria-haspopup="true" aria-expanded="false" title="Backup and settings">⋯</button>
+        <div class="menu" id="menu" hidden>
+          <button data-act="export">Save backup file</button>
+          <button data-act="import">Load backup file</button>
+          <button data-act="reset" class="danger">Clear all ticks…</button>
+        </div>
+        <input type="file" id="importFile" accept="application/json" hidden>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <!-- Which Pokédex + progress -->
+    <section class="dex-bar">
+      <div class="seg" id="dexTabs" role="tablist">
+        <button role="tab" data-dex="lumiose" aria-selected="true">Lumiose <span class="n" id="nL"></span></button>
+        <button role="tab" data-dex="hyperspace">Hyperspace <span class="n" id="nH"></span></button>
+        <button role="tab" data-dex="all">All</button>
+      </div>
+      <div class="progress" id="progress"></div>
+    </section>
+
+    <!-- Filters -->
+    <section class="filters">
+      <div class="seg small" id="showSeg">
+        <button data-show="all" aria-pressed="true">Everything</button>
+        <button data-show="missing">Still to catch</button>
+        <button data-show="done">Caught</button>
+        <button data-show="lv">Not Lv 100</button>
+      </div>
+      <div class="chips" id="verChips" title="Which versions count when filtering">
+        <button data-ver="normal" aria-pressed="true">Normal</button>
+        <button data-ver="shiny" aria-pressed="true">Shiny</button>
+        <button data-ver="alpha" aria-pressed="true">Alpha</button>
+        <button data-ver="shinyalpha" aria-pressed="true">Shiny Alpha</button>
+      </div>
+      <select id="typeSel" aria-label="Type"><option value="">All types</option></select>
+    </section>
+
+    <p class="result-note" id="resultNote"></p>
+    <section class="grid" id="grid" aria-live="polite"></section>
+  </main>
+
+  <!-- Detail drawer -->
+  <div class="scrim" id="scrim" hidden></div>
+  <aside class="drawer" id="drawer" aria-hidden="true" aria-labelledby="dTitle" role="dialog">
+    <div class="d-head">
+      <button class="icon-btn" id="prevBtn" title="Previous (←)">‹</button>
+      <div class="d-title">
+        <span class="d-num" id="dNum"></span>
+        <h2 id="dTitle"></h2>
+      </div>
+      <button class="icon-btn" id="nextBtn" title="Next (→)">›</button>
+      <button class="icon-btn close" id="closeBtn" title="Close (Esc)">✕</button>
+    </div>
+    <div class="d-body" id="dBody"></div>
+  </aside>
+
+  <div class="toast" id="toast" role="status" hidden></div>
+
+  <div class="modal" id="confirm" hidden>
+    <div class="modal-card" role="alertdialog" aria-labelledby="cTitle">
+      <h3 id="cTitle">Clear all ticks?</h3>
+      <p>This removes every Caught, Level 100 and mark on this device. Save a backup first if you might want them back.</p>
+      <div class="modal-actions">
+        <button id="cNo">Keep them</button>
+        <button id="cYes" class="danger-fill">Clear everything</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="data/pokedex.js?v=1"></script>
+  <script src="app.js?v=2"></script>
+</body>
+</html>
