@@ -1,0 +1,5090 @@
+{
+ "Chikorita": {
+  "nature": "Brave",
+  "plus": "Attack",
+  "minus": "Speed",
+  "moves": [
+   "Synthesis",
+   "Seed Bomb",
+   "Double-Edge",
+   "Iron Tail"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Giga Drain, Grass Knot → Double-Edge, Iron Tail)",
+  "url": "https://rankedboost.com/pokemon/chikorita/legends-z-a/"
+ },
+ "Bayleef": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Giga Drain",
+   "Ancient Power",
+   "Energy Ball",
+   "Earth Power"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Aromatherapy → Earth Power)",
+  "url": "https://rankedboost.com/pokemon/bayleef/legends-z-a/"
+ },
+ "Meganium": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Leech Seed",
+   "Giga Drain",
+   "Knock Off",
+   "Earth Power"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Encore → Earth Power)",
+  "url": "https://rankedboost.com/pokemon/meganium/legends-z-a/"
+ },
+ "Tepig": {
+  "nature": "Hardy",
+  "plus": "—",
+  "minus": "—",
+  "moves": [
+   "Protect",
+   "Fire Blast",
+   "Take Down",
+   "Wild Charge"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Yawn, Endeavor → Take Down, Wild Charge)",
+  "url": "https://rankedboost.com/pokemon/tepig/legends-z-a/"
+ },
+ "Pignite": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Drain Punch",
+   "Bulk Up",
+   "Fire Punch",
+   "Double-Edge"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Sucker Punch → Double-Edge)",
+  "url": "https://rankedboost.com/pokemon/pignite/legends-z-a/"
+ },
+ "Emboar": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Flare Blitz",
+   "Wild Charge",
+   "Close Combat",
+   "Head Smash"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: item Heavy Duty Boots isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/emboar/legends-z-a/"
+ },
+ "Totodile": {
+  "nature": "Hardy",
+  "plus": "—",
+  "minus": "—",
+  "moves": [
+   "Aqua Jet",
+   "Substitute",
+   "Dig",
+   "Psychic Fangs"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Endeavor → Psychic Fangs)",
+  "url": "https://rankedboost.com/pokemon/totodile/legends-z-a/"
+ },
+ "Croconaw": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Liquidation",
+   "Swords Dance",
+   "Psychic Fangs",
+   "Dragon Claw"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Dragon Dance, Ice Punch, Crunch → Swords Dance, Psychic Fangs, Dragon Claw)",
+  "url": "https://rankedboost.com/pokemon/croconaw/legends-z-a/"
+ },
+ "Feraligatr": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Liquidation",
+   "Crunch",
+   "Swords Dance",
+   "Double-Edge"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Ice Punch, Dragon Dance → Swords Dance, Double-Edge)",
+  "url": "https://rankedboost.com/pokemon/feraligatr/legends-z-a/"
+ },
+ "Fletchling": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Air Slash",
+   "Feather Dance",
+   "Swift",
+   "Overheat"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Tailwind, Defog → Swift, Overheat; item Ability Shield isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/fletchling/legends-z-a/"
+ },
+ "Fletchinder": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Air Slash",
+   "Overheat",
+   "Swift",
+   "Vacuum Wave"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Defog, Tailwind → Swift, Vacuum Wave; item Heavy Duty Boots isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/fletchinder/legends-z-a/"
+ },
+ "Talonflame": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Will-O-Wisp",
+   "Brave Bird",
+   "Flare Blitz",
+   "Double-Edge"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Defog, Roost → Flare Blitz, Double-Edge; item Heavy Duty Boots isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/talonflame/legends-z-a/"
+ },
+ "Bunnelby": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Quick Attack",
+   "Brick Break",
+   "Earthquake",
+   "Swords Dance"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Frustration → Swords Dance; item Choice Band isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/bunnelby/legends-z-a/"
+ },
+ "Diggersby": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Earthquake",
+   "Quick Attack",
+   "U-turn",
+   "Ice Punch"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: item Choice Scarf isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/diggersby/legends-z-a/"
+ },
+ "Scatterbug": {
+  "nature": "Bold",
+  "plus": "Defense",
+  "minus": "Attack",
+  "moves": [
+   "Stun Spore",
+   "String Shot",
+   "Facade",
+   "Protect"
+  ],
+  "item": "Charcoal",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Rage Powder, Poison Powder → Facade, Protect)",
+  "url": "https://rankedboost.com/pokemon/scatterbug/legends-z-a/"
+ },
+ "Spewpa": {
+  "nature": "Bold",
+  "plus": "Defense",
+  "minus": "Attack",
+  "moves": [
+   "Stun Spore",
+   "Protect",
+   "Infestation"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Rage Powder, Bug Bite → Infestation)",
+  "url": "https://rankedboost.com/pokemon/spewpa/legends-z-a/"
+ },
+ "Vivillon": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Hurricane",
+   "Bug Buzz",
+   "Stun Spore",
+   "Energy Ball"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Quiver Dance → Energy Ball)",
+  "url": "https://rankedboost.com/pokemon/vivillon/legends-z-a/"
+ },
+ "Weedle": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Poison Sting",
+   "Facade"
+  ],
+  "item": "Eviolite",
+  "note": "Made from base stats + Serebii's Z-A move list (no RankedBoost build)",
+  "url": ""
+ },
+ "Kakuna": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Electroweb"
+  ],
+  "item": "Eviolite",
+  "note": "Made from base stats + Serebii's Z-A move list (no RankedBoost build)",
+  "url": ""
+ },
+ "Beedrill": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Poison Jab",
+   "Drill Run",
+   "U-turn",
+   "Swords Dance"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Knock Off → Swords Dance)",
+  "url": "https://rankedboost.com/pokemon/beedrill/legends-z-a/"
+ },
+ "Pidgey": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Headbutt",
+   "Brave Bird",
+   "U-turn",
+   "Protect"
+  ],
+  "item": "Eviolite",
+  "note": "Made from base stats + Serebii's Z-A move list (no RankedBoost build)",
+  "url": ""
+ },
+ "Pidgeotto": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Headbutt",
+   "Brave Bird",
+   "U-turn",
+   "Protect"
+  ],
+  "item": "Eviolite",
+  "note": "Made from base stats + Serebii's Z-A move list (no RankedBoost build)",
+  "url": ""
+ },
+ "Pidgeot": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Hurricane",
+   "Heat Wave",
+   "Headbutt",
+   "U-turn"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Roost, Tailwind → Headbutt, U-turn; item Heavy Duty Boots isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/pidgeot/legends-z-a/"
+ },
+ "Mareep": {
+  "nature": "Hardy",
+  "plus": "—",
+  "minus": "—",
+  "moves": [
+   "Volt Switch",
+   "Power Gem",
+   "Discharge",
+   "Cotton Guard"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/mareep/legends-z-a/"
+ },
+ "Flaaffy": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Thunder",
+   "Wild Charge",
+   "Thunderbolt",
+   "Electroweb"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/flaaffy/legends-z-a/"
+ },
+ "Ampharos": {
+  "nature": "Calm",
+  "plus": "Sp. Def",
+  "minus": "Attack",
+  "moves": [
+   "Thunderbolt",
+   "Dazzling Gleam",
+   "Dragon Pulse",
+   "Meteor Beam"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/ampharos/legends-z-a/"
+ },
+ "Patrat": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Facade",
+   "Swords Dance",
+   "Gunk Shot",
+   "Crunch"
+  ],
+  "item": "Eviolite",
+  "note": "Made from base stats + Serebii's Z-A move list (no RankedBoost build)",
+  "url": ""
+ },
+ "Watchog": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Crunch",
+   "Super Fang",
+   "Double-Edge",
+   "Gunk Shot"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Knock Off, Low Kick → Double-Edge, Gunk Shot)",
+  "url": "https://rankedboost.com/pokemon/watchog/legends-z-a/"
+ },
+ "Budew": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Energy Ball",
+   "Sludge Bomb",
+   "Shadow Ball",
+   "Dazzling Gleam"
+  ],
+  "item": "Eviolite",
+  "note": "Made from base stats + Serebii's Z-A move list (no RankedBoost build)",
+  "url": ""
+ },
+ "Roselia": {
+  "nature": "Gentle",
+  "plus": "Sp. Def",
+  "minus": "Defense",
+  "moves": [
+   "Sludge Bomb",
+   "Spikes",
+   "Sleep Powder",
+   "Leaf Storm"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Aromatherapy → Leaf Storm)",
+  "url": "https://rankedboost.com/pokemon/roselia/legends-z-a/"
+ },
+ "Roserade": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Sludge Bomb",
+   "Giga Drain",
+   "Dazzling Gleam",
+   "Shadow Ball"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: item Black Sludge isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/roserade/legends-z-a/"
+ },
+ "Magikarp": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Tackle",
+   "Splash",
+   "Hydro Pump"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Flail → Hydro Pump)",
+  "url": "https://rankedboost.com/pokemon/magikarp/legends-z-a/"
+ },
+ "Gyarados": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Waterfall",
+   "Earthquake",
+   "Ice Fang",
+   "Double-Edge"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Dragon Dance → Double-Edge)",
+  "url": "https://rankedboost.com/pokemon/gyarados/legends-z-a/"
+ },
+ "Binacle": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Stone Edge",
+   "Liquidation",
+   "Swords Dance",
+   "Earthquake"
+  ],
+  "item": "Eviolite",
+  "note": "Made from base stats + Serebii's Z-A move list (no RankedBoost build)",
+  "url": ""
+ },
+ "Barbaracle": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Liquidation",
+   "Stone Edge",
+   "Poison Jab",
+   "Swords Dance"
+  ],
+  "item": "White Herb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Shell Smash → Swords Dance)",
+  "url": "https://rankedboost.com/pokemon/barbaracle/legends-z-a/"
+ },
+ "Staryu": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Hydro Pump",
+   "Blizzard",
+   "Thunder",
+   "Psychic"
+  ],
+  "item": "Eviolite",
+  "note": "Made from base stats + Serebii's Z-A move list (no RankedBoost build)",
+  "url": ""
+ },
+ "Starmie": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Ice Beam",
+   "Hydro Pump",
+   "Psychic",
+   "Meteor Beam"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Rapid Spin → Meteor Beam)",
+  "url": "https://rankedboost.com/pokemon/starmie/legends-z-a/"
+ },
+ "Flabébé": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Draining Kiss",
+   "Psychic",
+   "Calm Mind",
+   "Energy Ball"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Moonblast, Endeavor → Calm Mind, Energy Ball; item Choice Scarf isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/flabebe/legends-z-a/"
+ },
+ "Floette": {
+  "nature": "Quiet",
+  "plus": "Sp. Atk",
+  "minus": "Speed",
+  "moves": [
+   "Giga Drain",
+   "Protect",
+   "Draining Kiss",
+   "Moonblast"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/floette/legends-z-a/"
+ },
+ "Florges": {
+  "nature": "Calm",
+  "plus": "Sp. Def",
+  "minus": "Attack",
+  "moves": [
+   "Moonblast",
+   "Calm Mind",
+   "Synthesis",
+   "Wish"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/florges/legends-z-a/"
+ },
+ "Skiddo": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Horn Leech",
+   "Bulk Up",
+   "Play Rough",
+   "Double-Edge"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Milk Drink → Double-Edge)",
+  "url": "https://rankedboost.com/pokemon/skiddo/legends-z-a/"
+ },
+ "Gogoat": {
+  "nature": "Careful",
+  "plus": "Sp. Def",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Horn Leech",
+   "Bulk Up",
+   "Earthquake",
+   "Double-Edge"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Milk Drink → Double-Edge)",
+  "url": "https://rankedboost.com/pokemon/gogoat/legends-z-a/"
+ },
+ "Espurr": {
+  "nature": "Calm",
+  "plus": "Sp. Def",
+  "minus": "Attack",
+  "moves": [
+   "Fake Out",
+   "Light Screen",
+   "Reflect",
+   "Psychic"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Psychic Noise → Psychic)",
+  "url": "https://rankedboost.com/pokemon/espurr/legends-z-a/"
+ },
+ "Meowstic": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Reflect",
+   "Light Screen",
+   "Thunder Wave",
+   "Psychic"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: item Light Clay isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/meowstic/legends-z-a/"
+ },
+ "Litleo": {
+  "nature": "Naughty",
+  "plus": "Attack",
+  "minus": "Sp. Def",
+  "moves": [
+   "Flare Blitz",
+   "Flame Charge",
+   "Overheat",
+   "Hyper Voice"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/litleo/legends-z-a/"
+ },
+ "Pyroar": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Hyper Voice",
+   "Dark Pulse",
+   "Flamethrower",
+   "Earth Power"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Tera Blast → Earth Power; item Air Balloon isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/pyroar/legends-z-a/"
+ },
+ "Pancham": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Brick Break",
+   "Swords Dance",
+   "Stone Edge",
+   "Body Slam"
+  ],
+  "item": "Eviolite",
+  "note": "Made from base stats + Serebii's Z-A move list (no RankedBoost build)",
+  "url": ""
+ },
+ "Pangoro": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Drain Punch",
+   "Bullet Punch",
+   "Knock Off",
+   "Swords Dance"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Darkest Lariat → Swords Dance)",
+  "url": "https://rankedboost.com/pokemon/pangoro/legends-z-a/"
+ },
+ "Trubbish": {
+  "nature": "Gentle",
+  "plus": "Sp. Def",
+  "minus": "Defense",
+  "moves": [
+   "Toxic",
+   "Protect",
+   "Gunk Shot",
+   "Explosion"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/trubbish/legends-z-a/"
+ },
+ "Garbodor": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Gunk Shot",
+   "Drain Punch",
+   "Seed Bomb",
+   "Toxic Spikes"
+  ],
+  "item": "White Herb",
+  "note": "RankedBoost (fixed for Z-A: item Mirror Herb isn't in Z-A → White Herb)",
+  "url": "https://rankedboost.com/pokemon/garbodor/legends-z-a/"
+ },
+ "Dedenne": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Nuzzle",
+   "Dazzling Gleam",
+   "Volt Switch",
+   "Thunderbolt"
+  ],
+  "item": "Sitrus Berry",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/dedenne/legends-z-a/"
+ },
+ "Pichu": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Volt Tackle",
+   "Nuzzle",
+   "Charge",
+   "Iron Tail"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Encore → Iron Tail)",
+  "url": "https://rankedboost.com/pokemon/pichu/legends-z-a/"
+ },
+ "Pikachu": {
+  "nature": "Hasty",
+  "plus": "Speed",
+  "minus": "Defense",
+  "moves": [
+   "Thunderbolt",
+   "Iron Tail",
+   "Quick Attack",
+   "Surf"
+  ],
+  "item": "Light Ball",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/pikachu/legends-z-a/"
+ },
+ "Raichu": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Surf",
+   "Thunderbolt",
+   "Volt Switch",
+   "Nasty Plot"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/raichu/legends-z-a/"
+ },
+ "Cleffa": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Calm Mind",
+   "Flamethrower",
+   "Psychic",
+   "Moonblast"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Alluring Voice → Moonblast; item Throat Spray isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/cleffa/legends-z-a/"
+ },
+ "Clefairy": {
+  "nature": "Calm",
+  "plus": "Sp. Def",
+  "minus": "Attack",
+  "moves": [
+   "Thunder Wave",
+   "Moonblast",
+   "Meteor Beam",
+   "Fire Blast"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Encore, Wish → Meteor Beam, Fire Blast)",
+  "url": "https://rankedboost.com/pokemon/clefairy/legends-z-a/"
+ },
+ "Clefable": {
+  "nature": "Bold",
+  "plus": "Defense",
+  "minus": "Attack",
+  "moves": [
+   "Moonblast",
+   "Moonlight",
+   "Calm Mind",
+   "Stealth Rock"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/clefable/legends-z-a/"
+ },
+ "Spinarak": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Sticky Web",
+   "Protect",
+   "Shadow Sneak",
+   "Megahorn"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Sucker Punch → Megahorn)",
+  "url": "https://rankedboost.com/pokemon/spinarak/legends-z-a/"
+ },
+ "Ariados": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Sticky Web",
+   "Toxic Spikes",
+   "Megahorn",
+   "Poison Jab"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Sucker Punch, Toxic Thread → Megahorn, Poison Jab)",
+  "url": "https://rankedboost.com/pokemon/ariados/legends-z-a/"
+ },
+ "Ekans": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Gunk Shot",
+   "Earthquake",
+   "Toxic",
+   "Glare"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/ekans/legends-z-a/"
+ },
+ "Arbok": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Gunk Shot",
+   "Earthquake",
+   "Double-Edge",
+   "Iron Tail"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Coil, Sucker Punch → Double-Edge, Iron Tail; item Black Sludge isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/arbok/legends-z-a/"
+ },
+ "Abra": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Psychic",
+   "Calm Mind",
+   "Energy Ball",
+   "Shadow Ball"
+  ],
+  "item": "Eviolite",
+  "note": "Made from base stats + Serebii's Z-A move list (no RankedBoost build)",
+  "url": ""
+ },
+ "Kadabra": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Psychic",
+   "Dazzling Gleam",
+   "Calm Mind",
+   "Shadow Ball"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/kadabra/legends-z-a/"
+ },
+ "Alakazam": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Psychic",
+   "Shadow Ball",
+   "Dazzling Gleam",
+   "Nasty Plot"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/alakazam/legends-z-a/"
+ },
+ "Gastly": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Shadow Ball",
+   "Dazzling Gleam",
+   "Sludge Bomb",
+   "Nasty Plot"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Trick → Nasty Plot; item Choice Scarf isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/gastly/legends-z-a/"
+ },
+ "Haunter": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Shadow Ball",
+   "Thunderbolt",
+   "Sludge Wave",
+   "Nasty Plot"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Destiny Bond, Mean Look → Sludge Wave, Nasty Plot)",
+  "url": "https://rankedboost.com/pokemon/haunter/legends-z-a/"
+ },
+ "Gengar": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Shadow Ball",
+   "Sludge Wave",
+   "Sludge Bomb",
+   "Nasty Plot"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Destiny Bond → Nasty Plot)",
+  "url": "https://rankedboost.com/pokemon/gengar/legends-z-a/"
+ },
+ "Venipede": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Pin Missile",
+   "Poison Jab",
+   "Double-Edge",
+   "Rock Tomb"
+  ],
+  "item": "Eviolite",
+  "note": "Made from base stats + Serebii's Z-A move list (no RankedBoost build)",
+  "url": ""
+ },
+ "Whirlipede": {
+  "nature": "Relaxed",
+  "plus": "Defense",
+  "minus": "Speed",
+  "moves": [
+   "Toxic",
+   "Protect",
+   "Pin Missile",
+   "Poison Jab"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Bug Bite, Gyro Ball → Pin Missile, Poison Jab)",
+  "url": "https://rankedboost.com/pokemon/whirlipede/legends-z-a/"
+ },
+ "Scolipede": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Poison Jab",
+   "Earthquake",
+   "Swords Dance",
+   "Megahorn"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/scolipede/legends-z-a/"
+ },
+ "Honedge": {
+  "nature": "Relaxed",
+  "plus": "Defense",
+  "minus": "Speed",
+  "moves": [
+   "Swords Dance",
+   "Shadow Sneak",
+   "Sacred Sword",
+   "Iron Head"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Gyro Ball → Iron Head)",
+  "url": "https://rankedboost.com/pokemon/honedge/legends-z-a/"
+ },
+ "Doublade": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Swords Dance",
+   "Shadow Sneak",
+   "Sacred Sword",
+   "Iron Head"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/doublade/legends-z-a/"
+ },
+ "Aegislash": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "King's Shield",
+   "Shadow Sneak",
+   "Swords Dance",
+   "Sacred Sword"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/aegislash/legends-z-a/"
+ },
+ "Bellsprout": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Power Whip",
+   "Knock Off",
+   "Sleep Powder",
+   "Solar Beam"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/bellsprout/legends-z-a/"
+ },
+ "Weepinbell": {
+  "nature": "Impish",
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Acid Spray",
+   "Knock Off",
+   "Power Whip",
+   "Swords Dance"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Clear Smog, Worry Seed → Power Whip, Swords Dance)",
+  "url": "https://rankedboost.com/pokemon/weepinbell/legends-z-a/"
+ },
+ "Victreebel": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Poison Jab",
+   "Sludge Wave",
+   "Knock Off",
+   "Leaf Storm"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Weather Ball → Leaf Storm)",
+  "url": "https://rankedboost.com/pokemon/victreebel/legends-z-a/"
+ },
+ "Pansage": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Leaf Storm",
+   "Nasty Plot",
+   "Focus Blast",
+   "Swift"
+  ],
+  "item": "Eviolite",
+  "note": "Made from base stats + Serebii's Z-A move list (no RankedBoost build)",
+  "url": ""
+ },
+ "Simisage": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Nasty Plot",
+   "Focus Blast",
+   "Seed Bomb",
+   "Swift"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Spiky Shield → Swift)",
+  "url": "https://rankedboost.com/pokemon/simisage/legends-z-a/"
+ },
+ "Pansear": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Overheat",
+   "Nasty Plot",
+   "Focus Blast",
+   "Swift"
+  ],
+  "item": "Eviolite",
+  "note": "Made from base stats + Serebii's Z-A move list (no RankedBoost build)",
+  "url": ""
+ },
+ "Simisear": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Brick Break",
+   "Shadow Claw",
+   "Fire Blast",
+   "Nasty Plot"
+  ],
+  "item": "Assault Vest",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Knock Off → Nasty Plot)",
+  "url": "https://rankedboost.com/pokemon/simisear/legends-z-a/"
+ },
+ "Panpour": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Hydro Pump",
+   "Nasty Plot",
+   "Focus Blast",
+   "Blizzard"
+  ],
+  "item": "Eviolite",
+  "note": "Made from base stats + Serebii's Z-A move list (no RankedBoost build)",
+  "url": ""
+ },
+ "Simipour": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Ice Beam",
+   "Nasty Plot",
+   "Hydro Pump",
+   "Focus Blast"
+  ],
+  "item": "Mystic Water",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/simipour/legends-z-a/"
+ },
+ "Meditite": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Close Combat",
+   "Bullet Punch",
+   "Zen Headbutt",
+   "Bulk Up"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Psycho Cut, Counter → Zen Headbutt, Bulk Up)",
+  "url": "https://rankedboost.com/pokemon/meditite/legends-z-a/"
+ },
+ "Medicham": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Close Combat",
+   "Ice Punch",
+   "Bullet Punch",
+   "Zen Headbutt"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: item Choice Band isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/medicham/legends-z-a/"
+ },
+ "Electrike": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Thunder",
+   "Flamethrower",
+   "Swift",
+   "Snarl"
+  ],
+  "item": "Eviolite",
+  "note": "Made from base stats + Serebii's Z-A move list (no RankedBoost build)",
+  "url": ""
+ },
+ "Manectric": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Flamethrower",
+   "Thunderbolt",
+   "Volt Switch",
+   "Thunder Wave"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: item Air Balloon isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/manectric/legends-z-a/"
+ },
+ "Ralts": {
+  "nature": "Hardy",
+  "plus": "—",
+  "minus": "—",
+  "moves": [
+   "Psychic",
+   "Draining Kiss",
+   "Calm Mind",
+   "Thunderbolt"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Trick Room, Memento, Encore, Destiny Bond → Psychic, Draining Kiss, Calm Mind, Thunderbolt)",
+  "url": "https://rankedboost.com/pokemon/ralts/legends-z-a/"
+ },
+ "Kirlia": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Draining Kiss",
+   "Zen Headbutt",
+   "Body Slam",
+   "Thunder Punch"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Alluring Voice, Destiny Bond, Shadow Sneak → Zen Headbutt, Body Slam, Thunder Punch; item Choice Band isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/kirlia/legends-z-a/"
+ },
+ "Gardevoir": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Moonblast",
+   "Psychic",
+   "Mystical Fire",
+   "Calm Mind"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: item Choice Scarf isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/gardevoir/legends-z-a/"
+ },
+ "Gallade": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Psycho Cut",
+   "Sacred Sword",
+   "Leaf Blade",
+   "Night Slash"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/gallade/legends-z-a/"
+ },
+ "Houndour": {
+  "nature": "Naive",
+  "plus": "Speed",
+  "minus": "Sp. Def",
+  "moves": [
+   "Dark Pulse",
+   "Fire Blast",
+   "Flame Charge",
+   "Nasty Plot"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Sucker Punch → Nasty Plot)",
+  "url": "https://rankedboost.com/pokemon/houndour/legends-z-a/"
+ },
+ "Houndoom": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Dark Pulse",
+   "Fire Blast",
+   "Flamethrower",
+   "Nasty Plot"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/houndoom/legends-z-a/"
+ },
+ "Swablu": {
+  "nature": "Careful",
+  "plus": "Sp. Def",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Cotton Guard",
+   "Brave Bird",
+   "Perish Song",
+   "Hyper Voice"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Tailwind → Hyper Voice)",
+  "url": "https://rankedboost.com/pokemon/swablu/legends-z-a/"
+ },
+ "Altaria": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Will-O-Wisp",
+   "Draco Meteor",
+   "Hurricane",
+   "Moonblast"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Roost, Defog, Dragon Dance → Draco Meteor, Hurricane, Moonblast; item Heavy Duty Boots isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/altaria/legends-z-a/"
+ },
+ "Audino": {
+  "nature": "Bold",
+  "plus": "Defense",
+  "minus": "Attack",
+  "moves": [
+   "Wish",
+   "Light Screen",
+   "Calm Mind",
+   "Hyper Voice"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Trick Room → Hyper Voice)",
+  "url": "https://rankedboost.com/pokemon/audino/legends-z-a/"
+ },
+ "Spritzee": {
+  "nature": "Calm",
+  "plus": "Sp. Def",
+  "minus": "Attack",
+  "moves": [
+   "Wish",
+   "Protect",
+   "Dazzling Gleam",
+   "Psychic"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Toxic → Psychic)",
+  "url": "https://rankedboost.com/pokemon/spritzee/legends-z-a/"
+ },
+ "Aromatisse": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Draining Kiss",
+   "Moonblast",
+   "Calm Mind",
+   "Protect"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/aromatisse/legends-z-a/"
+ },
+ "Swirlix": {
+  "nature": "Hasty",
+  "plus": "Speed",
+  "minus": "Defense",
+  "moves": [
+   "Sticky Web",
+   "Draining Kiss",
+   "Wish",
+   "Energy Ball"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Misty Explosion → Energy Ball)",
+  "url": "https://rankedboost.com/pokemon/swirlix/legends-z-a/"
+ },
+ "Slurpuff": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Sticky Web",
+   "Drain Punch",
+   "Play Rough",
+   "Facade"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Belly Drum → Facade)",
+  "url": "https://rankedboost.com/pokemon/slurpuff/legends-z-a/"
+ },
+ "Eevee": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Protect",
+   "Quick Attack",
+   "Trailblaze",
+   "Iron Tail"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Last Resort → Iron Tail)",
+  "url": "https://rankedboost.com/pokemon/eevee/legends-z-a/"
+ },
+ "Vaporeon": {
+  "nature": "Bold",
+  "plus": "Defense",
+  "minus": "Attack",
+  "moves": [
+   "Scald",
+   "Wish",
+   "Ice Beam",
+   "Protect"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/vaporeon/legends-z-a/"
+ },
+ "Jolteon": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Volt Switch",
+   "Thunderbolt",
+   "Shadow Ball",
+   "Calm Mind"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Alluring Voice → Calm Mind; item Choice Specs isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/jolteon/legends-z-a/"
+ },
+ "Flareon": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Flare Blitz",
+   "Facade",
+   "Trailblaze",
+   "Quick Attack"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: item Toxic Orb isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/flareon/legends-z-a/"
+ },
+ "Espeon": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Psychic",
+   "Shadow Ball",
+   "Calm Mind",
+   "Hyper Voice"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Alluring Voice → Hyper Voice; item Choice Specs isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/espeon/legends-z-a/"
+ },
+ "Umbreon": {
+  "nature": "Calm",
+  "plus": "Sp. Def",
+  "minus": "Attack",
+  "moves": [
+   "Wish",
+   "Protect",
+   "Toxic",
+   "Crunch"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Foul Play → Crunch)",
+  "url": "https://rankedboost.com/pokemon/umbreon/legends-z-a/"
+ },
+ "Leafeon": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Swords Dance",
+   "Leaf Blade",
+   "Solar Blade",
+   "Double-Edge"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Knock Off → Double-Edge)",
+  "url": "https://rankedboost.com/pokemon/leafeon/legends-z-a/"
+ },
+ "Glaceon": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Freeze-Dry",
+   "Shadow Ball",
+   "Blizzard",
+   "Ice Beam"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/glaceon/legends-z-a/"
+ },
+ "Sylveon": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Hyper Voice",
+   "Calm Mind",
+   "Wish",
+   "Protect"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/sylveon/legends-z-a/"
+ },
+ "Buneary": {
+  "nature": "Brave",
+  "plus": "Attack",
+  "minus": "Speed",
+  "moves": [
+   "Fake Out",
+   "Protect",
+   "Close Combat",
+   "Iron Tail"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Endeavor, Encore → Close Combat, Iron Tail)",
+  "url": "https://rankedboost.com/pokemon/buneary/legends-z-a/"
+ },
+ "Lopunny": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Fake Out",
+   "Swords Dance",
+   "Close Combat",
+   "Iron Tail"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Switcheroo, High Jump Kick, Return → Swords Dance, Close Combat, Iron Tail; item Lagging Tail isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/lopunny/legends-z-a/"
+ },
+ "Shuppet": {
+  "nature": "Hardy",
+  "plus": "—",
+  "minus": "—",
+  "moves": [
+   "Phantom Force",
+   "Thunder Wave",
+   "Gunk Shot",
+   "Body Slam"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Poltergeist, Destiny Bond → Gunk Shot, Body Slam)",
+  "url": "https://rankedboost.com/pokemon/shuppet/legends-z-a/"
+ },
+ "Banette": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Knock Off",
+   "Shadow Sneak",
+   "Swords Dance",
+   "Gunk Shot"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Destiny Bond, Poltergeist → Swords Dance, Gunk Shot)",
+  "url": "https://rankedboost.com/pokemon/banette/legends-z-a/"
+ },
+ "Vanillite": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Sheer Cold",
+   "Hyper Voice",
+   "Flash Cannon",
+   "Protect"
+  ],
+  "item": "Eviolite",
+  "note": "Made from base stats + Serebii's Z-A move list (no RankedBoost build)",
+  "url": ""
+ },
+ "Vanillish": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Sheer Cold",
+   "Hyper Voice",
+   "Flash Cannon",
+   "Protect"
+  ],
+  "item": "Eviolite",
+  "note": "Made from base stats + Serebii's Z-A move list (no RankedBoost build)",
+  "url": ""
+ },
+ "Vanilluxe": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Blizzard",
+   "Flash Cannon",
+   "Freeze-Dry",
+   "Hyper Voice"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Aurora Veil → Hyper Voice; item Light Clay isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/vanilluxe/legends-z-a/"
+ },
+ "Numel": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Trailblaze",
+   "Earth Power",
+   "Fire Blast",
+   "Flash Cannon"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Growth → Flash Cannon)",
+  "url": "https://rankedboost.com/pokemon/numel/legends-z-a/"
+ },
+ "Camerupt": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Earth Power",
+   "Lava Plume",
+   "Earthquake",
+   "Flash Cannon"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Eruption → Flash Cannon)",
+  "url": "https://rankedboost.com/pokemon/camerupt/legends-z-a/"
+ },
+ "Hippopotas": {
+  "nature": "Impish",
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Stealth Rock",
+   "Earthquake",
+   "Roar",
+   "Double-Edge"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Slack Off → Double-Edge; item Smooth Rock isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/hippopotas/legends-z-a/"
+ },
+ "Hippowdon": {
+  "nature": "Relaxed",
+  "plus": "Defense",
+  "minus": "Speed",
+  "moves": [
+   "Stealth Rock",
+   "Earthquake",
+   "Whirlwind",
+   "Double-Edge"
+  ],
+  "item": "Rocky Helmet",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Slack Off → Double-Edge)",
+  "url": "https://rankedboost.com/pokemon/hippowdon/legends-z-a/"
+ },
+ "Drilbur": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Earthquake",
+   "Swords Dance",
+   "Rock Slide",
+   "Double-Edge"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Rapid Spin → Double-Edge)",
+  "url": "https://rankedboost.com/pokemon/drilbur/legends-z-a/"
+ },
+ "Excadrill": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Earthquake",
+   "Iron Head",
+   "Swords Dance",
+   "Megahorn"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Rapid Spin → Megahorn; item Air Balloon isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/excadrill/legends-z-a/"
+ },
+ "Sandile": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Earthquake",
+   "Brick Break",
+   "Crunch",
+   "Double-Edge"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Power Trip → Double-Edge)",
+  "url": "https://rankedboost.com/pokemon/sandile/legends-z-a/"
+ },
+ "Krokorok": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Knock Off",
+   "Stealth Rock",
+   "Earthquake",
+   "Roar"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/krokorok/legends-z-a/"
+ },
+ "Krookodile": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Earthquake",
+   "Knock Off",
+   "Close Combat",
+   "Stone Edge"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: item Choice Scarf isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/krookodile/legends-z-a/"
+ },
+ "Machop": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Rock Slide",
+   "Bullet Punch",
+   "Dynamic Punch",
+   "Poison Jab"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/machop/legends-z-a/"
+ },
+ "Machoke": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Bullet Punch",
+   "Dynamic Punch",
+   "Bulk Up",
+   "Fissure"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Submission → Fissure)",
+  "url": "https://rankedboost.com/pokemon/machoke/legends-z-a/"
+ },
+ "Machamp": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Bullet Punch",
+   "Dynamic Punch",
+   "Close Combat",
+   "Stone Edge"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: item Flame Orb isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/machamp/legends-z-a/"
+ },
+ "Gible": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Earthquake",
+   "Dragon Claw",
+   "Iron Head",
+   "Stone Edge"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/gible/legends-z-a/"
+ },
+ "Gabite": {
+  "nature": "Relaxed",
+  "plus": "Defense",
+  "minus": "Speed",
+  "moves": [
+   "Earthquake",
+   "Stealth Rock",
+   "Flamethrower",
+   "Dragon Rush"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Dragon Tail → Dragon Rush)",
+  "url": "https://rankedboost.com/pokemon/gabite/legends-z-a/"
+ },
+ "Garchomp": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Earthquake",
+   "Stealth Rock",
+   "Swords Dance",
+   "Dragon Rush"
+  ],
+  "item": "Rocky Helmet",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Dragon Tail → Dragon Rush)",
+  "url": "https://rankedboost.com/pokemon/garchomp/legends-z-a/"
+ },
+ "Carbink": {
+  "nature": "Sassy",
+  "plus": "Sp. Def",
+  "minus": "Speed",
+  "moves": [
+   "Stealth Rock",
+   "Meteor Beam",
+   "Moonblast",
+   "Earth Power"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Trick Room, Endeavor, Body Press → Meteor Beam, Moonblast, Earth Power; item Black Sludge isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/carbink/legends-z-a/"
+ },
+ "Sableye": {
+  "nature": "Impish",
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Will-O-Wisp",
+   "Recover",
+   "Knock Off",
+   "Shadow Claw"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Encore → Shadow Claw)",
+  "url": "https://rankedboost.com/pokemon/sableye/legends-z-a/"
+ },
+ "Mawile": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Play Rough",
+   "Iron Head",
+   "Swords Dance",
+   "Crunch"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/mawile/legends-z-a/"
+ },
+ "Absol": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Night Slash",
+   "Swords Dance",
+   "Double-Edge",
+   "Close Combat"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Sucker Punch, Psycho Cut → Double-Edge, Close Combat)",
+  "url": "https://rankedboost.com/pokemon/absol/legends-z-a/"
+ },
+ "Riolu": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Bullet Punch",
+   "Swords Dance",
+   "Close Combat",
+   "Earthquake"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Copycat, Reversal → Close Combat, Earthquake)",
+  "url": "https://rankedboost.com/pokemon/riolu/legends-z-a/"
+ },
+ "Lucario": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Extreme Speed",
+   "Close Combat",
+   "Swords Dance",
+   "Aura Sphere"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/lucario/legends-z-a/"
+ },
+ "Slowpoke": {
+  "nature": "Relaxed",
+  "plus": "Defense",
+  "minus": "Speed",
+  "moves": [
+   "Chilling Water",
+   "Thunder Wave",
+   "Zen Headbutt",
+   "Earthquake"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Trick Room, Disable → Zen Headbutt, Earthquake)",
+  "url": "https://rankedboost.com/pokemon/slowpoke/legends-z-a/"
+ },
+ "Slowbro": {
+  "nature": "Bold",
+  "plus": "Defense",
+  "minus": "Attack",
+  "moves": [
+   "Scald",
+   "Psychic",
+   "Nasty Plot",
+   "Focus Blast"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Slack Off, Trick Room → Nasty Plot, Focus Blast)",
+  "url": "https://rankedboost.com/pokemon/slowbro/legends-z-a/"
+ },
+ "Slowking": {
+  "nature": "Sassy",
+  "plus": "Sp. Def",
+  "minus": "Speed",
+  "moves": [
+   "Scald",
+   "Future Sight",
+   "Thunder Wave",
+   "Focus Blast"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Chilly Reception → Focus Blast; item Heavy Duty Boots isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/slowking/legends-z-a/"
+ },
+ "Carvanha": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Protect",
+   "Waterfall",
+   "Crunch",
+   "Double-Edge"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Destiny Bond → Double-Edge)",
+  "url": "https://rankedboost.com/pokemon/carvanha/legends-z-a/"
+ },
+ "Sharpedo": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Crunch",
+   "Protect",
+   "Close Combat",
+   "Liquidation"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/sharpedo/legends-z-a/"
+ },
+ "Tynamo": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Thunder Wave",
+   "Charge Beam",
+   "Facade",
+   "Protect"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Tera Blast, Knock Off → Facade, Protect)",
+  "url": "https://rankedboost.com/pokemon/tynamo/legends-z-a/"
+ },
+ "Eelektrik": {
+  "nature": "Sassy",
+  "plus": "Sp. Def",
+  "minus": "Speed",
+  "moves": [
+   "U-turn",
+   "Zap Cannon",
+   "Take Down",
+   "Crunch"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Knock Off, Coil → Take Down, Crunch)",
+  "url": "https://rankedboost.com/pokemon/eelektrik/legends-z-a/"
+ },
+ "Eelektross": {
+  "nature": "Quiet",
+  "plus": "Sp. Atk",
+  "minus": "Speed",
+  "moves": [
+   "Flamethrower",
+   "Drain Punch",
+   "Giga Drain",
+   "Volt Switch"
+  ],
+  "item": "Assault Vest",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/eelektross/legends-z-a/"
+ },
+ "Dratini": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Extreme Speed",
+   "Dragon Rush",
+   "Iron Head",
+   "Waterfall"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Aqua Jet, Rain Dance, Sunny Day → Dragon Rush, Iron Head, Waterfall)",
+  "url": "https://rankedboost.com/pokemon/dratini/legends-z-a/"
+ },
+ "Dragonair": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Extreme Speed",
+   "Thunder Wave",
+   "Dragon Rush",
+   "Iron Head"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Dragon Dance, Dragon Tail → Dragon Rush, Iron Head)",
+  "url": "https://rankedboost.com/pokemon/dragonair/legends-z-a/"
+ },
+ "Dragonite": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Extreme Speed",
+   "Earthquake",
+   "Dragon Rush",
+   "Wing Attack"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Dragon Dance, Ice Spinner → Dragon Rush, Wing Attack; item Heavy Duty Boots isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/dragonite/legends-z-a/"
+ },
+ "Bulbasaur": {
+  "nature": "Impish",
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Toxic",
+   "Leech Seed",
+   "Protect",
+   "Trailblaze"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/bulbasaur/legends-z-a/"
+ },
+ "Ivysaur": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Leech Seed",
+   "Sleep Powder",
+   "Substitute",
+   "Energy Ball"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/ivysaur/legends-z-a/"
+ },
+ "Venusaur": {
+  "nature": "Naive",
+  "plus": "Speed",
+  "minus": "Sp. Def",
+  "moves": [
+   "Giga Drain",
+   "Growth",
+   "Sludge Bomb",
+   "Earth Power"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Weather Ball → Earth Power)",
+  "url": "https://rankedboost.com/pokemon/venusaur/legends-z-a/"
+ },
+ "Charmander": {
+  "nature": "Mild",
+  "plus": "Sp. Atk",
+  "minus": "Defense",
+  "moves": [
+   "Flamethrower",
+   "Facade",
+   "Flare Blitz",
+   "Will-O-Wisp"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: item Flame Plate isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/charmander/legends-z-a/"
+ },
+ "Charmeleon": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Will-O-Wisp",
+   "Rock Slide",
+   "Flamethrower",
+   "Dragon Pulse"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/charmeleon/legends-z-a/"
+ },
+ "Charizard": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Flamethrower",
+   "Solar Beam",
+   "Air Slash",
+   "Scorching Sands"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: item Choice Specs isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/charizard/legends-z-a/"
+ },
+ "Squirtle": {
+  "nature": "Hardy",
+  "plus": "—",
+  "minus": "—",
+  "moves": [
+   "Aqua Jet",
+   "Ice Beam",
+   "Dragon Pulse",
+   "Mud Shot"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Rain Dance, Rapid Spin → Dragon Pulse, Mud Shot)",
+  "url": "https://rankedboost.com/pokemon/squirtle/legends-z-a/"
+ },
+ "Wartortle": {
+  "nature": "Relaxed",
+  "plus": "Defense",
+  "minus": "Speed",
+  "moves": [
+   "Flip Turn",
+   "Body Slam",
+   "Blizzard",
+   "Dragon Pulse"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Rapid Spin, Shell Smash → Blizzard, Dragon Pulse; item Eject Pack isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/wartortle/legends-z-a/"
+ },
+ "Blastoise": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Ice Beam",
+   "Surf",
+   "Focus Blast",
+   "Dragon Pulse"
+  ],
+  "item": "White Herb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Shell Smash, Rapid Spin → Focus Blast, Dragon Pulse)",
+  "url": "https://rankedboost.com/pokemon/blastoise/legends-z-a/"
+ },
+ "Stunfisk": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Earth Power",
+   "Thunderbolt",
+   "Stealth Rock",
+   "Scald"
+  ],
+  "item": "Assault Vest",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/stunfisk/legends-z-a/"
+ },
+ "Furfrou": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Cotton Guard",
+   "Facade",
+   "Zen Headbutt",
+   "Iron Tail"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Toxic → Iron Tail)",
+  "url": "https://rankedboost.com/pokemon/furfrou/legends-z-a/"
+ },
+ "Inkay": {
+  "nature": "Hardy",
+  "plus": "—",
+  "minus": "—",
+  "moves": [
+   "Topsy-Turvy",
+   "Protect",
+   "Flamethrower",
+   "Night Slash"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Disable → Night Slash)",
+  "url": "https://rankedboost.com/pokemon/inkay/legends-z-a/"
+ },
+ "Malamar": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Knock Off",
+   "Psycho Cut",
+   "Topsy-Turvy",
+   "Close Combat"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Superpower → Close Combat)",
+  "url": "https://rankedboost.com/pokemon/malamar/legends-z-a/"
+ },
+ "Skrelp": {
+  "nature": "Relaxed",
+  "plus": "Defense",
+  "minus": "Speed",
+  "moves": [
+   "Toxic Spikes",
+   "Sludge Wave",
+   "Hydro Pump",
+   "Thunderbolt"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Dragon Tail, Venoshock, Whirlpool → Sludge Wave, Hydro Pump, Thunderbolt)",
+  "url": "https://rankedboost.com/pokemon/skrelp/legends-z-a/"
+ },
+ "Dragalge": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Draco Meteor",
+   "Flip Turn",
+   "Sludge Bomb",
+   "Toxic Spikes"
+  ],
+  "item": "Assault Vest",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/dragalge/legends-z-a/"
+ },
+ "Clauncher": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Dragon Pulse",
+   "Dark Pulse",
+   "Water Pulse",
+   "Aura Sphere"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: item Choice Specs isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/clauncher/legends-z-a/"
+ },
+ "Clawitzer": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Water Pulse",
+   "Dark Pulse",
+   "Dragon Pulse",
+   "Aura Sphere"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: item Choice Specs isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/clawitzer/legends-z-a/"
+ },
+ "Goomy": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Draco Meteor",
+   "Thunderbolt",
+   "Chilling Water",
+   "Sludge Bomb"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Sludge Wave → Sludge Bomb)",
+  "url": "https://rankedboost.com/pokemon/goomy/legends-z-a/"
+ },
+ "Sliggoo": {
+  "nature": "Sassy",
+  "plus": "Sp. Def",
+  "minus": "Speed",
+  "moves": [
+   "Toxic",
+   "Draco Meteor",
+   "Rock Slide",
+   "Blizzard"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Rest → Blizzard)",
+  "url": "https://rankedboost.com/pokemon/sliggoo/legends-z-a/"
+ },
+ "Goodra": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Ice Beam",
+   "Draco Meteor",
+   "Flamethrower",
+   "Dragon Pulse"
+  ],
+  "item": "Assault Vest",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/goodra/legends-z-a/"
+ },
+ "Delibird": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Ice Shard",
+   "Aerial Ace",
+   "Fake Out",
+   "Water Pulse"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Rapid Spin → Water Pulse)",
+  "url": "https://rankedboost.com/pokemon/delibird/legends-z-a/"
+ },
+ "Snorunt": {
+  "nature": "Rash",
+  "plus": "Sp. Atk",
+  "minus": "Sp. Def",
+  "moves": [
+   "Substitute",
+   "Ice Shard",
+   "Shadow Ball",
+   "Water Pulse"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Weather Ball, Rain Dance → Shadow Ball, Water Pulse)",
+  "url": "https://rankedboost.com/pokemon/snorunt/legends-z-a/"
+ },
+ "Glalie": {
+  "nature": "Calm",
+  "plus": "Sp. Def",
+  "minus": "Attack",
+  "moves": [
+   "Spikes",
+   "Freeze-Dry",
+   "Ice Shard",
+   "Earthquake"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/glalie/legends-z-a/"
+ },
+ "Froslass": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Spikes",
+   "Ice Beam",
+   "Shadow Ball",
+   "Thunder"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Destiny Bond → Thunder)",
+  "url": "https://rankedboost.com/pokemon/froslass/legends-z-a/"
+ },
+ "Snover": {
+  "nature": "Hardy",
+  "plus": "—",
+  "minus": "—",
+  "moves": [
+   "Icy Wind",
+   "Wood Hammer",
+   "Water Pulse",
+   "Protect"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Ingrain, Snowscape → Water Pulse, Protect; item Icy Rock isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/snover/legends-z-a/"
+ },
+ "Abomasnow": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Blizzard",
+   "Giga Drain",
+   "Leech Seed",
+   "Focus Blast"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Aurora Veil → Focus Blast; item Icy Rock isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/abomasnow/legends-z-a/"
+ },
+ "Bergmite": {
+  "nature": "Hardy",
+  "plus": "—",
+  "minus": "—",
+  "moves": [
+   "Protect",
+   "Ice Fang",
+   "Double-Edge",
+   "Stone Edge"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Mirror Coat, Rain Dance, Rapid Spin → Ice Fang, Double-Edge, Stone Edge; item Damp Rock isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/bergmite/legends-z-a/"
+ },
+ "Avalugg": {
+  "nature": "Impish",
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Recover",
+   "Icicle Crash",
+   "Double-Edge",
+   "Stone Edge"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Body Press, Rapid Spin, Avalanche → Icicle Crash, Double-Edge, Stone Edge; item Heavy Duty Boots isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/avalugg/legends-z-a/"
+ },
+ "Scyther": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Dual Wingbeat",
+   "Swords Dance",
+   "Close Combat",
+   "Quick Attack"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/scyther/legends-z-a/"
+ },
+ "Scizor": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Bullet Punch",
+   "Knock Off",
+   "U-turn",
+   "Close Combat"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: item Choice Band isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/scizor/legends-z-a/"
+ },
+ "Pinsir": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "X-Scissor",
+   "Swords Dance",
+   "Close Combat",
+   "Rock Slide"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/pinsir/legends-z-a/"
+ },
+ "Heracross": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Close Combat",
+   "Megahorn",
+   "Knock Off",
+   "Facade"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: item Flame Orb isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/heracross/legends-z-a/"
+ },
+ "Emolga": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Volt Switch",
+   "Air Slash",
+   "Energy Ball",
+   "Nuzzle"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/emolga/legends-z-a/"
+ },
+ "Hawlucha": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Swords Dance",
+   "Close Combat",
+   "Brave Bird",
+   "Stone Edge"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Acrobatics, Encore → Brave Bird, Stone Edge; item Grassy Seed isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/hawlucha/legends-z-a/"
+ },
+ "Phantump": {
+  "nature": "Sassy",
+  "plus": "Sp. Def",
+  "minus": "Speed",
+  "moves": [
+   "Leech Seed",
+   "Horn Leech",
+   "Shadow Claw",
+   "Poison Jab"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Ingrain, Sunny Day → Shadow Claw, Poison Jab; item Aguav Berry isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/phantump/legends-z-a/"
+ },
+ "Trevenant": {
+  "nature": "Brave",
+  "plus": "Attack",
+  "minus": "Speed",
+  "moves": [
+   "Leech Seed",
+   "Protect",
+   "Substitute",
+   "Shadow Claw"
+  ],
+  "item": "Sitrus Berry",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Poltergeist → Shadow Claw)",
+  "url": "https://rankedboost.com/pokemon/trevenant/legends-z-a/"
+ },
+ "Scraggy": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Drain Punch",
+   "Bulk Up",
+   "Crunch",
+   "Iron Tail"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Knock Off, Dragon Dance → Crunch, Iron Tail)",
+  "url": "https://rankedboost.com/pokemon/scraggy/legends-z-a/"
+ },
+ "Scrafty": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Drain Punch",
+   "Knock Off",
+   "Bulk Up",
+   "Double-Edge"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Dragon Dance → Double-Edge)",
+  "url": "https://rankedboost.com/pokemon/scrafty/legends-z-a/"
+ },
+ "Noibat": {
+  "nature": "Calm",
+  "plus": "Sp. Def",
+  "minus": "Attack",
+  "moves": [
+   "Super Fang",
+   "Hurricane",
+   "Draco Meteor",
+   "Heat Wave"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Defog, Roost, Toxic → Hurricane, Draco Meteor, Heat Wave)",
+  "url": "https://rankedboost.com/pokemon/noibat/legends-z-a/"
+ },
+ "Noivern": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Boomburst",
+   "Draco Meteor",
+   "Flamethrower",
+   "Hurricane"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Defog → Hurricane; item Choice Specs isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/noivern/legends-z-a/"
+ },
+ "Klefki": {
+  "nature": "Bold",
+  "plus": "Defense",
+  "minus": "Attack",
+  "moves": [
+   "Thunder Wave",
+   "Reflect",
+   "Light Screen",
+   "Spikes"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: item Light Clay isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/klefki/legends-z-a/"
+ },
+ "Litwick": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Flamethrower",
+   "Shadow Ball",
+   "Will-O-Wisp",
+   "Energy Ball"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/litwick/legends-z-a/"
+ },
+ "Lampent": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Calm Mind",
+   "Energy Ball",
+   "Flamethrower",
+   "Shadow Ball"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: item Heavy Duty Boots isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/lampent/legends-z-a/"
+ },
+ "Chandelure": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Shadow Ball",
+   "Energy Ball",
+   "Flamethrower",
+   "Calm Mind"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Trick → Calm Mind; item Choice Scarf isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/chandelure/legends-z-a/"
+ },
+ "Aerodactyl": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Dual Wingbeat",
+   "Stone Edge",
+   "Stealth Rock",
+   "Earthquake"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/aerodactyl/legends-z-a/"
+ },
+ "Tyrunt": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Stealth Rock",
+   "Earthquake",
+   "Stone Edge",
+   "Dragon Claw"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Dragon Tail, Toxic → Stone Edge, Dragon Claw)",
+  "url": "https://rankedboost.com/pokemon/tyrunt/legends-z-a/"
+ },
+ "Tyrantrum": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Head Smash",
+   "Earthquake",
+   "Outrage",
+   "Crunch"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: item Choice Scarf isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/tyrantrum/legends-z-a/"
+ },
+ "Amaura": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Meteor Beam",
+   "Blizzard",
+   "Calm Mind",
+   "Earth Power"
+  ],
+  "item": "Eviolite",
+  "note": "Made from base stats + Serebii's Z-A move list (no RankedBoost build)",
+  "url": ""
+ },
+ "Aurorus": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Blizzard",
+   "Ancient Power",
+   "Earth Power",
+   "Calm Mind"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Aurora Veil → Calm Mind)",
+  "url": "https://rankedboost.com/pokemon/aurorus/legends-z-a/"
+ },
+ "Onix": {
+  "nature": "Sassy",
+  "plus": "Sp. Def",
+  "minus": "Speed",
+  "moves": [
+   "Stealth Rock",
+   "Rock Tomb",
+   "Earthquake",
+   "Double-Edge"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Toxic, Sunny Day → Earthquake, Double-Edge)",
+  "url": "https://rankedboost.com/pokemon/onix/legends-z-a/"
+ },
+ "Steelix": {
+  "nature": "Hardy",
+  "plus": "—",
+  "minus": "—",
+  "moves": [
+   "Earthquake",
+   "Iron Defense",
+   "Iron Tail",
+   "Double-Edge"
+  ],
+  "item": "Rocky Helmet",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Body Press, Gyro Ball → Iron Tail, Double-Edge)",
+  "url": "https://rankedboost.com/pokemon/steelix/legends-z-a/"
+ },
+ "Aron": {
+  "nature": "Hardy",
+  "plus": "—",
+  "minus": "—",
+  "moves": [
+   "Protect",
+   "Iron Tail",
+   "Rock Slide",
+   "Double-Edge"
+  ],
+  "item": "Shell Bell",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Endeavor, Toxic, Sandstorm → Iron Tail, Rock Slide, Double-Edge)",
+  "url": "https://rankedboost.com/pokemon/aron/legends-z-a/"
+ },
+ "Lairon": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Iron Tail",
+   "Stone Edge",
+   "Double-Edge",
+   "Earthquake"
+  ],
+  "item": "Eviolite",
+  "note": "Made from base stats + Serebii's Z-A move list (no RankedBoost build)",
+  "url": ""
+ },
+ "Aggron": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Stealth Rock",
+   "Heavy Slam",
+   "Earthquake",
+   "Iron Tail"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Body Press → Iron Tail)",
+  "url": "https://rankedboost.com/pokemon/aggron/legends-z-a/"
+ },
+ "Helioptile": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Thunder",
+   "Swift",
+   "Surf",
+   "Dark Pulse"
+  ],
+  "item": "Eviolite",
+  "note": "Made from base stats + Serebii's Z-A move list (no RankedBoost build)",
+  "url": ""
+ },
+ "Heliolisk": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Hyper Voice",
+   "Volt Switch",
+   "Thunderbolt",
+   "Dragon Pulse"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: item Choice Specs isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/heliolisk/legends-z-a/"
+ },
+ "Pumpkaboo": {
+  "nature": "Bold",
+  "plus": "Defense",
+  "minus": "Attack",
+  "moves": [
+   "Trick-or-Treat",
+   "Curse",
+   "Dark Pulse",
+   "Shadow Sneak"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Destiny Bond → Shadow Sneak)",
+  "url": "https://rankedboost.com/pokemon/pumpkaboo/legends-z-a/"
+ },
+ "Gourgeist": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Trick-or-Treat",
+   "Shadow Sneak",
+   "Power Whip",
+   "Rock Slide"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Poltergeist → Rock Slide; item Ghostiumz isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/gourgeist/legends-z-a/"
+ },
+ "Larvitar": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Stone Edge",
+   "Facade",
+   "Outrage",
+   "Earthquake"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Dragon Dance → Earthquake; item Flame Orb isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/larvitar/legends-z-a/"
+ },
+ "Pupitar": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Earthquake",
+   "Stone Edge",
+   "Double-Edge",
+   "Crunch"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Dragon Dance, Rest → Double-Edge, Crunch)",
+  "url": "https://rankedboost.com/pokemon/pupitar/legends-z-a/"
+ },
+ "Tyranitar": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Knock Off",
+   "Stone Edge",
+   "Ice Punch",
+   "Double-Edge"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Low Kick → Double-Edge; item Choice Band isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/tyranitar/legends-z-a/"
+ },
+ "Froakie": {
+  "nature": "Hasty",
+  "plus": "Speed",
+  "minus": "Defense",
+  "moves": [
+   "Protect",
+   "Quick Attack",
+   "Hydro Pump",
+   "Ice Beam"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/froakie/legends-z-a/"
+ },
+ "Frogadier": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Spikes",
+   "Toxic Spikes",
+   "U-turn",
+   "Hydro Pump"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Switcheroo → Hydro Pump; item Choice Scarf isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/frogadier/legends-z-a/"
+ },
+ "Greninja": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Dark Pulse",
+   "Ice Beam",
+   "Water Shuriken",
+   "Surf"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/greninja/legends-z-a/"
+ },
+ "Falinks": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "No Retreat",
+   "Close Combat",
+   "Knock Off",
+   "Iron Head"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/falinks/legends-z-a/"
+ },
+ "Chespin": {
+  "nature": "Impish",
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Leech Seed",
+   "Drain Punch",
+   "Protect",
+   "Wood Hammer"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/chespin/legends-z-a/"
+ },
+ "Quilladin": {
+  "nature": "Impish",
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Spikes",
+   "Wood Hammer",
+   "Take Down",
+   "Iron Head"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Super Fang, Synthesis → Take Down, Iron Head)",
+  "url": "https://rankedboost.com/pokemon/quilladin/legends-z-a/"
+ },
+ "Chesnaught": {
+  "nature": "Impish",
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Knock Off",
+   "Iron Defense",
+   "Wood Hammer",
+   "Close Combat"
+  ],
+  "item": "Rocky Helmet",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Body Press, Synthesis → Wood Hammer, Close Combat)",
+  "url": "https://rankedboost.com/pokemon/chesnaught/legends-z-a/"
+ },
+ "Skarmory": {
+  "nature": "Bold",
+  "plus": "Defense",
+  "minus": "Attack",
+  "moves": [
+   "Spikes",
+   "Iron Defense",
+   "Magnet Bomb",
+   "Brave Bird"
+  ],
+  "item": "Rocky Helmet",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Roost, Body Press → Magnet Bomb, Brave Bird)",
+  "url": "https://rankedboost.com/pokemon/skarmory/legends-z-a/"
+ },
+ "Fennekin": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Flamethrower",
+   "Psychic",
+   "Will-O-Wisp",
+   "Calm Mind"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/fennekin/legends-z-a/"
+ },
+ "Braixen": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Calm Mind",
+   "Psychic",
+   "Flamethrower",
+   "Fire Blast"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/braixen/legends-z-a/"
+ },
+ "Delphox": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Flamethrower",
+   "Fire Blast",
+   "Nasty Plot",
+   "Psychic"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: item Heavy Duty Boots isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/delphox/legends-z-a/"
+ },
+ "Bagon": {
+  "nature": "Hardy",
+  "plus": "—",
+  "minus": "—",
+  "moves": [
+   "Focus Energy",
+   "Iron Defense",
+   "Double-Edge",
+   "Protect"
+  ],
+  "item": "Scope Lens",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/bagon/legends-z-a/"
+ },
+ "Shelgon": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Dragon Claw",
+   "Iron Head",
+   "Double-Edge",
+   "Crunch"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Dragon Dance, Temper Flare → Double-Edge, Crunch)",
+  "url": "https://rankedboost.com/pokemon/shelgon/legends-z-a/"
+ },
+ "Salamence": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Earthquake",
+   "Dual Wingbeat",
+   "Dragon Claw",
+   "Double-Edge"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Dragon Dance → Double-Edge; item Heavy Duty Boots isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/salamence/legends-z-a/"
+ },
+ "Kangaskhan": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Fake Out",
+   "Earthquake",
+   "Body Slam",
+   "Dynamic Punch"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Sucker Punch → Dynamic Punch)",
+  "url": "https://rankedboost.com/pokemon/kangaskhan/legends-z-a/"
+ },
+ "Drampa": {
+  "nature": "Bold",
+  "plus": "Defense",
+  "minus": "Attack",
+  "moves": [
+   "Dragon Pulse",
+   "Hyper Voice",
+   "Calm Mind",
+   "Focus Blast"
+  ],
+  "item": "",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Sleep Talk, Rest → Calm Mind, Focus Blast; item Nothing isn't in Z-A → none)",
+  "url": "https://rankedboost.com/pokemon/drampa/legends-z-a/"
+ },
+ "Beldum": {
+  "nature": "Brave",
+  "plus": "Attack",
+  "minus": "Speed",
+  "moves": [
+   "Iron Head",
+   "Zen Headbutt",
+   "Iron Defense",
+   "Headbutt"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Tera Blast → Headbutt)",
+  "url": "https://rankedboost.com/pokemon/beldum/legends-z-a/"
+ },
+ "Metang": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Bullet Punch",
+   "Zen Headbutt",
+   "Earthquake",
+   "Double-Edge"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Meteor Mash → Double-Edge)",
+  "url": "https://rankedboost.com/pokemon/metang/legends-z-a/"
+ },
+ "Metagross": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Earthquake",
+   "Bullet Punch",
+   "Psychic Fangs",
+   "Double-Edge"
+  ],
+  "item": "Assault Vest",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Meteor Mash → Double-Edge)",
+  "url": "https://rankedboost.com/pokemon/metagross/legends-z-a/"
+ },
+ "Xerneas": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Moonblast",
+   "Calm Mind",
+   "Focus Blast",
+   "Thunder"
+  ],
+  "item": "Life Orb",
+  "note": "Made from base stats + Serebii's Z-A move list (no RankedBoost build)",
+  "url": ""
+ },
+ "Yveltal": {
+  "nature": "Naive",
+  "plus": "Speed",
+  "minus": "Sp. Def",
+  "moves": [
+   "Oblivion Wing",
+   "Dark Pulse",
+   "Taunt",
+   "Focus Blast"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Sucker Punch → Focus Blast)",
+  "url": "https://rankedboost.com/pokemon/yveltal/legends-z-a/"
+ },
+ "Zygarde": {
+  "nature": "Impish",
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Thousand Arrows",
+   "Glare",
+   "Breaking Swipe",
+   "Stone Edge"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Coil, Rest → Breaking Swipe, Stone Edge)",
+  "url": "https://rankedboost.com/pokemon/zygarde/legends-z-a/"
+ },
+ "Diancie": {
+  "nature": "Quiet",
+  "plus": "Sp. Atk",
+  "minus": "Speed",
+  "moves": [
+   "Diamond Storm",
+   "Moonblast",
+   "Earth Power",
+   "Calm Mind"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Body Press → Calm Mind)",
+  "url": "https://rankedboost.com/pokemon/diancie/legends-z-a/"
+ },
+ "Mewtwo": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Psystrike",
+   "Aura Sphere",
+   "Nasty Plot",
+   "Fire Blast"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/mewtwo/legends-z-a/"
+ },
+ "Mankey": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Close Combat",
+   "U-turn",
+   "Earthquake",
+   "Bulk Up"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Assurance → Bulk Up; item Choice Scarf isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/mankey/legends-z-a/"
+ },
+ "Primeape": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Rage Fist",
+   "Bulk Up",
+   "Drain Punch",
+   "Taunt"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/primeape/legends-z-a/"
+ },
+ "Annihilape": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Rage Fist",
+   "Drain Punch",
+   "Bulk Up",
+   "Double-Edge"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/annihilape/legends-z-a/"
+ },
+ "Meowth": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Knock Off",
+   "Fake Out",
+   "Thunder Wave",
+   "Gunk Shot"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Endeavor → Gunk Shot)",
+  "url": "https://rankedboost.com/pokemon/meowth/legends-z-a/"
+ },
+ "Persian": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Fake Out",
+   "U-turn",
+   "Knock Off",
+   "Thunder Wave"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/persian/legends-z-a/"
+ },
+ "Perrserker": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Iron Head",
+   "Fake Out",
+   "Knock Off",
+   "U-turn"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: item Choice Band isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/perrserker/legends-z-a/"
+ },
+ "Farfetch'd": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Knock Off",
+   "Brave Bird",
+   "Swords Dance",
+   "Double-Edge"
+  ],
+  "item": "Leek",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Roost → Double-Edge)",
+  "url": "https://rankedboost.com/pokemon/farfetchd/legends-z-a/"
+ },
+ "Sirfetch'd": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "First Impression",
+   "Close Combat",
+   "Meteor Assault",
+   "Knock Off"
+  ],
+  "item": "Leek",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/sirfetchd/legends-z-a/"
+ },
+ "Cubone": {
+  "nature": "Brave",
+  "plus": "Attack",
+  "minus": "Speed",
+  "moves": [
+   "Protect",
+   "Earthquake",
+   "Thunder Punch",
+   "Double-Edge"
+  ],
+  "item": "Thick Club",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Belly Drum → Double-Edge)",
+  "url": "https://rankedboost.com/pokemon/cubone/legends-z-a/"
+ },
+ "Marowak": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Bonemerang",
+   "Stone Edge",
+   "Detect",
+   "Double-Edge"
+  ],
+  "item": "Thick Club",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Toxic → Double-Edge)",
+  "url": "https://rankedboost.com/pokemon/marowak/legends-z-a/"
+ },
+ "Porygon": {
+  "nature": "Sassy",
+  "plus": "Sp. Def",
+  "minus": "Speed",
+  "moves": [
+   "Recover",
+   "Thunderbolt",
+   "Ice Beam",
+   "Tri Attack"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/porygon/legends-z-a/"
+ },
+ "Porygon2": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Recover",
+   "Ice Beam",
+   "Tri Attack",
+   "Zap Cannon"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Trick Room → Zap Cannon)",
+  "url": "https://rankedboost.com/pokemon/porygon2/legends-z-a/"
+ },
+ "Porygon-Z": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Ice Beam",
+   "Tri Attack",
+   "Thunderbolt",
+   "Shadow Ball"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: item Choice Specs isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/porygon-z/legends-z-a/"
+ },
+ "Capsakid": {
+  "nature": "Mild",
+  "plus": "Sp. Atk",
+  "minus": "Defense",
+  "moves": [
+   "Energy Ball",
+   "Seed Bomb",
+   "Magical Leaf",
+   "Protect"
+  ],
+  "item": "",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Tera Blast → Protect; item Nothing isn't in Z-A → none)",
+  "url": "https://rankedboost.com/pokemon/capsakid/legends-z-a/"
+ },
+ "Scovillain": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Flamethrower",
+   "Solar Beam",
+   "Giga Drain",
+   "Growth"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/scovillain/legends-z-a/"
+ },
+ "Tinkatink": {
+  "nature": "Impish",
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Thunder Wave",
+   "Stealth Rock",
+   "Play Rough",
+   "Metal Claw"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Encore, Foul Play → Play Rough, Metal Claw)",
+  "url": "https://rankedboost.com/pokemon/tinkatink/legends-z-a/"
+ },
+ "Tinkatuff": {
+  "nature": "Impish",
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Stealth Rock",
+   "Knock Off",
+   "Thunder Wave",
+   "Play Rough"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Encore → Play Rough)",
+  "url": "https://rankedboost.com/pokemon/tinkatuff/legends-z-a/"
+ },
+ "Tinkaton": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Gigaton Hammer",
+   "Stealth Rock",
+   "Thunder Wave",
+   "Play Rough"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Encore → Play Rough; item Air Balloon isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/tinkaton/legends-z-a/"
+ },
+ "Cyclizar": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "U-turn",
+   "Knock Off",
+   "Draco Meteor",
+   "Double-Edge"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Rapid Spin → Double-Edge; item Heavy Duty Boots isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/cyclizar/legends-z-a/"
+ },
+ "Glimmet": {
+  "nature": "Bold",
+  "plus": "Defense",
+  "minus": "Attack",
+  "moves": [
+   "Stealth Rock",
+   "Toxic",
+   "Sludge Bomb",
+   "Spikes"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/glimmet/legends-z-a/"
+ },
+ "Glimmora": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Mortal Spin",
+   "Earth Power",
+   "Stealth Rock",
+   "Power Gem"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/glimmora/legends-z-a/"
+ },
+ "Rotom": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Volt Switch",
+   "Shadow Ball",
+   "Thunderbolt",
+   "Will-O-Wisp"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/rotom/legends-z-a/"
+ },
+ "Greavard": {
+  "nature": "Calm",
+  "plus": "Sp. Def",
+  "minus": "Attack",
+  "moves": [
+   "Charm",
+   "Protect",
+   "Shadow Sneak",
+   "Double-Edge"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Memento, Night Shade → Shadow Sneak, Double-Edge)",
+  "url": "https://rankedboost.com/pokemon/greavard/legends-z-a/"
+ },
+ "Houndstone": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Will-O-Wisp",
+   "Shadow Sneak",
+   "Play Rough",
+   "Double-Edge"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Poltergeist → Double-Edge)",
+  "url": "https://rankedboost.com/pokemon/houndstone/legends-z-a/"
+ },
+ "Sandygast": {
+  "nature": "Bold",
+  "plus": "Defense",
+  "minus": "Attack",
+  "moves": [
+   "Stealth Rock",
+   "Scorching Sands",
+   "Energy Ball",
+   "Shadow Ball"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Pain Split → Shadow Ball)",
+  "url": "https://rankedboost.com/pokemon/sandygast/legends-z-a/"
+ },
+ "Palossand": {
+  "nature": "Bold",
+  "plus": "Defense",
+  "minus": "Attack",
+  "moves": [
+   "Shore Up",
+   "Stealth Rock",
+   "Shadow Ball",
+   "Scorching Sands"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/palossand/legends-z-a/"
+ },
+ "Kecleon": {
+  "nature": "Impish",
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Drain Punch",
+   "Power-Up Punch",
+   "Ice Punch",
+   "Body Slam"
+  ],
+  "item": "Assault Vest",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Sucker Punch → Body Slam)",
+  "url": "https://rankedboost.com/pokemon/kecleon/legends-z-a/"
+ },
+ "Flamigo": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Close Combat",
+   "Brave Bird",
+   "U-turn",
+   "Swords Dance"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Upper Hand → Swords Dance; item Choice Scarf isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/flamigo/legends-z-a/"
+ },
+ "Cryogonal": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Freeze-Dry",
+   "Recover",
+   "Flash Cannon",
+   "Water Pulse"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Rapid Spin → Water Pulse; item Heavy Duty Boots isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/cryogonal/legends-z-a/"
+ },
+ "Dondozo": {
+  "nature": "Impish",
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Curse",
+   "Liquidation",
+   "Fissure",
+   "Double-Edge"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Rest, Sleep Talk, Body Press → Liquidation, Fissure, Double-Edge)",
+  "url": "https://rankedboost.com/pokemon/dondozo/legends-z-a/"
+ },
+ "Tatsugiri": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Surf",
+   "Nasty Plot",
+   "Draco Meteor",
+   "Ice Beam"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Rapid Spin → Ice Beam; item Heavy Duty Boots isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/tatsugiri/legends-z-a/"
+ },
+ "Frigibax": {
+  "nature": "Careful",
+  "plus": "Sp. Def",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Icicle Crash",
+   "Swords Dance",
+   "Outrage",
+   "Dragon Claw"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/frigibax/legends-z-a/"
+ },
+ "Arctibax": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Icicle Crash",
+   "Outrage",
+   "Swords Dance",
+   "Iron Head"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/arctibax/legends-z-a/"
+ },
+ "Baxcalibur": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Glaive Rush",
+   "Icicle Spear",
+   "Swords Dance",
+   "Double-Edge"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Dragon Dance, Dragon Dance → Swords Dance, Double-Edge; item Loaded Dice isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/baxcalibur/legends-z-a/"
+ },
+ "Gimmighoul": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Shadow Ball",
+   "Power Gem",
+   "Nasty Plot",
+   "Protect"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Tera Blast → Protect)",
+  "url": "https://rankedboost.com/pokemon/gimmighoul/legends-z-a/"
+ },
+ "Gholdengo": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Make It Rain",
+   "Shadow Ball",
+   "Nasty Plot",
+   "Recover"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: item Air Balloon isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/gholdengo/legends-z-a/"
+ },
+ "Qwilfish": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Toxic",
+   "Spikes",
+   "Gunk Shot",
+   "Liquidation"
+  ],
+  "item": "Scope Lens",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Fell Stinger → Liquidation; item Wide Lens isn't in Z-A → Scope Lens)",
+  "url": "https://rankedboost.com/pokemon/qwilfish/legends-z-a/"
+ },
+ "Overqwil": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Crunch",
+   "Liquidation",
+   "Gunk Shot",
+   "Barb Barrage"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/overqwil/legends-z-a/"
+ },
+ "Treecko": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Quick Attack",
+   "Leech Seed",
+   "Leaf Storm",
+   "Dragon Breath"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Endeavor → Dragon Breath)",
+  "url": "https://rankedboost.com/pokemon/treecko/legends-z-a/"
+ },
+ "Grovyle": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "X-Scissor",
+   "Substitute",
+   "Leech Seed",
+   "Seed Bomb"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/grovyle/legends-z-a/"
+ },
+ "Sceptile": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Leaf Blade",
+   "Swords Dance",
+   "Dragon Pulse",
+   "Earthquake"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/sceptile/legends-z-a/"
+ },
+ "Torchic": {
+  "nature": "Calm",
+  "plus": "Sp. Def",
+  "minus": "Attack",
+  "moves": [
+   "Flame Charge",
+   "Flamethrower",
+   "Body Slam",
+   "Fire Blast"
+  ],
+  "item": "",
+  "note": "RankedBoost (fixed for Z-A: item Nothing isn't in Z-A → none)",
+  "url": "https://rankedboost.com/pokemon/torchic/legends-z-a/"
+ },
+ "Combusken": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Protect",
+   "Swords Dance",
+   "Close Combat",
+   "Fire Punch"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/combusken/legends-z-a/"
+ },
+ "Blaziken": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Close Combat",
+   "Swords Dance",
+   "Flare Blitz",
+   "Protect"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/blaziken/legends-z-a/"
+ },
+ "Mudkip": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Blizzard",
+   "Hydro Pump",
+   "Earth Power",
+   "Sludge Bomb"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Yawn → Sludge Bomb)",
+  "url": "https://rankedboost.com/pokemon/mudkip/legends-z-a/"
+ },
+ "Marshtomp": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Liquidation",
+   "Earthquake",
+   "Stealth Rock",
+   "Double-Edge"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Endeavor → Double-Edge)",
+  "url": "https://rankedboost.com/pokemon/marshtomp/legends-z-a/"
+ },
+ "Swampert": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Earthquake",
+   "Flip Turn",
+   "Stealth Rock",
+   "Liquidation"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/swampert/legends-z-a/"
+ },
+ "Feebas": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Ice Beam",
+   "Light Screen",
+   "Whirlpool",
+   "Double-Edge"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Mirror Coat → Double-Edge)",
+  "url": "https://rankedboost.com/pokemon/feebas/legends-z-a/"
+ },
+ "Milotic": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Scald",
+   "Recover",
+   "Ice Beam",
+   "Haze"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/milotic/legends-z-a/"
+ },
+ "Chingling": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Psychic",
+   "Calm Mind",
+   "Energy Ball",
+   "Hyper Voice"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Recover, Cosmic Power, Stored Power, Baton Pass → Psychic, Calm Mind, Energy Ball, Hyper Voice)",
+  "url": "https://rankedboost.com/pokemon/chingling/legends-z-a/"
+ },
+ "Chimecho": {
+  "nature": "Hardy",
+  "plus": "—",
+  "minus": "—",
+  "moves": [
+   "Psychic",
+   "Calm Mind",
+   "Boomburst",
+   "Meteor Beam"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Cosmic Power, Stored Power, Recover, Heal Bell → Psychic, Calm Mind, Boomburst, Meteor Beam)",
+  "url": "https://rankedboost.com/pokemon/chimecho/legends-z-a/"
+ },
+ "Indeedee": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Dazzling Gleam",
+   "Psychic",
+   "Hyper Voice",
+   "Calm Mind"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Expanding Force, Healing Wish, Encore → Psychic, Hyper Voice, Calm Mind; item Terrain Extender isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/indeedee/legends-z-a/"
+ },
+ "Purrloin": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Thunder Wave",
+   "Fake Out",
+   "Taunt",
+   "Night Slash"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Encore → Night Slash)",
+  "url": "https://rankedboost.com/pokemon/purrloin/legends-z-a/"
+ },
+ "Liepard": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Dark Pulse",
+   "Nasty Plot",
+   "Thunder Wave",
+   "Hyper Voice"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Encore → Hyper Voice)",
+  "url": "https://rankedboost.com/pokemon/liepard/legends-z-a/"
+ },
+ "Munna": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Psychic",
+   "Calm Mind",
+   "Moonblast",
+   "Energy Ball"
+  ],
+  "item": "Eviolite",
+  "note": "Made from base stats + Serebii's Z-A move list (no RankedBoost build)",
+  "url": ""
+ },
+ "Musharna": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Calm Mind",
+   "Moonlight",
+   "Psychic",
+   "Dream Eater"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/musharna/legends-z-a/"
+ },
+ "Throh": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Storm Throw",
+   "Circle Throw",
+   "Facade",
+   "Bulk Up"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Knock Off → Bulk Up; item Flame Orb isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/throh/legends-z-a/"
+ },
+ "Sawk": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Close Combat",
+   "Knock Off",
+   "Stone Edge",
+   "Swords Dance"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Reversal → Swords Dance; item Salac Berry isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/sawk/legends-z-a/"
+ },
+ "Yamask": {
+  "nature": "Relaxed",
+  "plus": "Defense",
+  "minus": "Speed",
+  "moves": [
+   "Will-O-Wisp",
+   "Knock Off",
+   "Toxic Spikes",
+   "Shadow Ball"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Hex → Shadow Ball)",
+  "url": "https://rankedboost.com/pokemon/yamask/legends-z-a/"
+ },
+ "Cofagrigus": {
+  "nature": "Bold",
+  "plus": "Defense",
+  "minus": "Attack",
+  "moves": [
+   "Will-O-Wisp",
+   "Shadow Ball",
+   "Energy Ball",
+   "Psychic"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Hex, Pain Split, Toxic → Shadow Ball, Energy Ball, Psychic)",
+  "url": "https://rankedboost.com/pokemon/cofagrigus/legends-z-a/"
+ },
+ "Runerigus": {
+  "nature": "Hardy",
+  "plus": "—",
+  "minus": "—",
+  "moves": [
+   "Earthquake",
+   "Stealth Rock",
+   "Shadow Claw",
+   "Stone Edge"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Body Press, Poltergeist → Shadow Claw, Stone Edge)",
+  "url": "https://rankedboost.com/pokemon/runerigus/legends-z-a/"
+ },
+ "Wimpod": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Waterfall",
+   "Protect",
+   "Facade",
+   "Spikes"
+  ],
+  "item": "Eviolite",
+  "note": "Made from base stats + Serebii's Z-A move list (no RankedBoost build)",
+  "url": ""
+ },
+ "Golisopod": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "First Impression",
+   "Liquidation",
+   "Leech Life",
+   "Aqua Jet"
+  ],
+  "item": "Sitrus Berry",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/golisopod/legends-z-a/"
+ },
+ "Nickit": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Dark Pulse",
+   "Nasty Plot",
+   "Swift",
+   "Mud Shot"
+  ],
+  "item": "Eviolite",
+  "note": "Made from base stats + Serebii's Z-A move list (no RankedBoost build)",
+  "url": ""
+ },
+ "Thievul": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Dark Pulse",
+   "Nasty Plot",
+   "Psychic",
+   "Shadow Ball"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Burning Jealousy → Shadow Ball)",
+  "url": "https://rankedboost.com/pokemon/thievul/legends-z-a/"
+ },
+ "Clobbopus": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Ice Punch",
+   "Liquidation",
+   "Power-Up Punch",
+   "Brick Break"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/clobbopus/legends-z-a/"
+ },
+ "Grapploct": {
+  "nature": "Brave",
+  "plus": "Attack",
+  "minus": "Speed",
+  "moves": [
+   "Drain Punch",
+   "Muddy Water",
+   "Bulk Up",
+   "Body Slam"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Sucker Punch, Stomping Tantrum → Bulk Up, Body Slam)",
+  "url": "https://rankedboost.com/pokemon/grapploct/legends-z-a/"
+ },
+ "Mimikyu": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Play Rough",
+   "Shadow Sneak",
+   "Swords Dance",
+   "Shadow Claw"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: item Red Card isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/mimikyu/legends-z-a/"
+ },
+ "Kleavor": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Stone Axe",
+   "X-Scissor",
+   "U-turn",
+   "Close Combat"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: item Choice Scarf isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/kleavor/legends-z-a/"
+ },
+ "Morpeko": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Aura Wheel",
+   "Parting Shot",
+   "Knock Off",
+   "Double-Edge"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Rapid Spin → Double-Edge; item Heavy Duty Boots isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/morpeko/legends-z-a/"
+ },
+ "Golett": {
+  "nature": "Brave",
+  "plus": "Attack",
+  "minus": "Speed",
+  "moves": [
+   "Curse",
+   "Brick Break",
+   "Shadow Ball",
+   "Earthquake"
+  ],
+  "item": "Rocky Helmet",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/golett/legends-z-a/"
+ },
+ "Golurk": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Earthquake",
+   "Dynamic Punch",
+   "Ice Punch",
+   "Shadow Punch"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Poltergeist → Shadow Punch; item Choice Band isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/golurk/legends-z-a/"
+ },
+ "Rookidee": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Brave Bird",
+   "Take Down",
+   "U-turn",
+   "Rock Smash"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Drill Peck, Tailwind, Defog → Take Down, U-turn, Rock Smash)",
+  "url": "https://rankedboost.com/pokemon/rookidee/legends-z-a/"
+ },
+ "Corvisquire": {
+  "nature": "Sassy",
+  "plus": "Sp. Def",
+  "minus": "Speed",
+  "moves": [
+   "U-turn",
+   "Taunt",
+   "Brave Bird",
+   "Take Down"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Tailwind, Defog → Brave Bird, Take Down)",
+  "url": "https://rankedboost.com/pokemon/corvisquire/legends-z-a/"
+ },
+ "Corviknight": {
+  "nature": "Impish",
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "moves": [
+   "U-turn",
+   "Brave Bird",
+   "Magnet Bomb",
+   "Bulk Up"
+  ],
+  "item": "Rocky Helmet",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Roost, Defog, Body Press → Brave Bird, Magnet Bomb, Bulk Up)",
+  "url": "https://rankedboost.com/pokemon/corviknight/legends-z-a/"
+ },
+ "Igglybuff": {
+  "nature": "Mild",
+  "plus": "Sp. Atk",
+  "minus": "Defense",
+  "moves": [
+   "Thunder Wave",
+   "Draining Kiss",
+   "Hyper Voice",
+   "Fire Blast"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Heal Pulse, Disable → Hyper Voice, Fire Blast)",
+  "url": "https://rankedboost.com/pokemon/igglybuff/legends-z-a/"
+ },
+ "Jigglypuff": {
+  "nature": "Bold",
+  "plus": "Defense",
+  "minus": "Attack",
+  "moves": [
+   "Calm Mind",
+   "Draining Kiss",
+   "Hyper Voice",
+   "Wish"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/jigglypuff/legends-z-a/"
+ },
+ "Wigglytuff": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Fire Blast",
+   "Ice Beam",
+   "Thunderbolt",
+   "Hyper Voice"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Alluring Voice → Hyper Voice)",
+  "url": "https://rankedboost.com/pokemon/wigglytuff/legends-z-a/"
+ },
+ "Fidough": {
+  "nature": "Impish",
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Play Rough",
+   "Wish",
+   "Protect",
+   "Double-Edge"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Yawn → Double-Edge)",
+  "url": "https://rankedboost.com/pokemon/fidough/legends-z-a/"
+ },
+ "Dachsbun": {
+  "nature": "Impish",
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Play Rough",
+   "Wish",
+   "Protect",
+   "Double-Edge"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Body Press → Double-Edge)",
+  "url": "https://rankedboost.com/pokemon/dachsbun/legends-z-a/"
+ },
+ "Starly": {
+  "nature": "Lonely",
+  "plus": "Attack",
+  "minus": "Defense",
+  "moves": [
+   "Quick Attack",
+   "Protect",
+   "Brave Bird",
+   "U-turn"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Endeavor, Rest → Brave Bird, U-turn)",
+  "url": "https://rankedboost.com/pokemon/starly/legends-z-a/"
+ },
+ "Staravia": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Quick Attack",
+   "Brave Bird",
+   "Double-Edge",
+   "U-turn"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: item Choice Band isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/staravia/legends-z-a/"
+ },
+ "Staraptor": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Brave Bird",
+   "Close Combat",
+   "U-turn",
+   "Double-Edge"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: item Choice Scarf isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/staraptor/legends-z-a/"
+ },
+ "Spoink": {
+  "nature": "Bold",
+  "plus": "Defense",
+  "minus": "Attack",
+  "moves": [
+   "Psychic",
+   "Thunder Wave",
+   "Whirlwind",
+   "Power Gem"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Night Shade → Power Gem)",
+  "url": "https://rankedboost.com/pokemon/spoink/legends-z-a/"
+ },
+ "Grumpig": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Psychic",
+   "Calm Mind",
+   "Shadow Ball",
+   "Earth Power"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/grumpig/legends-z-a/"
+ },
+ "Squawkabilly": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Brave Bird",
+   "Quick Attack",
+   "Parting Shot",
+   "Lunge"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Tailwind → Lunge; item Choice Scarf isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/squawkabilly/legends-z-a/"
+ },
+ "Crabrawler": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Drain Punch",
+   "Thunder Punch",
+   "Bulk Up",
+   "Ice Punch"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/crabrawler/legends-z-a/"
+ },
+ "Crabominable": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Ice Hammer",
+   "Drain Punch",
+   "Thunder Punch",
+   "Earthquake"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/crabominable/legends-z-a/"
+ },
+ "Nacli": {
+  "nature": "Careful",
+  "plus": "Sp. Def",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Recover",
+   "Earthquake",
+   "Stealth Rock",
+   "Stone Edge"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/nacli/legends-z-a/"
+ },
+ "Naclstack": {
+  "nature": "Impish",
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Salt Cure",
+   "Recover",
+   "Protect",
+   "Fissure"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Body Press → Fissure)",
+  "url": "https://rankedboost.com/pokemon/naclstack/legends-z-a/"
+ },
+ "Garganacl": {
+  "nature": "Careful",
+  "plus": "Sp. Def",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Salt Cure",
+   "Recover",
+   "Protect",
+   "Stealth Rock"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/garganacl/legends-z-a/"
+ },
+ "Gulpin": {
+  "nature": "Calm",
+  "plus": "Sp. Def",
+  "minus": "Attack",
+  "moves": [
+   "Toxic",
+   "Protect",
+   "Sludge Wave",
+   "Ice Beam"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Destiny Bond, Mud Slap → Sludge Wave, Ice Beam)",
+  "url": "https://rankedboost.com/pokemon/gulpin/legends-z-a/"
+ },
+ "Swalot": {
+  "nature": "Sassy",
+  "plus": "Sp. Def",
+  "minus": "Speed",
+  "moves": [
+   "Toxic",
+   "Sludge Bomb",
+   "Ice Beam",
+   "Shadow Ball"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Body Press, Destiny Bond → Ice Beam, Shadow Ball; item Black Sludge isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/swalot/legends-z-a/"
+ },
+ "Zubat": {
+  "nature": "Careful",
+  "plus": "Sp. Def",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Haze",
+   "Quick Attack",
+   "Protect",
+   "Poison Fang"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Toxic → Poison Fang)",
+  "url": "https://rankedboost.com/pokemon/zubat/legends-z-a/"
+ },
+ "Golbat": {
+  "nature": "Impish",
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "moves": [
+   "U-turn",
+   "Poison Fang",
+   "Wing Attack",
+   "Crunch"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Brave Bird, Roost, Defog → Poison Fang, Wing Attack, Crunch)",
+  "url": "https://rankedboost.com/pokemon/golbat/legends-z-a/"
+ },
+ "Crobat": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Brave Bird",
+   "U-turn",
+   "Poison Fang",
+   "Psychic Fangs"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Defog, Roost → Poison Fang, Psychic Fangs; item Heavy Duty Boots isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/crobat/legends-z-a/"
+ },
+ "Charcadet": {
+  "nature": "Calm",
+  "plus": "Sp. Def",
+  "minus": "Attack",
+  "moves": [
+   "Will-O-Wisp",
+   "Flamethrower",
+   "Fire Spin",
+   "Ominous Wind"
+  ],
+  "item": "Shell Bell",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Destiny Bond → Ominous Wind)",
+  "url": "https://rankedboost.com/pokemon/charcadet/legends-z-a/"
+ },
+ "Armarouge": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Armor Cannon",
+   "Calm Mind",
+   "Endure",
+   "Psychic"
+  ],
+  "item": "Weakness Policy",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Expanding Force → Psychic)",
+  "url": "https://rankedboost.com/pokemon/armarouge/legends-z-a/"
+ },
+ "Ceruledge": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Bitter Blade",
+   "Swords Dance",
+   "Shadow Sneak",
+   "Close Combat"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Poltergeist → Close Combat)",
+  "url": "https://rankedboost.com/pokemon/ceruledge/legends-z-a/"
+ },
+ "Maschiff": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Crunch",
+   "Play Rough",
+   "Trailblaze",
+   "Psychic Fangs"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/maschiff/legends-z-a/"
+ },
+ "Mabosstiff": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Crunch",
+   "Play Rough",
+   "Psychic Fangs",
+   "Double-Edge"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Destiny Bond → Double-Edge; item Choice Band isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/mabosstiff/legends-z-a/"
+ },
+ "Toxel": {
+  "nature": "Mild",
+  "plus": "Sp. Atk",
+  "minus": "Defense",
+  "moves": [
+   "Nuzzle",
+   "Protect",
+   "Substitute"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Tera Blast, Acid, Metal Sound → Protect, Substitute; item Air Balloon isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/toxel/legends-z-a/"
+ },
+ "Toxtricity": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Boomburst",
+   "Overdrive",
+   "Volt Switch",
+   "Sludge Wave"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: item Throat Spray isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/toxtricity/legends-z-a/"
+ },
+ "Shroodle": {
+  "nature": "Brave",
+  "plus": "Attack",
+  "minus": "Speed",
+  "moves": [
+   "Toxic",
+   "Dig",
+   "Gunk Shot",
+   "Double-Edge"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Copycat, Encore → Gunk Shot, Double-Edge; item Air Balloon isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/shroodle/legends-z-a/"
+ },
+ "Grafaiai": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Knock Off",
+   "Parting Shot",
+   "Toxic",
+   "Gunk Shot"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Encore → Gunk Shot; item Choice Band isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/grafaiai/legends-z-a/"
+ },
+ "Zangoose": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Facade",
+   "Knock Off",
+   "Quick Attack",
+   "Close Combat"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: item Toxic Orb isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/zangoose/legends-z-a/"
+ },
+ "Seviper": {
+  "nature": "Naive",
+  "plus": "Speed",
+  "minus": "Sp. Def",
+  "moves": [
+   "Glare",
+   "Flamethrower",
+   "Dark Pulse",
+   "Sludge Bomb"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Switcheroo → Sludge Bomb; item Choice Scarf isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/seviper/legends-z-a/"
+ },
+ "Mime Jr.": {
+  "nature": "Calm",
+  "plus": "Sp. Def",
+  "minus": "Attack",
+  "moves": [
+   "Protect",
+   "Thunder Wave",
+   "Light Screen",
+   "Psychic"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Healing Wish → Psychic)",
+  "url": "https://rankedboost.com/pokemon/mime-jr/legends-z-a/"
+ },
+ "Mr. Mime": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Psychic",
+   "Dazzling Gleam",
+   "Reflect",
+   "Light Screen"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: item Light Clay isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/mr-mime/legends-z-a/"
+ },
+ "Mr. Rime": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Freeze-Dry",
+   "Psychic",
+   "Ice Beam",
+   "Nasty Plot"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Rapid Spin → Nasty Plot; item Heavy Duty Boots isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/mr-rime/legends-z-a/"
+ },
+ "Foongus": {
+  "nature": "Relaxed",
+  "plus": "Defense",
+  "minus": "Speed",
+  "moves": [
+   "Protect",
+   "Toxic",
+   "Leaf Storm",
+   "Sludge Bomb"
+  ],
+  "item": "Eviolite",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Foul Play, Venoshock → Leaf Storm, Sludge Bomb)",
+  "url": "https://rankedboost.com/pokemon/foongus/legends-z-a/"
+ },
+ "Amoonguss": {
+  "nature": "Bold",
+  "plus": "Defense",
+  "minus": "Attack",
+  "moves": [
+   "Toxic",
+   "Giga Drain",
+   "Sludge Bomb",
+   "Dazzling Gleam"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Clear Smog, Foul Play → Sludge Bomb, Dazzling Gleam; item Heavy Duty Boots isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/amoonguss/legends-z-a/"
+ },
+ "Heatran": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Earth Power",
+   "Magma Storm",
+   "Stealth Rock",
+   "Taunt"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/heatran/legends-z-a/"
+ },
+ "Volcanion": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Steam Eruption",
+   "Flamethrower",
+   "Earth Power",
+   "Sludge Bomb"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: item Choice Specs isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/volcanion/legends-z-a/"
+ },
+ "Cobalion": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Stealth Rock",
+   "Taunt",
+   "Steel Beam",
+   "Focus Blast"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Body Press → Focus Blast)",
+  "url": "https://rankedboost.com/pokemon/cobalion/legends-z-a/"
+ },
+ "Terrakion": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Close Combat",
+   "Stone Edge",
+   "Earthquake",
+   "Swords Dance"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/terrakion/legends-z-a/"
+ },
+ "Virizion": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Leaf Blade",
+   "Stone Edge",
+   "Swords Dance",
+   "Close Combat"
+  ],
+  "item": "Lum Berry",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/virizion/legends-z-a/"
+ },
+ "Keldeo": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Surf",
+   "Secret Sword",
+   "Vacuum Wave",
+   "Flip Turn"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: item Choice Specs isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/keldeo/legends-z-a/"
+ },
+ "Meloetta": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Psychic",
+   "Shadow Ball",
+   "Relic Song",
+   "Thunderbolt"
+  ],
+  "item": "Assault Vest",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/meloetta/legends-z-a/"
+ },
+ "Genesect": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "U-turn",
+   "Techno Blast",
+   "Iron Head",
+   "Gunk Shot"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Extreme Speed → Gunk Shot; item Choice Scarf isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/genesect/legends-z-a/"
+ },
+ "Hoopa": {
+  "nature": "Quiet",
+  "plus": "Sp. Atk",
+  "minus": "Speed",
+  "moves": [
+   "Shadow Ball",
+   "Psychic",
+   "Focus Blast",
+   "Psyshock"
+  ],
+  "item": "Assault Vest",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/hoopa/legends-z-a/"
+ },
+ "Marshadow": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Spectral Thief",
+   "Shadow Sneak",
+   "Close Combat",
+   "Bulk Up"
+  ],
+  "item": "Focus Sash",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/marshadow/legends-z-a/"
+ },
+ "Meltan": {
+  "nature": "Relaxed",
+  "plus": "Defense",
+  "minus": "Speed",
+  "moves": [
+   "Tail Whip",
+   "Protect",
+   "Magnet Bomb",
+   "Headbutt"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Toxic, Gyro Ball → Magnet Bomb, Headbutt)",
+  "url": "https://rankedboost.com/pokemon/meltan/legends-z-a/"
+ },
+ "Melmetal": {
+  "nature": "Brave",
+  "plus": "Attack",
+  "minus": "Speed",
+  "moves": [
+   "Double Iron Bash",
+   "Earthquake",
+   "Thunder Punch",
+   "Ice Punch"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: item Choice Band isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/melmetal/legends-z-a/"
+ },
+ "Darkrai": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Dark Pulse",
+   "Ice Beam",
+   "Sludge Bomb",
+   "Nasty Plot"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: item Heavy Duty Boots isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/darkrai/legends-z-a/"
+ },
+ "Latias": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Calm Mind",
+   "Aura Sphere",
+   "Recover",
+   "Draco Meteor"
+  ],
+  "item": "Weakness Policy",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Stored Power → Draco Meteor)",
+  "url": "https://rankedboost.com/pokemon/latias/legends-z-a/"
+ },
+ "Latios": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Draco Meteor",
+   "Luster Purge",
+   "Calm Mind",
+   "Recover"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: item Soul Dew isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/latios/legends-z-a/"
+ },
+ "Kyogre": {
+  "nature": "Timid",
+  "plus": "Speed",
+  "minus": "Attack",
+  "moves": [
+   "Ice Beam",
+   "Thunder",
+   "Origin Pulse",
+   "Calm Mind"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: item Choice Scarf isn't in Z-A → Life Orb)",
+  "url": "https://rankedboost.com/pokemon/kyogre/legends-z-a/"
+ },
+ "Groudon": {
+  "nature": "Adamant",
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Precipice Blades",
+   "Stealth Rock",
+   "Double-Edge",
+   "Stone Edge"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost (fixed for Z-A: item Heat Rock isn't in Z-A → Leftovers)",
+  "url": "https://rankedboost.com/pokemon/groudon/legends-z-a/"
+ },
+ "Rayquaza": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Dragon Ascent",
+   "Extreme Speed",
+   "Draco Meteor",
+   "Overheat"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/rayquaza/legends-z-a/"
+ },
+ "Magearna": {
+  "nature": "Modest",
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "moves": [
+   "Fleur Cannon",
+   "Draining Kiss",
+   "Flash Cannon",
+   "Calm Mind"
+  ],
+  "item": "Leftovers",
+  "note": "RankedBoost",
+  "url": "https://rankedboost.com/pokemon/magearna/legends-z-a/"
+ },
+ "Zeraora": {
+  "nature": "Jolly",
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "moves": [
+   "Plasma Fists",
+   "Close Combat",
+   "Play Rough",
+   "Bulk Up"
+  ],
+  "item": "Life Orb",
+  "note": "RankedBoost (fixed for Z-A: not learnable in Z-A: Knock Off → Bulk Up)",
+  "url": "https://rankedboost.com/pokemon/zeraora/legends-z-a/"
+ }
+}

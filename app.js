@@ -295,6 +295,9 @@
       ${form.moves.length ? `<div class="moves">${form.moves.map((m) => `<div>${esc(m)}</div>`).join("")}</div>` : `<p class="none">No moveset in the sheet yet for this form.</p>`}
       ${form.item ? `<p class="item">Held item: <b>${esc(form.item)}</b></p>` : ""}
       ${sp.alphaMove && !form.mega && !sp.legendary ? `<p class="item${alpha ? " alpha-hl" : ""}">Alphas always know: <b>${esc(sp.alphaMove)}</b></p>` : ""}
+      ${sp.build ? `<p class="auto-note" style="margin-top:8px">Build: ${sp.build.url
+        ? `<a href="${esc(sp.build.url)}" target="_blank" rel="noopener">${esc(sp.build.note)} ↗</a>`
+        : esc(sp.build.note)}. Every move checked against Serebii's Z-A move list.</p>` : ""}
     </div>`;
 
     // Where to find / how to evolve — from Serebii; the sheet's own note is shown under it
@@ -314,7 +317,7 @@
       ${lines.length ? `<ul class="info-lines">${lines.map((l) => `<li><span class="lbl">${esc(l.label)}</span>${esc(l.text)}</li>`).join("")}</ul>`
         : `<p class="none">Serebii doesn't list this one.</p>`}
       ${sheetNote ? `<details class="sheet-note"><summary>Your sheet's note</summary><p>${esc(sheetNote).replace(/\n/g, "<br>")}</p></details>` : ""}
-      ${form.auto ? `<p class="auto-note" style="margin-top:6px">This form isn't in your sheet yet — it was added automatically. Nature copied from the main form.</p>` : ""}
+      ${form.auto ? `<p class="auto-note" style="margin-top:6px">This form isn't in your sheet yet — it was added automatically. Build copied from the main form.</p>` : ""}
       <p class="auto-note" style="margin-top:8px">Source: <a href="${esc(sp.serebii)}" target="_blank" rel="noopener">${esc(sp.name)} on Serebii.net ↗</a></p>
     </div>`;
 

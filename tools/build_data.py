@@ -324,7 +324,9 @@ def types_of(vn):
 def new_form(template, label, var, auto=True):
     return {
         "form": label, "types": types_of(var) or template["types"], "nature": template["nature"],
-        "plus": template["plus"], "minus": template["minus"], "moves": [], "item": "",
+        # forms the sheet doesn't list share the main form's build (Megas get their stone below)
+        "plus": template["plus"], "minus": template["minus"], "moves": list(template["moves"]),
+        "item": template["item"],
         "info": "", "auto": auto, "var": var,
     }
 
@@ -462,6 +464,9 @@ def stone_for(sp_name, label):
     return STONES.get(k)
 
 
+_bp = os.path.join(ROOT, "tools", "builds_final.json")
+BUILDS = {n: {"note": b["note"], "url": b["url"]} for n, b in json.load(open(_bp, encoding="utf-8")).items()} if os.path.exists(_bp) else {}
+
 out_species = []
 for sp in species:
     d = spec_data[sp["key"]]
@@ -488,9 +493,12 @@ for sp in species:
         else:
             pics = resolve_pics(sp, label) or {"n": None, "s": None}
         stone = stone_for(sp["name"], label) if is_mega else None
+        item = f["item"]
+        if is_mega and f.get("auto") and stone and stone["stone"] != "No Mega Stone needed":
+            item = stone["stone"]  # a Mega holds its Mega Stone
         forms_out.append({
             "form": label, "types": f["types"], "nature": f["nature"], "plus": f["plus"],
-            "minus": f["minus"], "moves": f["moves"], "item": f["item"],
+            "minus": f["minus"], "moves": f["moves"], "item": item,
             "sheetInfo": f["info"],  # the sheet's own location / evolution note
             "stone": stone,          # Mega forms: {"stone", "where"} from Serebii
             "mega": is_mega, "auto": f.get("auto", False), "img": pics["n"], "shinyImg": pics["s"],
@@ -507,6 +515,8 @@ for sp in species:
         "genderDiff": bool(d and d["has_gender_differences"]),
         "where": where, "evolvesFrom": evolves_from,
         "alphaMove": sb["moves"]["alpha"],
+        # where the nature/moveset came from (tools/builds_make.py), shown under the moveset
+        "build": BUILDS.get(sp["name"]),
         "learn": {"levelUp": sb["moves"]["levelUp"], "tm": sb["moves"]["tm"]},
         "serebii": "https://www.serebii.net" + SEREBII_DEX[sp["name"]][2],
         "forms": forms_out, "chain": chain,

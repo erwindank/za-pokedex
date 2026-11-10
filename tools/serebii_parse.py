@@ -163,8 +163,12 @@ def parse_locations(html):
 
 def _move_rows(table_html, first_col):
     rows = []
-    for m in re.finditer(r'<tr>\s*<td rowspan="2" class="fooinfo">(.*?)</td>\s*<td rowspan="2" class="fooinfo">(.*?)</td>(.*?)</tr>', table_html, re.S):
-        a, name, rest = m.groups()
+    # each move row starts with two rowspan="2" cells (level or TM number, then the move link);
+    # the rest of the row runs until the next row start (rows can hold a nested "Form" table)
+    starts = list(re.finditer(r'<tr>\s*<td rowspan="2" class="fooinfo">(.*?)</td>\s*<td rowspan="2" class="fooinfo">(.*?)</td>', table_html, re.S))
+    for k, m in enumerate(starts):
+        a, name = m.groups()
+        rest = table_html[m.end(): starts[k + 1].start() if k + 1 < len(starts) else len(table_html)]
         t = re.search(r'alt="[^"]* - (\w+)-type"', rest)
         c = re.search(r'alt="[^"]*: (\w+) Move"', rest)
         p = re.findall(r'<td class="cen">([^<]*)</td>', rest)
@@ -184,15 +188,26 @@ def _move_rows(table_html, first_col):
 def parse_moves(html):
     """Z-A level-up moves, TM moves and the Alpha guaranteed move."""
     out = {"levelUp": [], "tm": [], "alpha": ""}
-    # The Z-A attack tables come first on the page (before the Scarlet/Violet ones)
-    i = html.find("Standard Level Up")
-    if i != -1:
-        j = html.find("</table>", i)
-        out["levelUp"] = _move_rows(html[i:j], "level")
-    i = html.find("Legends: Z-A Technical Machine Attacks")
-    if i != -1:
-        j = html.find("</table>", i)
-        out["tm"] = _move_rows(html[i:j], "tm")
+    # The Z-A attack tables sit in their own block, before the Scarlet/Violet ones
+    start = html.find('id="swshbdsp"')
+    end = html.find('id="legends"', start)
+    za = html[start:end if end != -1 else None] if start != -1 else html
+    # cut the block into tables at each <h3> heading
+    heads = list(re.finditer(r"<h3>(?:<a[^>]*></a>)?([^<]*)</h3>", za))
+    seen_lv, seen_tm = set(), set()
+    for k, h in enumerate(heads):
+        title = h.group(1)
+        body = za[h.end(): heads[k + 1].start() if k + 1 < len(heads) else len(za)]
+        if "Level Up" in title:          # "Standard Level Up", "Level Up - Male", "… - Galarian Form"
+            for r in _move_rows(body, "level"):
+                if r["name"] not in seen_lv:
+                    seen_lv.add(r["name"])
+                    out["levelUp"].append(r)
+        elif "Technical Machine" in title:
+            for r in _move_rows(body, "tm"):
+                if r["name"] not in seen_tm:
+                    seen_tm.add(r["name"])
+                    out["tm"].append(r)
     i = html.find("Alpha Guaranteed Move")
     if i != -1:
         j = html.find("</table>", i)

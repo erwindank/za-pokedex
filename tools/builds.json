@@ -1,0 +1,6332 @@
+{
+ "Chikorita": {
+  "nature": "Brave",
+  "item": "Focus Sash",
+  "ability": "Overgrow",
+  "moves": [
+   "Giga Drain",
+   "Grass Knot",
+   "Synthesis",
+   "Seed Bomb"
+  ],
+  "role": "Utility",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Giga Drain",
+   "Grass Knot"
+  ],
+  "plus": "Attack",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/chikorita/legends-z-a/"
+ },
+ "Bayleef": {
+  "nature": "Modest",
+  "item": "Eviolite",
+  "ability": "Overgrow",
+  "moves": [
+   "Giga Drain",
+   "Ancient Power",
+   "Energy Ball",
+   "Aromatherapy"
+  ],
+  "role": "Special Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Aromatherapy"
+  ],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/bayleef/legends-z-a/"
+ },
+ "Meganium": {
+  "nature": "Timid",
+  "item": "Leftovers",
+  "ability": "Overgrow",
+  "moves": [
+   "Leech Seed",
+   "Giga Drain",
+   "Knock Off",
+   "Encore"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Encore"
+  ],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/meganium/legends-z-a/"
+ },
+ "Tepig": {
+  "nature": "Hardy",
+  "item": "Focus Sash",
+  "ability": "Blaze",
+  "moves": [
+   "Yawn",
+   "Protect",
+   "Endeavor",
+   "Fire Blast"
+  ],
+  "role": "Utility",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Yawn",
+   "Endeavor"
+  ],
+  "plus": "",
+  "minus": "",
+  "source": "https://rankedboost.com/pokemon/tepig/legends-z-a/"
+ },
+ "Pignite": {
+  "nature": "Adamant",
+  "item": "Eviolite",
+  "ability": "Thick Fat",
+  "moves": [
+   "Drain Punch",
+   "Bulk Up",
+   "Sucker Punch",
+   "Fire Punch"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Sucker Punch"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/pignite/legends-z-a/"
+ },
+ "Emboar": {
+  "nature": "Adamant",
+  "item": "Heavy Duty Boots",
+  "ability": "Reckless",
+  "moves": [
+   "Flare Blitz",
+   "Wild Charge",
+   "Close Combat",
+   "Head Smash"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/emboar/legends-z-a/"
+ },
+ "Totodile": {
+  "nature": "Hardy",
+  "item": "Focus Sash",
+  "ability": "Sheer Force",
+  "moves": [
+   "Aqua Jet",
+   "Endeavor",
+   "Substitute",
+   "Dig"
+  ],
+  "role": "Special Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Endeavor"
+  ],
+  "plus": "",
+  "minus": "",
+  "source": "https://rankedboost.com/pokemon/totodile/legends-z-a/"
+ },
+ "Croconaw": {
+  "nature": "Adamant",
+  "item": "Eviolite",
+  "ability": "Sheer Force",
+  "moves": [
+   "Liquidation",
+   "Dragon Dance",
+   "Ice Punch",
+   "Crunch"
+  ],
+  "role": "Physical Attacker",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Dragon Dance",
+   "Ice Punch",
+   "Crunch"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/croconaw/legends-z-a/"
+ },
+ "Feraligatr": {
+  "nature": "Adamant",
+  "item": "Life Orb",
+  "ability": "Sheer Force",
+  "moves": [
+   "Ice Punch",
+   "Liquidation",
+   "Dragon Dance",
+   "Crunch"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Ice Punch",
+   "Dragon Dance"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/feraligatr/legends-z-a/"
+ },
+ "Fletchling": {
+  "nature": "Modest",
+  "item": "Ability Shield",
+  "ability": "Gale Wings",
+  "moves": [
+   "Tailwind",
+   "Defog",
+   "Air Slash",
+   "Feather Dance"
+  ],
+  "role": "Special Attacker",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Tailwind",
+   "Defog"
+  ],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/fletchling/legends-z-a/"
+ },
+ "Fletchinder": {
+  "nature": "Modest",
+  "item": "Heavy Duty Boots",
+  "ability": "Gale Wings",
+  "moves": [
+   "Defog",
+   "Air Slash",
+   "Tailwind",
+   "Overheat"
+  ],
+  "role": "Special Attacker",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Defog",
+   "Tailwind"
+  ],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/fletchinder/legends-z-a/"
+ },
+ "Talonflame": {
+  "nature": "Jolly",
+  "item": "Heavy Duty Boots",
+  "ability": "Flame Body",
+  "moves": [
+   "Defog",
+   "Roost",
+   "Will O Wisp",
+   "Brave Bird"
+  ],
+  "role": "Support",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Defog",
+   "Roost"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/talonflame/legends-z-a/"
+ },
+ "Bunnelby": {
+  "nature": "Adamant",
+  "item": "Choice Band",
+  "ability": "Huge Power",
+  "moves": [
+   "Quick Attack",
+   "Brick Break",
+   "Earthquake",
+   "Frustration"
+  ],
+  "role": "Physical Wallbreaker",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Frustration"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/bunnelby/legends-z-a/"
+ },
+ "Diggersby": {
+  "nature": "Jolly",
+  "item": "Choice Scarf",
+  "ability": "Huge Power",
+  "moves": [
+   "Earthquake",
+   "Quick Attack",
+   "U Turn",
+   "Ice Punch"
+  ],
+  "role": "Physical Revenge Killer",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/diggersby/legends-z-a/"
+ },
+ "Scatterbug": {
+  "nature": "Bold",
+  "item": "Charcoal",
+  "ability": "Compound Eyes",
+  "moves": [
+   "Stun Spore",
+   "Rage Powder",
+   "String Shot",
+   "Poison Powder"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Rage Powder",
+   "Poison Powder"
+  ],
+  "plus": "Defense",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/scatterbug/legends-z-a/"
+ },
+ "Spewpa": {
+  "nature": "Bold",
+  "item": "Eviolite",
+  "ability": "Friend Guard",
+  "moves": [
+   "Rage Powder",
+   "Stun Spore",
+   "Protect",
+   "Bug Bite"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Rage Powder",
+   "Bug Bite"
+  ],
+  "plus": "Defense",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/spewpa/legends-z-a/"
+ },
+ "Vivillon": {
+  "nature": "Modest",
+  "item": "Focus Sash",
+  "ability": "Compound Eyes",
+  "moves": [
+   "Hurricane",
+   "Quiver Dance",
+   "Bug Buzz",
+   "Stun Spore"
+  ],
+  "role": "Special Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Quiver Dance"
+  ],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/vivillon/legends-z-a/"
+ },
+ "Weedle": null,
+ "Kakuna": null,
+ "Beedrill": {
+  "nature": "Jolly",
+  "item": "Focus Sash",
+  "ability": "Sniper",
+  "moves": [
+   "Poison Jab",
+   "Drill Run",
+   "Knock Off",
+   "U Turn"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Knock Off"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/beedrill/legends-z-a/"
+ },
+ "Pidgey": null,
+ "Pidgeotto": null,
+ "Pidgeot": {
+  "nature": "Timid",
+  "item": "Heavy Duty Boots",
+  "ability": "Keen Eye",
+  "moves": [
+   "Roost",
+   "Hurricane",
+   "Heat Wave",
+   "Tailwind"
+  ],
+  "role": "Support",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Roost",
+   "Tailwind"
+  ],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/pidgeot/legends-z-a/"
+ },
+ "Mareep": {
+  "nature": "Hardy",
+  "item": "Eviolite",
+  "ability": "Static",
+  "moves": [
+   "Volt Switch",
+   "Power Gem",
+   "Discharge",
+   "Cotton Guard"
+  ],
+  "role": "Pivot",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "",
+  "minus": "",
+  "source": "https://rankedboost.com/pokemon/mareep/legends-z-a/"
+ },
+ "Flaaffy": {
+  "nature": "Timid",
+  "item": "Eviolite",
+  "ability": "Static",
+  "moves": [
+   "Thunder",
+   "Wild Charge",
+   "Thunderbolt",
+   "Electroweb"
+  ],
+  "role": "Special Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/flaaffy/legends-z-a/"
+ },
+ "Ampharos": {
+  "nature": "Calm",
+  "item": "Leftovers",
+  "ability": "Static",
+  "moves": [
+   "Thunderbolt",
+   "Dazzling Gleam",
+   "Dragon Pulse",
+   "Meteor Beam"
+  ],
+  "role": "Bulky Support",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Def",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/ampharos/legends-z-a/"
+ },
+ "Patrat": null,
+ "Watchog": {
+  "nature": "Jolly",
+  "item": "Focus Sash",
+  "ability": "Illuminate",
+  "moves": [
+   "Knock Off",
+   "Low Kick",
+   "Crunch",
+   "Super Fang"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Knock Off",
+   "Low Kick"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/watchog/legends-z-a/"
+ },
+ "Budew": null,
+ "Roselia": {
+  "nature": "Gentle",
+  "item": "Eviolite",
+  "ability": "Poison Point",
+  "moves": [
+   "Sludge Bomb",
+   "Aromatherapy",
+   "Spikes",
+   "Sleep Powder"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Aromatherapy"
+  ],
+  "plus": "Sp. Def",
+  "minus": "Defense",
+  "source": "https://rankedboost.com/pokemon/roselia/legends-z-a/"
+ },
+ "Roserade": {
+  "nature": "Timid",
+  "item": "Black Sludge",
+  "ability": "Natural Cure",
+  "moves": [
+   "Sludge Bomb",
+   "Giga Drain",
+   "Dazzling Gleam",
+   "Shadow Ball"
+  ],
+  "role": "Special Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/roserade/legends-z-a/"
+ },
+ "Magikarp": {
+  "nature": "Timid",
+  "item": "Focus Sash",
+  "ability": "Swift Swim",
+  "moves": [
+   "Flail",
+   "Tackle",
+   "Splash"
+  ],
+  "role": "Utility",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Flail"
+  ],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/magikarp/legends-z-a/"
+ },
+ "Gyarados": {
+  "nature": "Adamant",
+  "item": "Leftovers",
+  "ability": "Intimidate",
+  "moves": [
+   "Waterfall",
+   "Dragon Dance",
+   "Earthquake",
+   "Ice Fang"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Dragon Dance"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/gyarados/legends-z-a/"
+ },
+ "Binacle": null,
+ "Barbaracle": {
+  "nature": "Adamant",
+  "item": "White Herb",
+  "ability": "Tough Claws",
+  "moves": [
+   "Shell Smash",
+   "Liquidation",
+   "Stone Edge",
+   "Poison Jab"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Shell Smash"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/barbaracle/legends-z-a/"
+ },
+ "Staryu": null,
+ "Starmie": {
+  "nature": "Timid",
+  "item": "Focus Sash",
+  "ability": "Analytic",
+  "moves": [
+   "Ice Beam",
+   "Hydro Pump",
+   "Rapid Spin",
+   "Psychic"
+  ],
+  "role": "Special Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Rapid Spin"
+  ],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/starmie/legends-z-a/"
+ },
+ "Flabébé": {
+  "nature": "Modest",
+  "item": "Choice Scarf",
+  "ability": "Flower Veil",
+  "moves": [
+   "Moonblast",
+   "Draining Kiss",
+   "Psychic",
+   "Endeavor"
+  ],
+  "role": "Utility",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Moonblast",
+   "Endeavor"
+  ],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/flabebe/legends-z-a/"
+ },
+ "Floette": {
+  "nature": "Quiet",
+  "item": "Leftovers",
+  "ability": "Symbiosis",
+  "moves": [
+   "Giga Drain",
+   "Protect",
+   "Draining Kiss",
+   "Moonblast"
+  ],
+  "role": "Special Attacker",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Atk",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/floette/legends-z-a/"
+ },
+ "Florges": {
+  "nature": "Calm",
+  "item": "Leftovers",
+  "ability": "Flower Veil",
+  "moves": [
+   "Moonblast",
+   "Calm Mind",
+   "Synthesis",
+   "Wish"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Def",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/florges/legends-z-a/"
+ },
+ "Skiddo": {
+  "nature": "Adamant",
+  "item": "Eviolite",
+  "ability": "Sap Sipper",
+  "moves": [
+   "Horn Leech",
+   "Bulk Up",
+   "Milk Drink",
+   "Play Rough"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Milk Drink"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/skiddo/legends-z-a/"
+ },
+ "Gogoat": {
+  "nature": "Careful",
+  "item": "Leftovers",
+  "ability": "Sap Sipper",
+  "moves": [
+   "Horn Leech",
+   "Bulk Up",
+   "Earthquake",
+   "Milk Drink"
+  ],
+  "role": "Bulky Support",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Milk Drink"
+  ],
+  "plus": "Sp. Def",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/gogoat/legends-z-a/"
+ },
+ "Espurr": {
+  "nature": "Calm",
+  "item": "Eviolite",
+  "ability": "Infiltrator",
+  "moves": [
+   "Fake Out",
+   "Light Screen",
+   "Psychic Noise",
+   "Reflect"
+  ],
+  "role": "Screens Setter",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Psychic Noise"
+  ],
+  "plus": "Sp. Def",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/espurr/legends-z-a/"
+ },
+ "Meowstic": {
+  "nature": "Timid",
+  "item": "Light Clay",
+  "ability": "Prankster",
+  "moves": [
+   "Reflect",
+   "Light Screen",
+   "Thunder Wave",
+   "Psychic"
+  ],
+  "role": "Screens Setter",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/meowstic/legends-z-a/"
+ },
+ "Litleo": {
+  "nature": "Naughty",
+  "item": "Eviolite",
+  "ability": "Moxie",
+  "moves": [
+   "Flare Blitz",
+   "Flame Charge",
+   "Overheat",
+   "Hyper Voice"
+  ],
+  "role": "Utility",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Sp. Def",
+  "source": "https://rankedboost.com/pokemon/litleo/legends-z-a/"
+ },
+ "Pyroar": {
+  "nature": "Timid",
+  "item": "Air Balloon",
+  "ability": "Unnerve",
+  "moves": [
+   "Hyper Voice",
+   "Dark Pulse",
+   "Flamethrower",
+   "Tera Blast"
+  ],
+  "role": "Special Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Tera Blast"
+  ],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/pyroar/legends-z-a/"
+ },
+ "Pancham": null,
+ "Pangoro": {
+  "nature": "Adamant",
+  "item": "Life Orb",
+  "ability": "Iron Fist",
+  "moves": [
+   "Drain Punch",
+   "Bullet Punch",
+   "Knock Off",
+   "Darkest Lariat"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Darkest Lariat"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/pangoro/legends-z-a/"
+ },
+ "Trubbish": {
+  "nature": "Gentle",
+  "item": "Eviolite",
+  "ability": "Stench",
+  "moves": [
+   "Toxic",
+   "Protect",
+   "Gunk Shot",
+   "Explosion"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Def",
+  "minus": "Defense",
+  "source": "https://rankedboost.com/pokemon/trubbish/legends-z-a/"
+ },
+ "Garbodor": {
+  "nature": "Adamant",
+  "item": "Mirror Herb",
+  "ability": "Weak Armor",
+  "moves": [
+   "Gunk Shot",
+   "Drain Punch",
+   "Seed Bomb",
+   "Toxic Spikes"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/garbodor/legends-z-a/"
+ },
+ "Dedenne": {
+  "nature": "Timid",
+  "item": "Sitrus Berry",
+  "ability": "Cheek Pouch",
+  "moves": [
+   "Nuzzle",
+   "Dazzling Gleam",
+   "Volt Switch",
+   "Thunderbolt"
+  ],
+  "role": "Special Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/dedenne/legends-z-a/"
+ },
+ "Pichu": {
+  "nature": "Adamant",
+  "item": "Focus Sash",
+  "ability": "Lightning Rod",
+  "moves": [
+   "Volt Tackle",
+   "Nuzzle",
+   "Encore",
+   "Charge"
+  ],
+  "role": "Support",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Encore"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/pichu/legends-z-a/"
+ },
+ "Pikachu": {
+  "nature": "Hasty",
+  "item": "Light Ball",
+  "ability": "Lightning Rod",
+  "moves": [
+   "Thunderbolt",
+   "Iron Tail",
+   "Quick Attack",
+   "Surf"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Defense",
+  "source": "https://rankedboost.com/pokemon/pikachu/legends-z-a/"
+ },
+ "Raichu": {
+  "nature": "Timid",
+  "item": "Life Orb",
+  "ability": "Lightning Rod",
+  "moves": [
+   "Surf",
+   "Thunderbolt",
+   "Volt Switch",
+   "Nasty Plot"
+  ],
+  "role": "Special Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/raichu/legends-z-a/"
+ },
+ "Cleffa": {
+  "nature": "Modest",
+  "item": "Throat Spray",
+  "ability": "Magic Guard",
+  "moves": [
+   "Calm Mind",
+   "Flamethrower",
+   "Psychic",
+   "Alluring Voice"
+  ],
+  "role": "Special Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Alluring Voice"
+  ],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/cleffa/legends-z-a/"
+ },
+ "Clefairy": {
+  "nature": "Calm",
+  "item": "Eviolite",
+  "ability": "Magic Guard",
+  "moves": [
+   "Thunder Wave",
+   "Encore",
+   "Wish",
+   "Moonblast"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Encore",
+   "Wish"
+  ],
+  "plus": "Sp. Def",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/clefairy/legends-z-a/"
+ },
+ "Clefable": {
+  "nature": "Bold",
+  "item": "Leftovers",
+  "ability": "Magic Guard",
+  "moves": [
+   "Moonblast",
+   "Moonlight",
+   "Calm Mind",
+   "Stealth Rock"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Defense",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/clefable/legends-z-a/"
+ },
+ "Spinarak": {
+  "nature": "Adamant",
+  "item": "Focus Sash",
+  "ability": "Sniper",
+  "moves": [
+   "Sticky Web",
+   "Sucker Punch",
+   "Protect",
+   "Shadow Sneak"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Sucker Punch"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/spinarak/legends-z-a/"
+ },
+ "Ariados": {
+  "nature": "Adamant",
+  "item": "Focus Sash",
+  "ability": "Sniper",
+  "moves": [
+   "Sticky Web",
+   "Sucker Punch",
+   "Toxic Thread",
+   "Toxic Spikes"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Sucker Punch",
+   "Toxic Thread"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/ariados/legends-z-a/"
+ },
+ "Ekans": {
+  "nature": "Adamant",
+  "item": "Focus Sash",
+  "ability": "Intimidate",
+  "moves": [
+   "Gunk Shot",
+   "Earthquake",
+   "Toxic",
+   "Glare"
+  ],
+  "role": "Physical Attacker",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/ekans/legends-z-a/"
+ },
+ "Arbok": {
+  "nature": "Jolly",
+  "item": "Black Sludge",
+  "ability": "Intimidate",
+  "moves": [
+   "Gunk Shot",
+   "Earthquake",
+   "Coil",
+   "Sucker Punch"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Coil",
+   "Sucker Punch"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/arbok/legends-z-a/"
+ },
+ "Abra": null,
+ "Kadabra": {
+  "nature": "Timid",
+  "item": "Eviolite",
+  "ability": "Magic Guard",
+  "moves": [
+   "Psychic",
+   "Dazzling Gleam",
+   "Calm Mind",
+   "Shadow Ball"
+  ],
+  "role": "Special Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/kadabra/legends-z-a/"
+ },
+ "Alakazam": {
+  "nature": "Timid",
+  "item": "Focus Sash",
+  "ability": "Magic Guard",
+  "moves": [
+   "Psychic",
+   "Shadow Ball",
+   "Dazzling Gleam",
+   "Nasty Plot"
+  ],
+  "role": "Special Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/alakazam/legends-z-a/"
+ },
+ "Gastly": {
+  "nature": "Timid",
+  "item": "Choice Scarf",
+  "ability": "Levitate",
+  "moves": [
+   "Shadow Ball",
+   "Dazzling Gleam",
+   "Trick",
+   "Sludge Bomb"
+  ],
+  "role": "Special Revenge Killer",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Trick"
+  ],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/gastly/legends-z-a/"
+ },
+ "Haunter": {
+  "nature": "Timid",
+  "item": "Focus Sash",
+  "ability": "Levitate",
+  "moves": [
+   "Destiny Bond",
+   "Mean Look",
+   "Shadow Ball",
+   "Thunderbolt"
+  ],
+  "role": "Special Attacker",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Destiny Bond",
+   "Mean Look"
+  ],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/haunter/legends-z-a/"
+ },
+ "Gengar": {
+  "nature": "Timid",
+  "item": "Focus Sash",
+  "ability": "Cursed Body",
+  "moves": [
+   "Shadow Ball",
+   "Sludge Wave",
+   "Sludge Bomb",
+   "Destiny Bond"
+  ],
+  "role": "Special Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Destiny Bond"
+  ],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/gengar/legends-z-a/"
+ },
+ "Venipede": null,
+ "Whirlipede": {
+  "nature": "Relaxed",
+  "item": "Focus Sash",
+  "ability": "Poison Point",
+  "moves": [
+   "Toxic",
+   "Protect",
+   "Bug Bite",
+   "Gyro Ball"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Bug Bite",
+   "Gyro Ball"
+  ],
+  "plus": "Defense",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/whirlipede/legends-z-a/"
+ },
+ "Scolipede": {
+  "nature": "Adamant",
+  "item": "Focus Sash",
+  "ability": "Speed Boost",
+  "moves": [
+   "Poison Jab",
+   "Earthquake",
+   "Swords Dance",
+   "Megahorn"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/scolipede/legends-z-a/"
+ },
+ "Honedge": {
+  "nature": "Relaxed",
+  "item": "Eviolite",
+  "ability": "No Guard",
+  "moves": [
+   "Swords Dance",
+   "Shadow Sneak",
+   "Gyro Ball",
+   "Sacred Sword"
+  ],
+  "role": "Bulky Support",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Gyro Ball"
+  ],
+  "plus": "Defense",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/honedge/legends-z-a/"
+ },
+ "Doublade": {
+  "nature": "Adamant",
+  "item": "Eviolite",
+  "ability": "No Guard",
+  "moves": [
+   "Swords Dance",
+   "Shadow Sneak",
+   "Sacred Sword",
+   "Iron Head"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/doublade/legends-z-a/"
+ },
+ "Aegislash": {
+  "nature": "Adamant",
+  "item": "Leftovers",
+  "ability": "Stance Change",
+  "moves": [
+   "Kings Shield",
+   "Shadow Sneak",
+   "Swords Dance",
+   "Sacred Sword"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/aegislash/legends-z-a/"
+ },
+ "Bellsprout": {
+  "nature": "Modest",
+  "item": "Life Orb",
+  "ability": "Chlorophyll",
+  "moves": [
+   "Power Whip",
+   "Knock Off",
+   "Sleep Powder",
+   "Solar Beam"
+  ],
+  "role": "Special Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/bellsprout/legends-z-a/"
+ },
+ "Weepinbell": {
+  "nature": "Impish",
+  "item": "Eviolite",
+  "ability": "Chlorophyll",
+  "moves": [
+   "Clear Smog",
+   "Acid Spray",
+   "Worry Seed",
+   "Knock Off"
+  ],
+  "role": "Bulky Support",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Clear Smog",
+   "Worry Seed"
+  ],
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/weepinbell/legends-z-a/"
+ },
+ "Victreebel": {
+  "nature": "Modest",
+  "item": "Life Orb",
+  "ability": "Chlorophyll",
+  "moves": [
+   "Weather Ball",
+   "Poison Jab",
+   "Sludge Wave",
+   "Knock Off"
+  ],
+  "role": "Special Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Weather Ball"
+  ],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/victreebel/legends-z-a/"
+ },
+ "Pansage": null,
+ "Simisage": {
+  "nature": "Jolly",
+  "item": "Life Orb",
+  "ability": "Overgrow",
+  "moves": [
+   "Nasty Plot",
+   "Focus Blast",
+   "Spiky Shield",
+   "Seed Bomb"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Spiky Shield"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/simisage/legends-z-a/"
+ },
+ "Pansear": null,
+ "Simisear": {
+  "nature": "Jolly",
+  "item": "Assault Vest",
+  "ability": "Blaze",
+  "moves": [
+   "Knock Off",
+   "Brick Break",
+   "Shadow Claw",
+   "Fire Blast"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Knock Off"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/simisear/legends-z-a/"
+ },
+ "Panpour": null,
+ "Simipour": {
+  "nature": "Timid",
+  "item": "Mystic Water",
+  "ability": "Torrent",
+  "moves": [
+   "Ice Beam",
+   "Nasty Plot",
+   "Hydro Pump",
+   "Focus Blast"
+  ],
+  "role": "Special Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/simipour/legends-z-a/"
+ },
+ "Meditite": {
+  "nature": "Adamant",
+  "item": "Focus Sash",
+  "ability": "Pure Power",
+  "moves": [
+   "Close Combat",
+   "Psycho Cut",
+   "Bullet Punch",
+   "Counter"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Psycho Cut",
+   "Counter"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/meditite/legends-z-a/"
+ },
+ "Medicham": {
+  "nature": "Jolly",
+  "item": "Choice Band",
+  "ability": "Pure Power",
+  "moves": [
+   "Close Combat",
+   "Ice Punch",
+   "Bullet Punch",
+   "Zen Headbutt"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/medicham/legends-z-a/"
+ },
+ "Electrike": null,
+ "Manectric": {
+  "nature": "Timid",
+  "item": "Air Balloon",
+  "ability": "Static",
+  "moves": [
+   "Flamethrower",
+   "Thunderbolt",
+   "Volt Switch",
+   "Thunder Wave"
+  ],
+  "role": "Special Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/manectric/legends-z-a/"
+ },
+ "Ralts": {
+  "nature": "Hardy",
+  "item": "Focus Sash",
+  "ability": "Synchronize",
+  "moves": [
+   "Trick Room",
+   "Memento",
+   "Encore",
+   "Destiny Bond"
+  ],
+  "role": "Utility",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Trick Room",
+   "Memento",
+   "Encore",
+   "Destiny Bond"
+  ],
+  "plus": "",
+  "minus": "",
+  "source": "https://rankedboost.com/pokemon/ralts/legends-z-a/"
+ },
+ "Kirlia": {
+  "nature": "Adamant",
+  "item": "Choice Band",
+  "ability": "Synchronize",
+  "moves": [
+   "Draining Kiss",
+   "Alluring Voice",
+   "Destiny Bond",
+   "Shadow Sneak"
+  ],
+  "role": "Physical Wallbreaker",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Alluring Voice",
+   "Destiny Bond",
+   "Shadow Sneak"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/kirlia/legends-z-a/"
+ },
+ "Gardevoir": {
+  "nature": "Timid",
+  "item": "Choice Scarf",
+  "ability": "Trace",
+  "moves": [
+   "Moonblast",
+   "Psychic",
+   "Mystical Fire",
+   "Calm Mind"
+  ],
+  "role": "Special Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/gardevoir/legends-z-a/"
+ },
+ "Gallade": {
+  "nature": "Jolly",
+  "item": "Life Orb",
+  "ability": "Sharpness",
+  "moves": [
+   "Psycho Cut",
+   "Sacred Sword",
+   "Leaf Blade",
+   "Night Slash"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/gallade/legends-z-a/"
+ },
+ "Houndour": {
+  "nature": "Naive",
+  "item": "Life Orb",
+  "ability": "Flash Fire",
+  "moves": [
+   "Dark Pulse",
+   "Fire Blast",
+   "Sucker Punch",
+   "Flame Charge"
+  ],
+  "role": "Utility",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Sucker Punch"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Def",
+  "source": "https://rankedboost.com/pokemon/houndour/legends-z-a/"
+ },
+ "Houndoom": {
+  "nature": "Timid",
+  "item": "Focus Sash",
+  "ability": "Flash Fire",
+  "moves": [
+   "Dark Pulse",
+   "Fire Blast",
+   "Flamethrower",
+   "Nasty Plot"
+  ],
+  "role": "Special Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/houndoom/legends-z-a/"
+ },
+ "Swablu": {
+  "nature": "Careful",
+  "item": "Eviolite",
+  "ability": "Natural Cure",
+  "moves": [
+   "Cotton Guard",
+   "Tailwind",
+   "Brave Bird",
+   "Perish Song"
+  ],
+  "role": "Bulky Support",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Tailwind"
+  ],
+  "plus": "Sp. Def",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/swablu/legends-z-a/"
+ },
+ "Altaria": {
+  "nature": "Modest",
+  "item": "Heavy Duty Boots",
+  "ability": "Natural Cure",
+  "moves": [
+   "Roost",
+   "Defog",
+   "Dragon Dance",
+   "Will O Wisp"
+  ],
+  "role": "Special Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Roost",
+   "Defog",
+   "Dragon Dance"
+  ],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/altaria/legends-z-a/"
+ },
+ "Audino": {
+  "nature": "Bold",
+  "item": "Leftovers",
+  "ability": "Regenerator",
+  "moves": [
+   "Wish",
+   "Light Screen",
+   "Trick Room",
+   "Calm Mind"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Trick Room"
+  ],
+  "plus": "Defense",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/audino/legends-z-a/"
+ },
+ "Spritzee": {
+  "nature": "Calm",
+  "item": "Eviolite",
+  "ability": "Aroma Veil",
+  "moves": [
+   "Wish",
+   "Protect",
+   "Toxic",
+   "Dazzling Gleam"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Toxic"
+  ],
+  "plus": "Sp. Def",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/spritzee/legends-z-a/"
+ },
+ "Aromatisse": {
+  "nature": "Modest",
+  "item": "Leftovers",
+  "ability": "Aroma Veil",
+  "moves": [
+   "Draining Kiss",
+   "Moonblast",
+   "Calm Mind",
+   "Protect"
+  ],
+  "role": "Special Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/aromatisse/legends-z-a/"
+ },
+ "Swirlix": {
+  "nature": "Hasty",
+  "item": "Focus Sash",
+  "ability": "Unburden",
+  "moves": [
+   "Sticky Web",
+   "Draining Kiss",
+   "Wish",
+   "Misty Explosion"
+  ],
+  "role": "Support",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Misty Explosion"
+  ],
+  "plus": "Speed",
+  "minus": "Defense",
+  "source": "https://rankedboost.com/pokemon/swirlix/legends-z-a/"
+ },
+ "Slurpuff": {
+  "nature": "Adamant",
+  "item": "Focus Sash",
+  "ability": "Unburden",
+  "moves": [
+   "Sticky Web",
+   "Belly Drum",
+   "Drain Punch",
+   "Play Rough"
+  ],
+  "role": "Support",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Belly Drum"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/slurpuff/legends-z-a/"
+ },
+ "Eevee": {
+  "nature": "Adamant",
+  "item": "Eviolite",
+  "ability": "Adaptability",
+  "moves": [
+   "Last Resort",
+   "Protect",
+   "Quick Attack",
+   "Trailblaze"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Last Resort"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/eevee/legends-z-a/"
+ },
+ "Vaporeon": {
+  "nature": "Bold",
+  "item": "Leftovers",
+  "ability": "Water Absorb",
+  "moves": [
+   "Scald",
+   "Wish",
+   "Ice Beam",
+   "Protect"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Defense",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/vaporeon/legends-z-a/"
+ },
+ "Jolteon": {
+  "nature": "Timid",
+  "item": "Choice Specs",
+  "ability": "Volt Absorb",
+  "moves": [
+   "Volt Switch",
+   "Thunderbolt",
+   "Alluring Voice",
+   "Shadow Ball"
+  ],
+  "role": "Special Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Alluring Voice"
+  ],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/jolteon/legends-z-a/"
+ },
+ "Flareon": {
+  "nature": "Adamant",
+  "item": "Toxic Orb",
+  "ability": "Guts",
+  "moves": [
+   "Flare Blitz",
+   "Facade",
+   "Trailblaze",
+   "Quick Attack"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/flareon/legends-z-a/"
+ },
+ "Espeon": {
+  "nature": "Timid",
+  "item": "Choice Specs",
+  "ability": "Magic Bounce",
+  "moves": [
+   "Psychic",
+   "Shadow Ball",
+   "Calm Mind",
+   "Alluring Voice"
+  ],
+  "role": "Special Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Alluring Voice"
+  ],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/espeon/legends-z-a/"
+ },
+ "Umbreon": {
+  "nature": "Calm",
+  "item": "Leftovers",
+  "ability": "Synchronize",
+  "moves": [
+   "Foul Play",
+   "Wish",
+   "Protect",
+   "Toxic"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Foul Play"
+  ],
+  "plus": "Sp. Def",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/umbreon/legends-z-a/"
+ },
+ "Leafeon": {
+  "nature": "Adamant",
+  "item": "Life Orb",
+  "ability": "Chlorophyll",
+  "moves": [
+   "Knock Off",
+   "Swords Dance",
+   "Leaf Blade",
+   "Solar Blade"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Knock Off"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/leafeon/legends-z-a/"
+ },
+ "Glaceon": {
+  "nature": "Modest",
+  "item": "Leftovers",
+  "ability": "Ice Body",
+  "moves": [
+   "Freeze Dry",
+   "Shadow Ball",
+   "Blizzard",
+   "Ice Beam"
+  ],
+  "role": "Special Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/glaceon/legends-z-a/"
+ },
+ "Sylveon": {
+  "nature": "Modest",
+  "item": "Leftovers",
+  "ability": "Pixilate",
+  "moves": [
+   "Hyper Voice",
+   "Calm Mind",
+   "Wish",
+   "Protect"
+  ],
+  "role": "Special Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/sylveon/legends-z-a/"
+ },
+ "Buneary": {
+  "nature": "Brave",
+  "item": "Focus Sash",
+  "ability": "Limber",
+  "moves": [
+   "Fake Out",
+   "Endeavor",
+   "Protect",
+   "Encore"
+  ],
+  "role": "Utility",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Endeavor",
+   "Encore"
+  ],
+  "plus": "Attack",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/buneary/legends-z-a/"
+ },
+ "Lopunny": {
+  "nature": "Jolly",
+  "item": "Lagging Tail",
+  "ability": "Klutz",
+  "moves": [
+   "Fake Out",
+   "Switcheroo",
+   "High Jump Kick",
+   "Return"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Switcheroo",
+   "High Jump Kick",
+   "Return"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/lopunny/legends-z-a/"
+ },
+ "Shuppet": {
+  "nature": "Hardy",
+  "item": "Focus Sash",
+  "ability": "Frisk",
+  "moves": [
+   "Poltergeist",
+   "Destiny Bond",
+   "Phantom Force",
+   "Thunder Wave"
+  ],
+  "role": "Physical Attacker",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Poltergeist",
+   "Destiny Bond"
+  ],
+  "plus": "",
+  "minus": "",
+  "source": "https://rankedboost.com/pokemon/shuppet/legends-z-a/"
+ },
+ "Banette": {
+  "nature": "Adamant",
+  "item": "Focus Sash",
+  "ability": "Cursed Body",
+  "moves": [
+   "Destiny Bond",
+   "Knock Off",
+   "Shadow Sneak",
+   "Poltergeist"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Destiny Bond",
+   "Poltergeist"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/banette/legends-z-a/"
+ },
+ "Vanillite": null,
+ "Vanillish": null,
+ "Vanilluxe": {
+  "nature": "Modest",
+  "item": "Light Clay",
+  "ability": "Snow Warning",
+  "moves": [
+   "Aurora Veil",
+   "Blizzard",
+   "Flash Cannon",
+   "Freeze Dry"
+  ],
+  "role": "Special Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Aurora Veil"
+  ],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/vanilluxe/legends-z-a/"
+ },
+ "Numel": {
+  "nature": "Timid",
+  "item": "Eviolite",
+  "ability": "Simple",
+  "moves": [
+   "Growth",
+   "Trailblaze",
+   "Earth Power",
+   "Fire Blast"
+  ],
+  "role": "Special Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Growth"
+  ],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/numel/legends-z-a/"
+ },
+ "Camerupt": {
+  "nature": "Modest",
+  "item": "Leftovers",
+  "ability": "Solid Rock",
+  "moves": [
+   "Earth Power",
+   "Eruption",
+   "Lava Plume",
+   "Earthquake"
+  ],
+  "role": "Special Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Eruption"
+  ],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/camerupt/legends-z-a/"
+ },
+ "Hippopotas": {
+  "nature": "Impish",
+  "item": "Smooth Rock",
+  "ability": "Sand Stream",
+  "moves": [
+   "Slack Off",
+   "Stealth Rock",
+   "Earthquake",
+   "Roar"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Slack Off"
+  ],
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/hippopotas/legends-z-a/"
+ },
+ "Hippowdon": {
+  "nature": "Relaxed",
+  "item": "Rocky Helmet",
+  "ability": "Sand Stream",
+  "moves": [
+   "Slack Off",
+   "Stealth Rock",
+   "Earthquake",
+   "Whirlwind"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Slack Off"
+  ],
+  "plus": "Defense",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/hippowdon/legends-z-a/"
+ },
+ "Drilbur": {
+  "nature": "Jolly",
+  "item": "Eviolite",
+  "ability": "Mold Breaker",
+  "moves": [
+   "Earthquake",
+   "Rapid Spin",
+   "Swords Dance",
+   "Rock Slide"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Rapid Spin"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/drilbur/legends-z-a/"
+ },
+ "Excadrill": {
+  "nature": "Adamant",
+  "item": "Air Balloon",
+  "ability": "Sand Rush",
+  "moves": [
+   "Earthquake",
+   "Rapid Spin",
+   "Iron Head",
+   "Swords Dance"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Rapid Spin"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/excadrill/legends-z-a/"
+ },
+ "Sandile": {
+  "nature": "Adamant",
+  "item": "Eviolite",
+  "ability": "Moxie",
+  "moves": [
+   "Power Trip",
+   "Earthquake",
+   "Brick Break",
+   "Crunch"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Power Trip"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/sandile/legends-z-a/"
+ },
+ "Krokorok": {
+  "nature": "Adamant",
+  "item": "Eviolite",
+  "ability": "Intimidate",
+  "moves": [
+   "Knock Off",
+   "Stealth Rock",
+   "Earthquake",
+   "Roar"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/krokorok/legends-z-a/"
+ },
+ "Krookodile": {
+  "nature": "Jolly",
+  "item": "Choice Scarf",
+  "ability": "Moxie",
+  "moves": [
+   "Earthquake",
+   "Knock Off",
+   "Close Combat",
+   "Stone Edge"
+  ],
+  "role": "Physical Revenge Killer",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/krookodile/legends-z-a/"
+ },
+ "Machop": {
+  "nature": "Adamant",
+  "item": "Life Orb",
+  "ability": "No Guard",
+  "moves": [
+   "Rock Slide",
+   "Bullet Punch",
+   "Dynamic Punch",
+   "Poison Jab"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/machop/legends-z-a/"
+ },
+ "Machoke": {
+  "nature": "Adamant",
+  "item": "Eviolite",
+  "ability": "Guts",
+  "moves": [
+   "Bullet Punch",
+   "Dynamic Punch",
+   "Bulk Up",
+   "Submission"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Submission"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/machoke/legends-z-a/"
+ },
+ "Machamp": {
+  "nature": "Adamant",
+  "item": "Flame Orb",
+  "ability": "No Guard",
+  "moves": [
+   "Bullet Punch",
+   "Dynamic Punch",
+   "Close Combat",
+   "Stone Edge"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/machamp/legends-z-a/"
+ },
+ "Gible": {
+  "nature": "Adamant",
+  "item": "Focus Sash",
+  "ability": "Rough Skin",
+  "moves": [
+   "Earthquake",
+   "Dragon Claw",
+   "Iron Head",
+   "Stone Edge"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/gible/legends-z-a/"
+ },
+ "Gabite": {
+  "nature": "Relaxed",
+  "item": "Eviolite",
+  "ability": "Rough Skin",
+  "moves": [
+   "Earthquake",
+   "Dragon Tail",
+   "Stealth Rock",
+   "Flamethrower"
+  ],
+  "role": "Hazard Setter",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Dragon Tail"
+  ],
+  "plus": "Defense",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/gabite/legends-z-a/"
+ },
+ "Garchomp": {
+  "nature": "Jolly",
+  "item": "Rocky Helmet",
+  "ability": "Rough Skin",
+  "moves": [
+   "Earthquake",
+   "Stealth Rock",
+   "Swords Dance",
+   "Dragon Tail"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Dragon Tail"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/garchomp/legends-z-a/"
+ },
+ "Carbink": {
+  "nature": "Sassy",
+  "item": "Black Sludge",
+  "ability": "Sturdy",
+  "moves": [
+   "Stealth Rock",
+   "Trick Room",
+   "Endeavor",
+   "Body Press"
+  ],
+  "role": "Utility",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Trick Room",
+   "Endeavor",
+   "Body Press"
+  ],
+  "plus": "Sp. Def",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/carbink/legends-z-a/"
+ },
+ "Sableye": {
+  "nature": "Impish",
+  "item": "Leftovers",
+  "ability": "Prankster",
+  "moves": [
+   "Will O Wisp",
+   "Encore",
+   "Recover",
+   "Knock Off"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Encore"
+  ],
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/sableye/legends-z-a/"
+ },
+ "Mawile": {
+  "nature": "Adamant",
+  "item": "Life Orb",
+  "ability": "Sheer Force",
+  "moves": [
+   "Play Rough",
+   "Iron Head",
+   "Swords Dance",
+   "Crunch"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/mawile/legends-z-a/"
+ },
+ "Absol": {
+  "nature": "Jolly",
+  "item": "Focus Sash",
+  "ability": "Super Luck",
+  "moves": [
+   "Sucker Punch",
+   "Night Slash",
+   "Psycho Cut",
+   "Swords Dance"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Sucker Punch",
+   "Psycho Cut"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/absol/legends-z-a/"
+ },
+ "Riolu": {
+  "nature": "Adamant",
+  "item": "Focus Sash",
+  "ability": "Prankster",
+  "moves": [
+   "Copycat",
+   "Bullet Punch",
+   "Reversal",
+   "Swords Dance"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Copycat",
+   "Reversal"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/riolu/legends-z-a/"
+ },
+ "Lucario": {
+  "nature": "Jolly",
+  "item": "Life Orb",
+  "ability": "Inner Focus",
+  "moves": [
+   "Extreme Speed",
+   "Close Combat",
+   "Swords Dance",
+   "Aura Sphere"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/lucario/legends-z-a/"
+ },
+ "Slowpoke": {
+  "nature": "Relaxed",
+  "item": "Eviolite",
+  "ability": "Oblivious",
+  "moves": [
+   "Trick Room",
+   "Disable",
+   "Chilling Water",
+   "Thunder Wave"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Trick Room",
+   "Disable"
+  ],
+  "plus": "Defense",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/slowpoke/legends-z-a/"
+ },
+ "Slowbro": {
+  "nature": "Bold",
+  "item": "Leftovers",
+  "ability": "Regenerator",
+  "moves": [
+   "Scald",
+   "Slack Off",
+   "Psychic",
+   "Trick Room"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Slack Off",
+   "Trick Room"
+  ],
+  "plus": "Defense",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/slowbro/legends-z-a/"
+ },
+ "Slowking": {
+  "nature": "Sassy",
+  "item": "Heavy Duty Boots",
+  "ability": "Regenerator",
+  "moves": [
+   "Chilly Reception",
+   "Scald",
+   "Future Sight",
+   "Thunder Wave"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Chilly Reception"
+  ],
+  "plus": "Sp. Def",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/slowking/legends-z-a/"
+ },
+ "Carvanha": {
+  "nature": "Adamant",
+  "item": "Focus Sash",
+  "ability": "Speed Boost",
+  "moves": [
+   "Protect",
+   "Destiny Bond",
+   "Waterfall",
+   "Crunch"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Destiny Bond"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/carvanha/legends-z-a/"
+ },
+ "Sharpedo": {
+  "nature": "Adamant",
+  "item": "Focus Sash",
+  "ability": "Speed Boost",
+  "moves": [
+   "Crunch",
+   "Protect",
+   "Close Combat",
+   "Liquidation"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/sharpedo/legends-z-a/"
+ },
+ "Tynamo": {
+  "nature": "Timid",
+  "item": "Eviolite",
+  "ability": "Levitate",
+  "moves": [
+   "Thunder Wave",
+   "Tera Blast",
+   "Charge Beam",
+   "Knock Off"
+  ],
+  "role": "Special Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Tera Blast",
+   "Knock Off"
+  ],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/tynamo/legends-z-a/"
+ },
+ "Eelektrik": {
+  "nature": "Sassy",
+  "item": "Eviolite",
+  "ability": "Levitate",
+  "moves": [
+   "Knock Off",
+   "U Turn",
+   "Coil",
+   "Zap Cannon"
+  ],
+  "role": "Pivot",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Knock Off",
+   "Coil"
+  ],
+  "plus": "Sp. Def",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/eelektrik/legends-z-a/"
+ },
+ "Eelektross": {
+  "nature": "Quiet",
+  "item": "Assault Vest",
+  "ability": "Levitate",
+  "moves": [
+   "Flamethrower",
+   "Drain Punch",
+   "Giga Drain",
+   "Volt Switch"
+  ],
+  "role": "Special Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Atk",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/eelektross/legends-z-a/"
+ },
+ "Dratini": {
+  "nature": "Adamant",
+  "item": "Focus Sash",
+  "ability": "Shed Skin",
+  "moves": [
+   "Extreme Speed",
+   "Aqua Jet",
+   "Rain Dance",
+   "Sunny Day"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Aqua Jet",
+   "Rain Dance",
+   "Sunny Day"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/dratini/legends-z-a/"
+ },
+ "Dragonair": {
+  "nature": "Adamant",
+  "item": "Eviolite",
+  "ability": "Shed Skin",
+  "moves": [
+   "Dragon Dance",
+   "Dragon Tail",
+   "Extreme Speed",
+   "Thunder Wave"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Dragon Dance",
+   "Dragon Tail"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/dragonair/legends-z-a/"
+ },
+ "Dragonite": {
+  "nature": "Adamant",
+  "item": "Heavy Duty Boots",
+  "ability": "Multiscale",
+  "moves": [
+   "Dragon Dance",
+   "Extreme Speed",
+   "Earthquake",
+   "Ice Spinner"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Dragon Dance",
+   "Ice Spinner"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/dragonite/legends-z-a/"
+ },
+ "Bulbasaur": {
+  "nature": "Impish",
+  "item": "Eviolite",
+  "ability": "Overgrow",
+  "moves": [
+   "Toxic",
+   "Leech Seed",
+   "Protect",
+   "Trailblaze"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/bulbasaur/legends-z-a/"
+ },
+ "Ivysaur": {
+  "nature": "Modest",
+  "item": "Eviolite",
+  "ability": "Overgrow",
+  "moves": [
+   "Leech Seed",
+   "Sleep Powder",
+   "Substitute",
+   "Leech Seed"
+  ],
+  "role": "Special Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/ivysaur/legends-z-a/"
+ },
+ "Venusaur": {
+  "nature": "Naive",
+  "item": "Life Orb",
+  "ability": "Chlorophyll",
+  "moves": [
+   "Giga Drain",
+   "Weather Ball",
+   "Growth",
+   "Sludge Bomb"
+  ],
+  "role": "Special Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Weather Ball"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Def",
+  "source": "https://rankedboost.com/pokemon/venusaur/legends-z-a/"
+ },
+ "Charmander": {
+  "nature": "Mild",
+  "item": "Flame Plate",
+  "ability": "Solar Power",
+  "moves": [
+   "Flamethrower",
+   "Facade",
+   "Flare Blitz",
+   "Will O Wisp"
+  ],
+  "role": "Special Attacker",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Atk",
+  "minus": "Defense",
+  "source": "https://rankedboost.com/pokemon/charmander/legends-z-a/"
+ },
+ "Charmeleon": {
+  "nature": "Timid",
+  "item": "Eviolite",
+  "ability": "Blaze",
+  "moves": [
+   "Will O Wisp",
+   "Rock Slide",
+   "Flamethrower",
+   "Dragon Pulse"
+  ],
+  "role": "Special Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/charmeleon/legends-z-a/"
+ },
+ "Charizard": {
+  "nature": "Timid",
+  "item": "Choice Specs",
+  "ability": "Solar Power",
+  "moves": [
+   "Flamethrower",
+   "Solar Beam",
+   "Air Slash",
+   "Scorching Sands"
+  ],
+  "role": "Special Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/charizard/legends-z-a/"
+ },
+ "Squirtle": {
+  "nature": "Hardy",
+  "item": "Focus Sash",
+  "ability": "Rain Dish",
+  "moves": [
+   "Aqua Jet",
+   "Ice Beam",
+   "Rain Dance",
+   "Rapid Spin"
+  ],
+  "role": "Bulky Support",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Rain Dance",
+   "Rapid Spin"
+  ],
+  "plus": "",
+  "minus": "",
+  "source": "https://rankedboost.com/pokemon/squirtle/legends-z-a/"
+ },
+ "Wartortle": {
+  "nature": "Relaxed",
+  "item": "Eject Pack",
+  "ability": "Torrent",
+  "moves": [
+   "Rapid Spin",
+   "Flip Turn",
+   "Shell Smash",
+   "Body Slam"
+  ],
+  "role": "Pivot",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Rapid Spin",
+   "Shell Smash"
+  ],
+  "plus": "Defense",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/wartortle/legends-z-a/"
+ },
+ "Blastoise": {
+  "nature": "Modest",
+  "item": "White Herb",
+  "ability": "Torrent",
+  "moves": [
+   "Shell Smash",
+   "Ice Beam",
+   "Surf",
+   "Rapid Spin"
+  ],
+  "role": "Special Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Shell Smash",
+   "Rapid Spin"
+  ],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/blastoise/legends-z-a/"
+ },
+ "Stunfisk": {
+  "nature": "Modest",
+  "item": "Assault Vest",
+  "ability": "Static",
+  "moves": [
+   "Earth Power",
+   "Thunderbolt",
+   "Stealth Rock",
+   "Scald"
+  ],
+  "role": "Special Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/stunfisk/legends-z-a/"
+ },
+ "Furfrou": {
+  "nature": "Adamant",
+  "item": "Leftovers",
+  "ability": "Fur Coat",
+  "moves": [
+   "Cotton Guard",
+   "Toxic",
+   "Facade",
+   "Zen Headbutt"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Toxic"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/furfrou/legends-z-a/"
+ },
+ "Inkay": {
+  "nature": "Hardy",
+  "item": "Focus Sash",
+  "ability": "Suction Cups",
+  "moves": [
+   "Topsy Turvy",
+   "Protect",
+   "Disable",
+   "Flamethrower"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Disable"
+  ],
+  "plus": "",
+  "minus": "",
+  "source": "https://rankedboost.com/pokemon/inkay/legends-z-a/"
+ },
+ "Malamar": {
+  "nature": "Adamant",
+  "item": "Leftovers",
+  "ability": "Contrary",
+  "moves": [
+   "Superpower",
+   "Knock Off",
+   "Psycho Cut",
+   "Topsy Turvy"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Superpower"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/malamar/legends-z-a/"
+ },
+ "Skrelp": {
+  "nature": "Relaxed",
+  "item": "Eviolite",
+  "ability": "Adaptability",
+  "moves": [
+   "Toxic Spikes",
+   "Dragon Tail",
+   "Venoshock",
+   "Whirlpool"
+  ],
+  "role": "Hazard Setter",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Dragon Tail",
+   "Venoshock",
+   "Whirlpool"
+  ],
+  "plus": "Defense",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/skrelp/legends-z-a/"
+ },
+ "Dragalge": {
+  "nature": "Modest",
+  "item": "Assault Vest",
+  "ability": "Adaptability",
+  "moves": [
+   "Draco Meteor",
+   "Flip Turn",
+   "Sludge Bomb",
+   "Toxic Spikes"
+  ],
+  "role": "Special Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/dragalge/legends-z-a/"
+ },
+ "Clauncher": {
+  "nature": "Modest",
+  "item": "Choice Specs",
+  "ability": "Mega Launcher",
+  "moves": [
+   "Dragon Pulse",
+   "Dark Pulse",
+   "Water Pulse",
+   "Aura Sphere"
+  ],
+  "role": "Special Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/clauncher/legends-z-a/"
+ },
+ "Clawitzer": {
+  "nature": "Modest",
+  "item": "Choice Specs",
+  "ability": "Mega Launcher",
+  "moves": [
+   "Water Pulse",
+   "Dark Pulse",
+   "Dragon Pulse",
+   "Aura Sphere"
+  ],
+  "role": "Special Wallbreaker",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/clawitzer/legends-z-a/"
+ },
+ "Goomy": {
+  "nature": "Modest",
+  "item": "Eviolite",
+  "ability": "Sap Sipper",
+  "moves": [
+   "Draco Meteor",
+   "Thunderbolt",
+   "Chilling Water",
+   "Sludge Wave"
+  ],
+  "role": "Special Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Sludge Wave"
+  ],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/goomy/legends-z-a/"
+ },
+ "Sliggoo": {
+  "nature": "Sassy",
+  "item": "Eviolite",
+  "ability": "Sap Sipper",
+  "moves": [
+   "Rest",
+   "Toxic",
+   "Draco Meteor",
+   "Rock Slide"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Rest"
+  ],
+  "plus": "Sp. Def",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/sliggoo/legends-z-a/"
+ },
+ "Goodra": {
+  "nature": "Modest",
+  "item": "Assault Vest",
+  "ability": "Sap Sipper",
+  "moves": [
+   "Ice Beam",
+   "Draco Meteor",
+   "Flamethrower",
+   "Dragon Pulse"
+  ],
+  "role": "Special Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/goodra/legends-z-a/"
+ },
+ "Delibird": {
+  "nature": "Jolly",
+  "item": "Focus Sash",
+  "ability": "Hustle",
+  "moves": [
+   "Ice Shard",
+   "Rapid Spin",
+   "Aerial Ace",
+   "Fake Out"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Rapid Spin"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/delibird/legends-z-a/"
+ },
+ "Snorunt": {
+  "nature": "Rash",
+  "item": "Eviolite",
+  "ability": "Ice Body",
+  "moves": [
+   "Substitute",
+   "Weather Ball",
+   "Rain Dance",
+   "Ice Shard"
+  ],
+  "role": "Utility",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Weather Ball",
+   "Rain Dance"
+  ],
+  "plus": "Sp. Atk",
+  "minus": "Sp. Def",
+  "source": "https://rankedboost.com/pokemon/snorunt/legends-z-a/"
+ },
+ "Glalie": {
+  "nature": "Calm",
+  "item": "Leftovers",
+  "ability": "Inner Focus",
+  "moves": [
+   "Spikes",
+   "Freeze Dry",
+   "Ice Shard",
+   "Earthquake"
+  ],
+  "role": "Hazard Setter",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Def",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/glalie/legends-z-a/"
+ },
+ "Froslass": {
+  "nature": "Timid",
+  "item": "Focus Sash",
+  "ability": "Cursed Body",
+  "moves": [
+   "Destiny Bond",
+   "Spikes",
+   "Ice Beam",
+   "Shadow Ball"
+  ],
+  "role": "Special Attacker",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Destiny Bond"
+  ],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/froslass/legends-z-a/"
+ },
+ "Snover": {
+  "nature": "Hardy",
+  "item": "Icy Rock",
+  "ability": "Snow Warning",
+  "moves": [
+   "Ingrain",
+   "Icy Wind",
+   "Snowscape",
+   "Wood Hammer"
+  ],
+  "role": "Utility",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Ingrain",
+   "Snowscape"
+  ],
+  "plus": "",
+  "minus": "",
+  "source": "https://rankedboost.com/pokemon/snover/legends-z-a/"
+ },
+ "Abomasnow": {
+  "nature": "Modest",
+  "item": "Icy Rock",
+  "ability": "Snow Warning",
+  "moves": [
+   "Blizzard",
+   "Aurora Veil",
+   "Giga Drain",
+   "Leech Seed"
+  ],
+  "role": "Special Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Aurora Veil"
+  ],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/abomasnow/legends-z-a/"
+ },
+ "Bergmite": {
+  "nature": "Hardy",
+  "item": "Damp Rock",
+  "ability": "Sturdy",
+  "moves": [
+   "Mirror Coat",
+   "Protect",
+   "Rain Dance",
+   "Rapid Spin"
+  ],
+  "role": "Mixed Attacker",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Mirror Coat",
+   "Rain Dance",
+   "Rapid Spin"
+  ],
+  "plus": "",
+  "minus": "",
+  "source": "https://rankedboost.com/pokemon/bergmite/legends-z-a/"
+ },
+ "Avalugg": {
+  "nature": "Impish",
+  "item": "Heavy Duty Boots",
+  "ability": "Ice Body",
+  "moves": [
+   "Body Press",
+   "Recover",
+   "Rapid Spin",
+   "Avalanche"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Body Press",
+   "Rapid Spin",
+   "Avalanche"
+  ],
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/avalugg/legends-z-a/"
+ },
+ "Scyther": {
+  "nature": "Jolly",
+  "item": "Eviolite",
+  "ability": "Technician",
+  "moves": [
+   "Dual Wingbeat",
+   "Swords Dance",
+   "Close Combat",
+   "Quick Attack"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/scyther/legends-z-a/"
+ },
+ "Scizor": {
+  "nature": "Adamant",
+  "item": "Choice Band",
+  "ability": "Technician",
+  "moves": [
+   "Bullet Punch",
+   "Knock Off",
+   "U Turn",
+   "Close Combat"
+  ],
+  "role": "Physical Wallbreaker",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/scizor/legends-z-a/"
+ },
+ "Pinsir": {
+  "nature": "Jolly",
+  "item": "Life Orb",
+  "ability": "Hyper Cutter",
+  "moves": [
+   "X Scissor",
+   "Swords Dance",
+   "Close Combat",
+   "Rock Slide"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/pinsir/legends-z-a/"
+ },
+ "Heracross": {
+  "nature": "Jolly",
+  "item": "Flame Orb",
+  "ability": "Guts",
+  "moves": [
+   "Close Combat",
+   "Megahorn",
+   "Knock Off",
+   "Facade"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/heracross/legends-z-a/"
+ },
+ "Emolga": {
+  "nature": "Timid",
+  "item": "Focus Sash",
+  "ability": "Motor Drive",
+  "moves": [
+   "Volt Switch",
+   "Air Slash",
+   "Energy Ball",
+   "Nuzzle"
+  ],
+  "role": "Special Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/emolga/legends-z-a/"
+ },
+ "Hawlucha": {
+  "nature": "Adamant",
+  "item": "Grassy Seed",
+  "ability": "Unburden",
+  "moves": [
+   "Acrobatics",
+   "Swords Dance",
+   "Close Combat",
+   "Encore"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Acrobatics",
+   "Encore"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/hawlucha/legends-z-a/"
+ },
+ "Phantump": {
+  "nature": "Sassy",
+  "item": "Aguav Berry",
+  "ability": "Harvest",
+  "moves": [
+   "Leech Seed",
+   "Horn Leech",
+   "Ingrain",
+   "Sunny Day"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Ingrain",
+   "Sunny Day"
+  ],
+  "plus": "Sp. Def",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/phantump/legends-z-a/"
+ },
+ "Trevenant": {
+  "nature": "Brave",
+  "item": "Sitrus Berry",
+  "ability": "Harvest",
+  "moves": [
+   "Leech Seed",
+   "Protect",
+   "Poltergeist",
+   "Substitute"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Poltergeist"
+  ],
+  "plus": "Attack",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/trevenant/legends-z-a/"
+ },
+ "Scraggy": {
+  "nature": "Jolly",
+  "item": "Eviolite",
+  "ability": "Shed Skin",
+  "moves": [
+   "Knock Off",
+   "Drain Punch",
+   "Dragon Dance",
+   "Bulk Up"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Knock Off",
+   "Dragon Dance"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/scraggy/legends-z-a/"
+ },
+ "Scrafty": {
+  "nature": "Adamant",
+  "item": "Leftovers",
+  "ability": "Shed Skin",
+  "moves": [
+   "Drain Punch",
+   "Knock Off",
+   "Dragon Dance",
+   "Bulk Up"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Dragon Dance"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/scrafty/legends-z-a/"
+ },
+ "Noibat": {
+  "nature": "Calm",
+  "item": "Eviolite",
+  "ability": "Infiltrator",
+  "moves": [
+   "Defog",
+   "Roost",
+   "Super Fang",
+   "Toxic"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Defog",
+   "Roost",
+   "Toxic"
+  ],
+  "plus": "Sp. Def",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/noibat/legends-z-a/"
+ },
+ "Noivern": {
+  "nature": "Timid",
+  "item": "Choice Specs",
+  "ability": "Infiltrator",
+  "moves": [
+   "Boomburst",
+   "Draco Meteor",
+   "Flamethrower",
+   "Defog"
+  ],
+  "role": "Special Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Defog"
+  ],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/noivern/legends-z-a/"
+ },
+ "Klefki": {
+  "nature": "Bold",
+  "item": "Light Clay",
+  "ability": "Prankster",
+  "moves": [
+   "Thunder Wave",
+   "Reflect",
+   "Light Screen",
+   "Spikes"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Defense",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/klefki/legends-z-a/"
+ },
+ "Litwick": {
+  "nature": "Modest",
+  "item": "Eviolite",
+  "ability": "Flame Body",
+  "moves": [
+   "Flamethrower",
+   "Shadow Ball",
+   "Will O Wisp",
+   "Energy Ball"
+  ],
+  "role": "Special Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/litwick/legends-z-a/"
+ },
+ "Lampent": {
+  "nature": "Modest",
+  "item": "Heavy Duty Boots",
+  "ability": "Infiltrator",
+  "moves": [
+   "Calm Mind",
+   "Energy Ball",
+   "Flamethrower",
+   "Shadow Ball"
+  ],
+  "role": "Special Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/lampent/legends-z-a/"
+ },
+ "Chandelure": {
+  "nature": "Timid",
+  "item": "Choice Scarf",
+  "ability": "Flash Fire",
+  "moves": [
+   "Shadow Ball",
+   "Energy Ball",
+   "Flamethrower",
+   "Trick"
+  ],
+  "role": "Special Revenge Killer",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Trick"
+  ],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/chandelure/legends-z-a/"
+ },
+ "Aerodactyl": {
+  "nature": "Jolly",
+  "item": "Focus Sash",
+  "ability": "Pressure",
+  "moves": [
+   "Dual Wingbeat",
+   "Stone Edge",
+   "Stealth Rock",
+   "Earthquake"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/aerodactyl/legends-z-a/"
+ },
+ "Tyrunt": {
+  "nature": "Adamant",
+  "item": "Eviolite",
+  "ability": "Sturdy",
+  "moves": [
+   "Dragon Tail",
+   "Stealth Rock",
+   "Earthquake",
+   "Toxic"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Dragon Tail",
+   "Toxic"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/tyrunt/legends-z-a/"
+ },
+ "Tyrantrum": {
+  "nature": "Adamant",
+  "item": "Choice Scarf",
+  "ability": "Rock Head",
+  "moves": [
+   "Head Smash",
+   "Earthquake",
+   "Outrage",
+   "Crunch"
+  ],
+  "role": "Physical Revenge Killer",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/tyrantrum/legends-z-a/"
+ },
+ "Amaura": null,
+ "Aurorus": {
+  "nature": "Modest",
+  "item": "Focus Sash",
+  "ability": "Snow Warning",
+  "moves": [
+   "Blizzard",
+   "Ancient Power",
+   "Earth Power",
+   "Aurora Veil"
+  ],
+  "role": "Special Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Aurora Veil"
+  ],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/aurorus/legends-z-a/"
+ },
+ "Onix": {
+  "nature": "Sassy",
+  "item": "Eviolite",
+  "ability": "Sturdy",
+  "moves": [
+   "Stealth Rock",
+   "Toxic",
+   "Rock Tomb",
+   "Sunny Day"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Toxic",
+   "Sunny Day"
+  ],
+  "plus": "Sp. Def",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/onix/legends-z-a/"
+ },
+ "Steelix": {
+  "nature": "Hardy",
+  "item": "Rocky Helmet",
+  "ability": "Sturdy",
+  "moves": [
+   "Body Press",
+   "Earthquake",
+   "Iron Defense",
+   "Gyro Ball"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Body Press",
+   "Gyro Ball"
+  ],
+  "plus": "",
+  "minus": "",
+  "source": "https://rankedboost.com/pokemon/steelix/legends-z-a/"
+ },
+ "Aron": {
+  "nature": "Hardy",
+  "item": "Shell Bell",
+  "ability": "Sturdy",
+  "moves": [
+   "Endeavor",
+   "Toxic",
+   "Protect",
+   "Sandstorm"
+  ],
+  "role": "Utility",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Endeavor",
+   "Toxic",
+   "Sandstorm"
+  ],
+  "plus": "",
+  "minus": "",
+  "source": "https://rankedboost.com/pokemon/aron/legends-z-a/"
+ },
+ "Lairon": null,
+ "Aggron": {
+  "nature": "Adamant",
+  "item": "Leftovers",
+  "ability": "Sturdy",
+  "moves": [
+   "Body Press",
+   "Stealth Rock",
+   "Heavy Slam",
+   "Earthquake"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Body Press"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/aggron/legends-z-a/"
+ },
+ "Helioptile": null,
+ "Heliolisk": {
+  "nature": "Timid",
+  "item": "Choice Specs",
+  "ability": "Dry Skin",
+  "moves": [
+   "Hyper Voice",
+   "Volt Switch",
+   "Thunderbolt",
+   "Dragon Pulse"
+  ],
+  "role": "Special Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/heliolisk/legends-z-a/"
+ },
+ "Pumpkaboo": {
+  "nature": "Bold",
+  "item": "Eviolite",
+  "ability": "Frisk",
+  "moves": [
+   "Trick Or Treat",
+   "Curse",
+   "Destiny Bond",
+   "Dark Pulse"
+  ],
+  "role": "Bulky Support",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Destiny Bond"
+  ],
+  "plus": "Defense",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/pumpkaboo/legends-z-a/"
+ },
+ "Gourgeist": {
+  "nature": "Adamant",
+  "item": "Ghostiumz",
+  "ability": "Frisk",
+  "moves": [
+   "Poltergeist",
+   "Trick Or Treat",
+   "Shadow Sneak",
+   "Power Whip"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Poltergeist"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/gourgeist/legends-z-a/"
+ },
+ "Larvitar": {
+  "nature": "Jolly",
+  "item": "Flame Orb",
+  "ability": "Guts",
+  "moves": [
+   "Dragon Dance",
+   "Stone Edge",
+   "Facade",
+   "Outrage"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Dragon Dance"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/larvitar/legends-z-a/"
+ },
+ "Pupitar": {
+  "nature": "Jolly",
+  "item": "Eviolite",
+  "ability": "Shed Skin",
+  "moves": [
+   "Dragon Dance",
+   "Earthquake",
+   "Stone Edge",
+   "Rest"
+  ],
+  "role": "Utility",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Dragon Dance",
+   "Rest"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/pupitar/legends-z-a/"
+ },
+ "Tyranitar": {
+  "nature": "Adamant",
+  "item": "Choice Band",
+  "ability": "Sand Stream",
+  "moves": [
+   "Knock Off",
+   "Stone Edge",
+   "Ice Punch",
+   "Low Kick"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Low Kick"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/tyranitar/legends-z-a/"
+ },
+ "Froakie": {
+  "nature": "Hasty",
+  "item": "Focus Sash",
+  "ability": "Protean",
+  "moves": [
+   "Protect",
+   "Quick Attack",
+   "Hydro Pump",
+   "Ice Beam"
+  ],
+  "role": "Bulky Support",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Defense",
+  "source": "https://rankedboost.com/pokemon/froakie/legends-z-a/"
+ },
+ "Frogadier": {
+  "nature": "Jolly",
+  "item": "Choice Scarf",
+  "ability": "Protean",
+  "moves": [
+   "Spikes",
+   "Toxic Spikes",
+   "Switcheroo",
+   "U Turn"
+  ],
+  "role": "Physical Revenge Killer",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Switcheroo"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/frogadier/legends-z-a/"
+ },
+ "Greninja": {
+  "nature": "Timid",
+  "item": "Life Orb",
+  "ability": "Battle Bond",
+  "moves": [
+   "Dark Pulse",
+   "Ice Beam",
+   "Water Shuriken",
+   "Surf"
+  ],
+  "role": "Special Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/greninja/legends-z-a/"
+ },
+ "Falinks": {
+  "nature": "Adamant",
+  "item": "Leftovers",
+  "ability": "Defiant",
+  "moves": [
+   "No Retreat",
+   "Close Combat",
+   "Knock Off",
+   "Iron Head"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/falinks/legends-z-a/"
+ },
+ "Chespin": {
+  "nature": "Impish",
+  "item": "Eviolite",
+  "ability": "Bulletproof",
+  "moves": [
+   "Leech Seed",
+   "Drain Punch",
+   "Protect",
+   "Wood Hammer"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/chespin/legends-z-a/"
+ },
+ "Quilladin": {
+  "nature": "Impish",
+  "item": "Eviolite",
+  "ability": "Bulletproof",
+  "moves": [
+   "Spikes",
+   "Super Fang",
+   "Synthesis",
+   "Wood Hammer"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Super Fang",
+   "Synthesis"
+  ],
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/quilladin/legends-z-a/"
+ },
+ "Chesnaught": {
+  "nature": "Impish",
+  "item": "Rocky Helmet",
+  "ability": "Bulletproof",
+  "moves": [
+   "Body Press",
+   "Knock Off",
+   "Synthesis",
+   "Iron Defense"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Body Press",
+   "Synthesis"
+  ],
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/chesnaught/legends-z-a/"
+ },
+ "Skarmory": {
+  "nature": "Bold",
+  "item": "Rocky Helmet",
+  "ability": "Sturdy",
+  "moves": [
+   "Roost",
+   "Spikes",
+   "Body Press",
+   "Iron Defense"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Roost",
+   "Body Press"
+  ],
+  "plus": "Defense",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/skarmory/legends-z-a/"
+ },
+ "Fennekin": {
+  "nature": "Modest",
+  "item": "Eviolite",
+  "ability": "Magician",
+  "moves": [
+   "Flamethrower",
+   "Psychic",
+   "Will O Wisp",
+   "Calm Mind"
+  ],
+  "role": "Utility",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/fennekin/legends-z-a/"
+ },
+ "Braixen": {
+  "nature": "Modest",
+  "item": "Eviolite",
+  "ability": "Magician",
+  "moves": [
+   "Calm Mind",
+   "Psychic",
+   "Flamethrower",
+   "Fire Blast"
+  ],
+  "role": "Special Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/braixen/legends-z-a/"
+ },
+ "Delphox": {
+  "nature": "Timid",
+  "item": "Heavy Duty Boots",
+  "ability": "Blaze",
+  "moves": [
+   "Flamethrower",
+   "Fire Blast",
+   "Nasty Plot",
+   "Psychic"
+  ],
+  "role": "Special Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/delphox/legends-z-a/"
+ },
+ "Bagon": {
+  "nature": "Hardy",
+  "item": "Scope Lens",
+  "ability": "Rock Head",
+  "moves": [
+   "Focus Energy",
+   "Iron Defense",
+   "Double Edge",
+   "Protect"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "",
+  "minus": "",
+  "source": "https://rankedboost.com/pokemon/bagon/legends-z-a/"
+ },
+ "Shelgon": {
+  "nature": "Adamant",
+  "item": "Eviolite",
+  "ability": "Overcoat",
+  "moves": [
+   "Dragon Dance",
+   "Dragon Claw",
+   "Iron Head",
+   "Temper Flare"
+  ],
+  "role": "Utility",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Dragon Dance",
+   "Temper Flare"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/shelgon/legends-z-a/"
+ },
+ "Salamence": {
+  "nature": "Adamant",
+  "item": "Heavy Duty Boots",
+  "ability": "Moxie",
+  "moves": [
+   "Dragon Dance",
+   "Earthquake",
+   "Dual Wingbeat",
+   "Dragon Claw"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Dragon Dance"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/salamence/legends-z-a/"
+ },
+ "Kangaskhan": {
+  "nature": "Adamant",
+  "item": "Life Orb",
+  "ability": "Scrappy",
+  "moves": [
+   "Fake Out",
+   "Sucker Punch",
+   "Earthquake",
+   "Body Slam"
+  ],
+  "role": "Bulky Support",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Sucker Punch"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/kangaskhan/legends-z-a/"
+ },
+ "Drampa": {
+  "nature": "Bold",
+  "item": "Nothing",
+  "ability": "Berserk",
+  "moves": [
+   "Dragon Pulse",
+   "Hyper Voice",
+   "Sleep Talk",
+   "Rest"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Sleep Talk",
+   "Rest"
+  ],
+  "plus": "Defense",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/drampa/legends-z-a/"
+ },
+ "Beldum": {
+  "nature": "Brave",
+  "item": "Eviolite",
+  "ability": "Clear Body",
+  "moves": [
+   "Iron Head",
+   "Zen Headbutt",
+   "Iron Defense",
+   "Tera Blast"
+  ],
+  "role": "Physical Attacker",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Tera Blast"
+  ],
+  "plus": "Attack",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/beldum/legends-z-a/"
+ },
+ "Metang": {
+  "nature": "Adamant",
+  "item": "Eviolite",
+  "ability": "Clear Body",
+  "moves": [
+   "Bullet Punch",
+   "Meteor Mash",
+   "Zen Headbutt",
+   "Earthquake"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Meteor Mash"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/metang/legends-z-a/"
+ },
+ "Metagross": {
+  "nature": "Adamant",
+  "item": "Assault Vest",
+  "ability": "Clear Body",
+  "moves": [
+   "Earthquake",
+   "Bullet Punch",
+   "Psychic Fangs",
+   "Meteor Mash"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Meteor Mash"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/metagross/legends-z-a/"
+ },
+ "Xerneas": null,
+ "Yveltal": {
+  "nature": "Naive",
+  "item": "Life Orb",
+  "ability": "Dark Aura",
+  "moves": [
+   "Oblivion Wing",
+   "Dark Pulse",
+   "Sucker Punch",
+   "Taunt"
+  ],
+  "role": "Special Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Sucker Punch"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Def",
+  "source": "https://rankedboost.com/pokemon/yveltal/legends-z-a/"
+ },
+ "Zygarde": {
+  "nature": "Impish",
+  "item": "Leftovers",
+  "ability": "Power Construct",
+  "moves": [
+   "Thousand Arrows",
+   "Coil",
+   "Rest",
+   "Glare"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Coil",
+   "Rest"
+  ],
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/zygarde/legends-z-a/"
+ },
+ "Diancie": {
+  "nature": "Quiet",
+  "item": "Leftovers",
+  "ability": "Clear Body",
+  "moves": [
+   "Diamond Storm",
+   "Body Press",
+   "Moonblast",
+   "Earth Power"
+  ],
+  "role": "Special Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Body Press"
+  ],
+  "plus": "Sp. Atk",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/diancie/legends-z-a/"
+ },
+ "Mewtwo": {
+  "nature": "Timid",
+  "item": "Life Orb",
+  "ability": "Pressure",
+  "moves": [
+   "Psystrike",
+   "Psystrike",
+   "Aura Sphere",
+   "Nasty Plot"
+  ],
+  "role": "Special Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/mewtwo/legends-z-a/"
+ },
+ "Mankey": {
+  "nature": "Jolly",
+  "item": "Choice Scarf",
+  "ability": "Vital Spirit",
+  "moves": [
+   "Close Combat",
+   "U Turn",
+   "Earthquake",
+   "Assurance"
+  ],
+  "role": "Physical Revenge Killer",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Assurance"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/mankey/legends-z-a/"
+ },
+ "Primeape": {
+  "nature": "Jolly",
+  "item": "Eviolite",
+  "ability": "Defiant",
+  "moves": [
+   "Rage Fist",
+   "Bulk Up",
+   "Drain Punch",
+   "Taunt"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/primeape/legends-z-a/"
+ },
+ "Annihilape": {
+  "nature": "Jolly",
+  "item": "Leftovers",
+  "ability": "Defiant",
+  "moves": [
+   "Rage Fist",
+   "Rage Fist",
+   "Drain Punch",
+   "Drain Punch"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/annihilape/legends-z-a/"
+ },
+ "Meowth": {
+  "nature": "Jolly",
+  "item": "Focus Sash",
+  "ability": "Technician",
+  "moves": [
+   "Knock Off",
+   "Fake Out",
+   "Endeavor",
+   "Thunder Wave"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Endeavor"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/meowth/legends-z-a/"
+ },
+ "Persian": {
+  "nature": "Jolly",
+  "item": "Life Orb",
+  "ability": "Technician",
+  "moves": [
+   "Fake Out",
+   "U Turn",
+   "Knock Off",
+   "Thunder Wave"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/persian/legends-z-a/"
+ },
+ "Perrserker": {
+  "nature": "Adamant",
+  "item": "Choice Band",
+  "ability": "Tough Claws",
+  "moves": [
+   "Iron Head",
+   "Fake Out",
+   "Knock Off",
+   "U Turn"
+  ],
+  "role": "Physical Wallbreaker",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/perrserker/legends-z-a/"
+ },
+ "Farfetch'd": {
+  "nature": "Adamant",
+  "item": "Leek",
+  "ability": "Defiant",
+  "moves": [
+   "Knock Off",
+   "Brave Bird",
+   "Swords Dance",
+   "Roost"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Roost"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/farfetchd/legends-z-a/"
+ },
+ "Sirfetch'd": {
+  "nature": "Adamant",
+  "item": "Leek",
+  "ability": "Scrappy",
+  "moves": [
+   "First Impression",
+   "Close Combat",
+   "Meteor Assault",
+   "Knock Off"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/sirfetchd/legends-z-a/"
+ },
+ "Cubone": {
+  "nature": "Brave",
+  "item": "Thick Club",
+  "ability": "Battle Armor",
+  "moves": [
+   "Protect",
+   "Earthquake",
+   "Thunder Punch",
+   "Belly Drum"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Belly Drum"
+  ],
+  "plus": "Attack",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/cubone/legends-z-a/"
+ },
+ "Marowak": {
+  "nature": "Adamant",
+  "item": "Thick Club",
+  "ability": "Rock Head",
+  "moves": [
+   "Bonemerang",
+   "Stone Edge",
+   "Toxic",
+   "Detect"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Toxic"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/marowak/legends-z-a/"
+ },
+ "Porygon": {
+  "nature": "Sassy",
+  "item": "Eviolite",
+  "ability": "Trace",
+  "moves": [
+   "Recover",
+   "Thunderbolt",
+   "Ice Beam",
+   "Tri Attack"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Def",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/porygon/legends-z-a/"
+ },
+ "Porygon2": {
+  "nature": "Modest",
+  "item": "Eviolite",
+  "ability": "Download",
+  "moves": [
+   "Recover",
+   "Ice Beam",
+   "Tri Attack",
+   "Trick Room"
+  ],
+  "role": "Special Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Trick Room"
+  ],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/porygon2/legends-z-a/"
+ },
+ "Porygon-Z": {
+  "nature": "Timid",
+  "item": "Choice Specs",
+  "ability": "Adaptability",
+  "moves": [
+   "Ice Beam",
+   "Tri Attack",
+   "Thunderbolt",
+   "Shadow Ball"
+  ],
+  "role": "Special Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/porygon-z/legends-z-a/"
+ },
+ "Capsakid": {
+  "nature": "Mild",
+  "item": "Nothing",
+  "ability": "Chlorophyll",
+  "moves": [
+   "Energy Ball",
+   "Tera Blast",
+   "Seed Bomb",
+   "Magical Leaf"
+  ],
+  "role": "Utility",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Tera Blast"
+  ],
+  "plus": "Sp. Atk",
+  "minus": "Defense",
+  "source": "https://rankedboost.com/pokemon/capsakid/legends-z-a/"
+ },
+ "Scovillain": {
+  "nature": "Timid",
+  "item": "Life Orb",
+  "ability": "Chlorophyll",
+  "moves": [
+   "Flamethrower",
+   "Solar Beam",
+   "Giga Drain",
+   "Growth"
+  ],
+  "role": "Special Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/scovillain/legends-z-a/"
+ },
+ "Tinkatink": {
+  "nature": "Impish",
+  "item": "Eviolite",
+  "ability": "Mold Breaker",
+  "moves": [
+   "Encore",
+   "Thunder Wave",
+   "Foul Play",
+   "Stealth Rock"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Encore",
+   "Foul Play"
+  ],
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/tinkatink/legends-z-a/"
+ },
+ "Tinkatuff": {
+  "nature": "Impish",
+  "item": "Eviolite",
+  "ability": "Mold Breaker",
+  "moves": [
+   "Stealth Rock",
+   "Knock Off",
+   "Thunder Wave",
+   "Encore"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Encore"
+  ],
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/tinkatuff/legends-z-a/"
+ },
+ "Tinkaton": {
+  "nature": "Jolly",
+  "item": "Air Balloon",
+  "ability": "Mold Breaker",
+  "moves": [
+   "Gigaton Hammer",
+   "Stealth Rock",
+   "Encore",
+   "Thunder Wave"
+  ],
+  "role": "Hazard Setter",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Encore"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/tinkaton/legends-z-a/"
+ },
+ "Cyclizar": {
+  "nature": "Jolly",
+  "item": "Heavy Duty Boots",
+  "ability": "Regenerator",
+  "moves": [
+   "Rapid Spin",
+   "U Turn",
+   "Knock Off",
+   "Draco Meteor"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Rapid Spin"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/cyclizar/legends-z-a/"
+ },
+ "Glimmet": {
+  "nature": "Bold",
+  "item": "Eviolite",
+  "ability": "Toxic Debris",
+  "moves": [
+   "Stealth Rock",
+   "Toxic",
+   "Sludge Bomb",
+   "Spikes"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Defense",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/glimmet/legends-z-a/"
+ },
+ "Glimmora": {
+  "nature": "Timid",
+  "item": "Focus Sash",
+  "ability": "Toxic Debris",
+  "moves": [
+   "Mortal Spin",
+   "Earth Power",
+   "Stealth Rock",
+   "Power Gem"
+  ],
+  "role": "Special Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/glimmora/legends-z-a/"
+ },
+ "Rotom": {
+  "nature": "Timid",
+  "item": "Life Orb",
+  "ability": "Levitate",
+  "moves": [
+   "Volt Switch",
+   "Shadow Ball",
+   "Thunderbolt",
+   "Will O Wisp"
+  ],
+  "role": "Special Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/rotom/legends-z-a/"
+ },
+ "Greavard": {
+  "nature": "Calm",
+  "item": "Eviolite",
+  "ability": "Fluffy",
+  "moves": [
+   "Charm",
+   "Memento",
+   "Night Shade",
+   "Protect"
+  ],
+  "role": "Bulky Support",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Memento",
+   "Night Shade"
+  ],
+  "plus": "Sp. Def",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/greavard/legends-z-a/"
+ },
+ "Houndstone": {
+  "nature": "Adamant",
+  "item": "Leftovers",
+  "ability": "Fluffy",
+  "moves": [
+   "Will O Wisp",
+   "Poltergeist",
+   "Shadow Sneak",
+   "Play Rough"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Poltergeist"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/houndstone/legends-z-a/"
+ },
+ "Sandygast": {
+  "nature": "Bold",
+  "item": "Eviolite",
+  "ability": "Water Compaction",
+  "moves": [
+   "Stealth Rock",
+   "Scorching Sands",
+   "Energy Ball",
+   "Pain Split"
+  ],
+  "role": "Hazard Setter",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Pain Split"
+  ],
+  "plus": "Defense",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/sandygast/legends-z-a/"
+ },
+ "Palossand": {
+  "nature": "Bold",
+  "item": "Leftovers",
+  "ability": "Water Compaction",
+  "moves": [
+   "Shore Up",
+   "Stealth Rock",
+   "Shadow Ball",
+   "Scorching Sands"
+  ],
+  "role": "Hazard Setter",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Defense",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/palossand/legends-z-a/"
+ },
+ "Kecleon": {
+  "nature": "Impish",
+  "item": "Assault Vest",
+  "ability": "Protean",
+  "moves": [
+   "Drain Punch",
+   "Sucker Punch",
+   "Power Up Punch",
+   "Ice Punch"
+  ],
+  "role": "Bulky Support",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Sucker Punch"
+  ],
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/kecleon/legends-z-a/"
+ },
+ "Flamigo": {
+  "nature": "Jolly",
+  "item": "Choice Scarf",
+  "ability": "Scrappy",
+  "moves": [
+   "Close Combat",
+   "Brave Bird",
+   "U Turn",
+   "Upper Hand"
+  ],
+  "role": "Physical Revenge Killer",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Upper Hand"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/flamigo/legends-z-a/"
+ },
+ "Cryogonal": {
+  "nature": "Timid",
+  "item": "Heavy Duty Boots",
+  "ability": "Levitate",
+  "moves": [
+   "Rapid Spin",
+   "Freeze Dry",
+   "Recover",
+   "Flash Cannon"
+  ],
+  "role": "Special Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Rapid Spin"
+  ],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/cryogonal/legends-z-a/"
+ },
+ "Dondozo": {
+  "nature": "Impish",
+  "item": "Leftovers",
+  "ability": "Unaware",
+  "moves": [
+   "Rest",
+   "Sleep Talk",
+   "Curse",
+   "Body Press"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Rest",
+   "Sleep Talk",
+   "Body Press"
+  ],
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/dondozo/legends-z-a/"
+ },
+ "Tatsugiri": {
+  "nature": "Timid",
+  "item": "Heavy Duty Boots",
+  "ability": "Storm Drain",
+  "moves": [
+   "Rapid Spin",
+   "Surf",
+   "Nasty Plot",
+   "Draco Meteor"
+  ],
+  "role": "Special Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Rapid Spin"
+  ],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/tatsugiri/legends-z-a/"
+ },
+ "Frigibax": {
+  "nature": "Careful",
+  "item": "Eviolite",
+  "ability": "Thermal Exchange",
+  "moves": [
+   "Icicle Crash",
+   "Swords Dance",
+   "Outrage",
+   "Dragon Claw"
+  ],
+  "role": "Bulky Support",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Def",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/frigibax/legends-z-a/"
+ },
+ "Arctibax": {
+  "nature": "Adamant",
+  "item": "Eviolite",
+  "ability": "Thermal Exchange",
+  "moves": [
+   "Icicle Crash",
+   "Outrage",
+   "Swords Dance",
+   "Iron Head"
+  ],
+  "role": "Bulky Support",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/arctibax/legends-z-a/"
+ },
+ "Baxcalibur": {
+  "nature": "Adamant",
+  "item": "Loaded Dice",
+  "ability": "Thermal Exchange",
+  "moves": [
+   "Dragon Dance",
+   "Dragon Dance",
+   "Glaive Rush",
+   "Icicle Spear"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Dragon Dance",
+   "Dragon Dance"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/baxcalibur/legends-z-a/"
+ },
+ "Gimmighoul": {
+  "nature": "Modest",
+  "item": "Eviolite",
+  "ability": "Rattled",
+  "moves": [
+   "Shadow Ball",
+   "Power Gem",
+   "Tera Blast",
+   "Nasty Plot"
+  ],
+  "role": "Special Attacker",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Tera Blast"
+  ],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/gimmighoul/legends-z-a/"
+ },
+ "Gholdengo": {
+  "nature": "Timid",
+  "item": "Air Balloon",
+  "ability": "Good as Gold",
+  "moves": [
+   "Make It Rain",
+   "Shadow Ball",
+   "Nasty Plot",
+   "Recover"
+  ],
+  "role": "Special Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/gholdengo/legends-z-a/"
+ },
+ "Qwilfish": {
+  "nature": "Adamant",
+  "item": "Wide Lens",
+  "ability": "Intimidate",
+  "moves": [
+   "Fell Stinger",
+   "Toxic",
+   "Spikes",
+   "Gunk Shot"
+  ],
+  "role": "Support",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Fell Stinger"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/qwilfish/legends-z-a/"
+ },
+ "Overqwil": {
+  "nature": "Adamant",
+  "item": "Life Orb",
+  "ability": "Swift Swim",
+  "moves": [
+   "Crunch",
+   "Liquidation",
+   "Gunk Shot",
+   "Barb Barrage"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/overqwil/legends-z-a/"
+ },
+ "Treecko": {
+  "nature": "Modest",
+  "item": "Focus Sash",
+  "ability": "Overgrow",
+  "moves": [
+   "Endeavor",
+   "Quick Attack",
+   "Leech Seed",
+   "Leaf Storm"
+  ],
+  "role": "Utility",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Endeavor"
+  ],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/treecko/legends-z-a/"
+ },
+ "Grovyle": {
+  "nature": "Jolly",
+  "item": "Eviolite",
+  "ability": "Unburden",
+  "moves": [
+   "X Scissor",
+   "Substitute",
+   "Leech Seed",
+   "Seed Bomb"
+  ],
+  "role": "Physical Attacker",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/grovyle/legends-z-a/"
+ },
+ "Sceptile": {
+  "nature": "Adamant",
+  "item": "Leftovers",
+  "ability": "Unburden",
+  "moves": [
+   "Leaf Blade",
+   "Swords Dance",
+   "Dragon Pulse",
+   "Earthquake"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/sceptile/legends-z-a/"
+ },
+ "Torchic": {
+  "nature": "Calm",
+  "item": "Nothing",
+  "ability": "Blaze",
+  "moves": [
+   "Flame Charge",
+   "Flamethrower",
+   "Body Slam",
+   "Fire Blast"
+  ],
+  "role": "Utility",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Def",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/torchic/legends-z-a/"
+ },
+ "Combusken": {
+  "nature": "Adamant",
+  "item": "Eviolite",
+  "ability": "Speed Boost",
+  "moves": [
+   "Protect",
+   "Swords Dance",
+   "Close Combat",
+   "Fire Punch"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/combusken/legends-z-a/"
+ },
+ "Blaziken": {
+  "nature": "Adamant",
+  "item": "Life Orb",
+  "ability": "Speed Boost",
+  "moves": [
+   "Close Combat",
+   "Swords Dance",
+   "Flare Blitz",
+   "Protect"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/blaziken/legends-z-a/"
+ },
+ "Mudkip": {
+  "nature": "Modest",
+  "item": "Life Orb",
+  "ability": "Torrent",
+  "moves": [
+   "Blizzard",
+   "Hydro Pump",
+   "Yawn",
+   "Earth Power"
+  ],
+  "role": "Special Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Yawn"
+  ],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/mudkip/legends-z-a/"
+ },
+ "Marshtomp": {
+  "nature": "Adamant",
+  "item": "Eviolite",
+  "ability": "Torrent",
+  "moves": [
+   "Liquidation",
+   "Earthquake",
+   "Endeavor",
+   "Stealth Rock"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Endeavor"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/marshtomp/legends-z-a/"
+ },
+ "Swampert": {
+  "nature": "Adamant",
+  "item": "Leftovers",
+  "ability": "Torrent",
+  "moves": [
+   "Earthquake",
+   "Flip Turn",
+   "Stealth Rock",
+   "Liquidation"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/swampert/legends-z-a/"
+ },
+ "Feebas": {
+  "nature": "Timid",
+  "item": "Focus Sash",
+  "ability": "Oblivious",
+  "moves": [
+   "Ice Beam",
+   "Mirror Coat",
+   "Light Screen",
+   "Whirlpool"
+  ],
+  "role": "Special Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Mirror Coat"
+  ],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/feebas/legends-z-a/"
+ },
+ "Milotic": {
+  "nature": "Modest",
+  "item": "Leftovers",
+  "ability": "Marvel Scale",
+  "moves": [
+   "Scald",
+   "Recover",
+   "Ice Beam",
+   "Haze"
+  ],
+  "role": "Special Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/milotic/legends-z-a/"
+ },
+ "Chingling": {
+  "nature": "Timid",
+  "item": "Eviolite",
+  "ability": "Levitate",
+  "moves": [
+   "Recover",
+   "Cosmic Power",
+   "Stored Power",
+   "Baton Pass"
+  ],
+  "role": "Utility",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Recover",
+   "Cosmic Power",
+   "Stored Power",
+   "Baton Pass"
+  ],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/chingling/legends-z-a/"
+ },
+ "Chimecho": {
+  "nature": "Hardy",
+  "item": "Leftovers",
+  "ability": "Levitate",
+  "moves": [
+   "Cosmic Power",
+   "Stored Power",
+   "Recover",
+   "Heal Bell"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Cosmic Power",
+   "Stored Power",
+   "Recover",
+   "Heal Bell"
+  ],
+  "plus": "",
+  "minus": "",
+  "source": "https://rankedboost.com/pokemon/chimecho/legends-z-a/"
+ },
+ "Indeedee": {
+  "nature": "Timid",
+  "item": "Terrain Extender",
+  "ability": "Psychic Surge",
+  "moves": [
+   "Expanding Force",
+   "Healing Wish",
+   "Encore",
+   "Dazzling Gleam"
+  ],
+  "role": "Support",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Expanding Force",
+   "Healing Wish",
+   "Encore"
+  ],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/indeedee/legends-z-a/"
+ },
+ "Purrloin": {
+  "nature": "Adamant",
+  "item": "Eviolite",
+  "ability": "Prankster",
+  "moves": [
+   "Thunder Wave",
+   "Encore",
+   "Fake Out",
+   "Taunt"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Encore"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/purrloin/legends-z-a/"
+ },
+ "Liepard": {
+  "nature": "Modest",
+  "item": "Focus Sash",
+  "ability": "Prankster",
+  "moves": [
+   "Encore",
+   "Dark Pulse",
+   "Nasty Plot",
+   "Thunder Wave"
+  ],
+  "role": "Special Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Encore"
+  ],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/liepard/legends-z-a/"
+ },
+ "Munna": null,
+ "Musharna": {
+  "nature": "Modest",
+  "item": "Leftovers",
+  "ability": "Synchronize",
+  "moves": [
+   "Calm Mind",
+   "Moonlight",
+   "Psychic",
+   "Dream Eater"
+  ],
+  "role": "Special Attacker",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/musharna/legends-z-a/"
+ },
+ "Throh": {
+  "nature": "Adamant",
+  "item": "Flame Orb",
+  "ability": "Guts",
+  "moves": [
+   "Storm Throw",
+   "Knock Off",
+   "Circle Throw",
+   "Facade"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Knock Off"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/throh/legends-z-a/"
+ },
+ "Sawk": {
+  "nature": "Jolly",
+  "item": "Salac Berry",
+  "ability": "Sturdy",
+  "moves": [
+   "Close Combat",
+   "Knock Off",
+   "Stone Edge",
+   "Reversal"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Reversal"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/sawk/legends-z-a/"
+ },
+ "Yamask": {
+  "nature": "Relaxed",
+  "item": "Eviolite",
+  "ability": "Mummy",
+  "moves": [
+   "Will O Wisp",
+   "Hex",
+   "Knock Off",
+   "Toxic Spikes"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Hex"
+  ],
+  "plus": "Defense",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/yamask/legends-z-a/"
+ },
+ "Cofagrigus": {
+  "nature": "Bold",
+  "item": "Leftovers",
+  "ability": "Mummy",
+  "moves": [
+   "Hex",
+   "Will O Wisp",
+   "Pain Split",
+   "Toxic"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Hex",
+   "Pain Split",
+   "Toxic"
+  ],
+  "plus": "Defense",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/cofagrigus/legends-z-a/"
+ },
+ "Runerigus": {
+  "nature": "Hardy",
+  "item": "Leftovers",
+  "ability": "Wandering Spirit",
+  "moves": [
+   "Body Press",
+   "Poltergeist",
+   "Earthquake",
+   "Stealth Rock"
+  ],
+  "role": "Hazard Setter",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Body Press",
+   "Poltergeist"
+  ],
+  "plus": "",
+  "minus": "",
+  "source": "https://rankedboost.com/pokemon/runerigus/legends-z-a/"
+ },
+ "Wimpod": null,
+ "Golisopod": {
+  "nature": "Adamant",
+  "item": "Sitrus Berry",
+  "ability": "Emergency Exit",
+  "moves": [
+   "First Impression",
+   "Liquidation",
+   "Leech Life",
+   "Aqua Jet"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/golisopod/legends-z-a/"
+ },
+ "Nickit": null,
+ "Thievul": {
+  "nature": "Modest",
+  "item": "Focus Sash",
+  "ability": "Unburden",
+  "moves": [
+   "Dark Pulse",
+   "Burning Jealousy",
+   "Nasty Plot",
+   "Psychic"
+  ],
+  "role": "Special Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Burning Jealousy"
+  ],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/thievul/legends-z-a/"
+ },
+ "Clobbopus": {
+  "nature": "Jolly",
+  "item": "Eviolite",
+  "ability": "Technician",
+  "moves": [
+   "Ice Punch",
+   "Liquidation",
+   "Power Up Punch",
+   "Brick Break"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/clobbopus/legends-z-a/"
+ },
+ "Grapploct": {
+  "nature": "Brave",
+  "item": "Leftovers",
+  "ability": "Limber",
+  "moves": [
+   "Drain Punch",
+   "Sucker Punch",
+   "Stomping Tantrum",
+   "Muddy Water"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Sucker Punch",
+   "Stomping Tantrum"
+  ],
+  "plus": "Attack",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/grapploct/legends-z-a/"
+ },
+ "Mimikyu": {
+  "nature": "Jolly",
+  "item": "Red Card",
+  "ability": "Disguise",
+  "moves": [
+   "Play Rough",
+   "Shadow Sneak",
+   "Swords Dance",
+   "Shadow Claw"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/mimikyu/legends-z-a/"
+ },
+ "Kleavor": {
+  "nature": "Jolly",
+  "item": "Choice Scarf",
+  "ability": "Sharpness",
+  "moves": [
+   "Stone Axe",
+   "X Scissor",
+   "U Turn",
+   "Close Combat"
+  ],
+  "role": "Physical Revenge Killer",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/kleavor/legends-z-a/"
+ },
+ "Morpeko": {
+  "nature": "Jolly",
+  "item": "Heavy Duty Boots",
+  "ability": "Hunger Switch",
+  "moves": [
+   "Aura Wheel",
+   "Rapid Spin",
+   "Parting Shot",
+   "Knock Off"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Rapid Spin"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/morpeko/legends-z-a/"
+ },
+ "Golett": {
+  "nature": "Brave",
+  "item": "Rocky Helmet",
+  "ability": "Iron Fist",
+  "moves": [
+   "Curse",
+   "Brick Break",
+   "Shadow Ball",
+   "Earthquake"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/golett/legends-z-a/"
+ },
+ "Golurk": {
+  "nature": "Adamant",
+  "item": "Choice Band",
+  "ability": "No Guard",
+  "moves": [
+   "Earthquake",
+   "Poltergeist",
+   "Dynamic Punch",
+   "Ice Punch"
+  ],
+  "role": "Physical Wallbreaker",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Poltergeist"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/golurk/legends-z-a/"
+ },
+ "Rookidee": {
+  "nature": "Adamant",
+  "item": "Focus Sash",
+  "ability": "Unnerve",
+  "moves": [
+   "Drill Peck",
+   "Tailwind",
+   "Defog",
+   "Brave Bird"
+  ],
+  "role": "Physical Attacker",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Drill Peck",
+   "Tailwind",
+   "Defog"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/rookidee/legends-z-a/"
+ },
+ "Corvisquire": {
+  "nature": "Sassy",
+  "item": "Eviolite",
+  "ability": "Unnerve",
+  "moves": [
+   "Tailwind",
+   "Defog",
+   "U Turn",
+   "Taunt"
+  ],
+  "role": "Pivot",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Tailwind",
+   "Defog"
+  ],
+  "plus": "Sp. Def",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/corvisquire/legends-z-a/"
+ },
+ "Corviknight": {
+  "nature": "Impish",
+  "item": "Rocky Helmet",
+  "ability": "Pressure",
+  "moves": [
+   "Roost",
+   "Defog",
+   "U Turn",
+   "Body Press"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Roost",
+   "Defog",
+   "Body Press"
+  ],
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/corviknight/legends-z-a/"
+ },
+ "Igglybuff": {
+  "nature": "Mild",
+  "item": "Eviolite",
+  "ability": "Friend Guard",
+  "moves": [
+   "Heal Pulse",
+   "Thunder Wave",
+   "Disable",
+   "Draining Kiss"
+  ],
+  "role": "Special Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Heal Pulse",
+   "Disable"
+  ],
+  "plus": "Sp. Atk",
+  "minus": "Defense",
+  "source": "https://rankedboost.com/pokemon/igglybuff/legends-z-a/"
+ },
+ "Jigglypuff": {
+  "nature": "Bold",
+  "item": "Focus Sash",
+  "ability": "Competitive",
+  "moves": [
+   "Calm Mind",
+   "Draining Kiss",
+   "Hyper Voice",
+   "Wish"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Defense",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/jigglypuff/legends-z-a/"
+ },
+ "Wigglytuff": {
+  "nature": "Modest",
+  "item": "Leftovers",
+  "ability": "Competitive",
+  "moves": [
+   "Alluring Voice",
+   "Fire Blast",
+   "Ice Beam",
+   "Thunderbolt"
+  ],
+  "role": "Special Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Alluring Voice"
+  ],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/wigglytuff/legends-z-a/"
+ },
+ "Fidough": {
+  "nature": "Impish",
+  "item": "Eviolite",
+  "ability": "Own Tempo",
+  "moves": [
+   "Play Rough",
+   "Wish",
+   "Protect",
+   "Yawn"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Yawn"
+  ],
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/fidough/legends-z-a/"
+ },
+ "Dachsbun": {
+  "nature": "Impish",
+  "item": "Leftovers",
+  "ability": "Well-Baked Body",
+  "moves": [
+   "Body Press",
+   "Play Rough",
+   "Wish",
+   "Protect"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Body Press"
+  ],
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/dachsbun/legends-z-a/"
+ },
+ "Starly": {
+  "nature": "Lonely",
+  "item": "Focus Sash",
+  "ability": "Keen Eye",
+  "moves": [
+   "Endeavor",
+   "Quick Attack",
+   "Protect",
+   "Rest"
+  ],
+  "role": "Mixed Attacker",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Endeavor",
+   "Rest"
+  ],
+  "plus": "Attack",
+  "minus": "Defense",
+  "source": "https://rankedboost.com/pokemon/starly/legends-z-a/"
+ },
+ "Staravia": {
+  "nature": "Adamant",
+  "item": "Choice Band",
+  "ability": "Intimidate",
+  "moves": [
+   "Quick Attack",
+   "Brave Bird",
+   "Double Edge",
+   "U Turn"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/staravia/legends-z-a/"
+ },
+ "Staraptor": {
+  "nature": "Jolly",
+  "item": "Choice Scarf",
+  "ability": "Reckless",
+  "moves": [
+   "Brave Bird",
+   "Close Combat",
+   "U Turn",
+   "Double Edge"
+  ],
+  "role": "Physical Revenge Killer",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/staraptor/legends-z-a/"
+ },
+ "Spoink": {
+  "nature": "Bold",
+  "item": "Eviolite",
+  "ability": "Thick Fat",
+  "moves": [
+   "Psychic",
+   "Night Shade",
+   "Thunder Wave",
+   "Whirlwind"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Night Shade"
+  ],
+  "plus": "Defense",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/spoink/legends-z-a/"
+ },
+ "Grumpig": {
+  "nature": "Timid",
+  "item": "Leftovers",
+  "ability": "Thick Fat",
+  "moves": [
+   "Psychic",
+   "Calm Mind",
+   "Shadow Ball",
+   "Earth Power"
+  ],
+  "role": "Special Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/grumpig/legends-z-a/"
+ },
+ "Squawkabilly": {
+  "nature": "Jolly",
+  "item": "Choice Scarf",
+  "ability": "Intimidate",
+  "moves": [
+   "Brave Bird",
+   "Quick Attack",
+   "Parting Shot",
+   "Tailwind"
+  ],
+  "role": "Physical Revenge Killer",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Tailwind"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/squawkabilly/legends-z-a/"
+ },
+ "Crabrawler": {
+  "nature": "Adamant",
+  "item": "Eviolite",
+  "ability": "Iron Fist",
+  "moves": [
+   "Drain Punch",
+   "Thunder Punch",
+   "Bulk Up",
+   "Ice Punch"
+  ],
+  "role": "Bulky Support",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/crabrawler/legends-z-a/"
+ },
+ "Crabominable": {
+  "nature": "Adamant",
+  "item": "Life Orb",
+  "ability": "Iron Fist",
+  "moves": [
+   "Ice Hammer",
+   "Drain Punch",
+   "Thunder Punch",
+   "Earthquake"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/crabominable/legends-z-a/"
+ },
+ "Nacli": {
+  "nature": "Careful",
+  "item": "Eviolite",
+  "ability": "Purifying Salt",
+  "moves": [
+   "Recover",
+   "Earthquake",
+   "Stealth Rock",
+   "Stone Edge"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Def",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/nacli/legends-z-a/"
+ },
+ "Naclstack": {
+  "nature": "Impish",
+  "item": "Eviolite",
+  "ability": "Purifying Salt",
+  "moves": [
+   "Salt Cure",
+   "Recover",
+   "Body Press",
+   "Protect"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Body Press"
+  ],
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/naclstack/legends-z-a/"
+ },
+ "Garganacl": {
+  "nature": "Careful",
+  "item": "Leftovers",
+  "ability": "Purifying Salt",
+  "moves": [
+   "Salt Cure",
+   "Recover",
+   "Protect",
+   "Stealth Rock"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Def",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/garganacl/legends-z-a/"
+ },
+ "Gulpin": {
+  "nature": "Calm",
+  "item": "Focus Sash",
+  "ability": "Sticky Hold",
+  "moves": [
+   "Toxic",
+   "Destiny Bond",
+   "Protect",
+   "Mud Slap"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Destiny Bond",
+   "Mud Slap"
+  ],
+  "plus": "Sp. Def",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/gulpin/legends-z-a/"
+ },
+ "Swalot": {
+  "nature": "Sassy",
+  "item": "Black Sludge",
+  "ability": "Liquid Ooze",
+  "moves": [
+   "Toxic",
+   "Body Press",
+   "Destiny Bond",
+   "Sludge Bomb"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Body Press",
+   "Destiny Bond"
+  ],
+  "plus": "Sp. Def",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/swalot/legends-z-a/"
+ },
+ "Zubat": {
+  "nature": "Careful",
+  "item": "Focus Sash",
+  "ability": "Infiltrator",
+  "moves": [
+   "Haze",
+   "Toxic",
+   "Quick Attack",
+   "Protect"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Toxic"
+  ],
+  "plus": "Sp. Def",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/zubat/legends-z-a/"
+ },
+ "Golbat": {
+  "nature": "Impish",
+  "item": "Eviolite",
+  "ability": "Infiltrator",
+  "moves": [
+   "Brave Bird",
+   "Roost",
+   "Defog",
+   "U Turn"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Brave Bird",
+   "Roost",
+   "Defog"
+  ],
+  "plus": "Defense",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/golbat/legends-z-a/"
+ },
+ "Crobat": {
+  "nature": "Jolly",
+  "item": "Heavy Duty Boots",
+  "ability": "Infiltrator",
+  "moves": [
+   "Brave Bird",
+   "Defog",
+   "Roost",
+   "U Turn"
+  ],
+  "role": "Support",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Defog",
+   "Roost"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/crobat/legends-z-a/"
+ },
+ "Charcadet": {
+  "nature": "Calm",
+  "item": "Shell Bell",
+  "ability": "Flash Fire",
+  "moves": [
+   "Destiny Bond",
+   "Will O Wisp",
+   "Flamethrower",
+   "Fire Spin"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Destiny Bond"
+  ],
+  "plus": "Sp. Def",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/charcadet/legends-z-a/"
+ },
+ "Armarouge": {
+  "nature": "Modest",
+  "item": "Weakness Policy",
+  "ability": "Weak Armor",
+  "moves": [
+   "Armor Cannon",
+   "Calm Mind",
+   "Expanding Force",
+   "Endure"
+  ],
+  "role": "Special Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Expanding Force"
+  ],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/armarouge/legends-z-a/"
+ },
+ "Ceruledge": {
+  "nature": "Jolly",
+  "item": "Focus Sash",
+  "ability": "Weak Armor",
+  "moves": [
+   "Bitter Blade",
+   "Swords Dance",
+   "Shadow Sneak",
+   "Poltergeist"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Poltergeist"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/ceruledge/legends-z-a/"
+ },
+ "Maschiff": {
+  "nature": "Jolly",
+  "item": "Eviolite",
+  "ability": "Stakeout",
+  "moves": [
+   "Crunch",
+   "Play Rough",
+   "Trailblaze",
+   "Psychic Fangs"
+  ],
+  "role": "Physical Attacker",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/maschiff/legends-z-a/"
+ },
+ "Mabosstiff": {
+  "nature": "Jolly",
+  "item": "Choice Band",
+  "ability": "Stakeout",
+  "moves": [
+   "Crunch",
+   "Play Rough",
+   "Psychic Fangs",
+   "Destiny Bond"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Destiny Bond"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/mabosstiff/legends-z-a/"
+ },
+ "Toxel": {
+  "nature": "Mild",
+  "item": "Air Balloon",
+  "ability": "Static",
+  "moves": [
+   "Nuzzle",
+   "Tera Blast",
+   "Acid",
+   "Metal Sound"
+  ],
+  "role": "Special Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Tera Blast",
+   "Acid",
+   "Metal Sound"
+  ],
+  "plus": "Sp. Atk",
+  "minus": "Defense",
+  "source": "https://rankedboost.com/pokemon/toxel/legends-z-a/"
+ },
+ "Toxtricity": {
+  "nature": "Modest",
+  "item": "Throat Spray",
+  "ability": "Punk Rock",
+  "moves": [
+   "Boomburst",
+   "Overdrive",
+   "Volt Switch",
+   "Sludge Wave"
+  ],
+  "role": "Special Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/toxtricity/legends-z-a/"
+ },
+ "Shroodle": {
+  "nature": "Brave",
+  "item": "Air Balloon",
+  "ability": "Prankster",
+  "moves": [
+   "Copycat",
+   "Toxic",
+   "Dig",
+   "Encore"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Copycat",
+   "Encore"
+  ],
+  "plus": "Attack",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/shroodle/legends-z-a/"
+ },
+ "Grafaiai": {
+  "nature": "Jolly",
+  "item": "Choice Band",
+  "ability": "Prankster",
+  "moves": [
+   "Knock Off",
+   "Parting Shot",
+   "Encore",
+   "Toxic"
+  ],
+  "role": "Support",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Encore"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/grafaiai/legends-z-a/"
+ },
+ "Zangoose": {
+  "nature": "Jolly",
+  "item": "Toxic Orb",
+  "ability": "Toxic Boost",
+  "moves": [
+   "Facade",
+   "Knock Off",
+   "Quick Attack",
+   "Close Combat"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/zangoose/legends-z-a/"
+ },
+ "Seviper": {
+  "nature": "Naive",
+  "item": "Choice Scarf",
+  "ability": "Infiltrator",
+  "moves": [
+   "Switcheroo",
+   "Glare",
+   "Flamethrower",
+   "Dark Pulse"
+  ],
+  "role": "Special Revenge Killer",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Switcheroo"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Def",
+  "source": "https://rankedboost.com/pokemon/seviper/legends-z-a/"
+ },
+ "Mime Jr.": {
+  "nature": "Calm",
+  "item": "Eviolite",
+  "ability": "Filter",
+  "moves": [
+   "Healing Wish",
+   "Protect",
+   "Thunder Wave",
+   "Light Screen"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Healing Wish"
+  ],
+  "plus": "Sp. Def",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/mime-jr/legends-z-a/"
+ },
+ "Mr. Mime": {
+  "nature": "Timid",
+  "item": "Light Clay",
+  "ability": "Filter",
+  "moves": [
+   "Psychic",
+   "Dazzling Gleam",
+   "Reflect",
+   "Light Screen"
+  ],
+  "role": "Screens Setter",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/mr-mime/legends-z-a/"
+ },
+ "Mr. Rime": {
+  "nature": "Modest",
+  "item": "Heavy Duty Boots",
+  "ability": "Screen Cleaner",
+  "moves": [
+   "Freeze Dry",
+   "Psychic",
+   "Rapid Spin",
+   "Ice Beam"
+  ],
+  "role": "Bulky Support",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Rapid Spin"
+  ],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/mr-rime/legends-z-a/"
+ },
+ "Foongus": {
+  "nature": "Relaxed",
+  "item": "Eviolite",
+  "ability": "Regenerator",
+  "moves": [
+   "Foul Play",
+   "Protect",
+   "Toxic",
+   "Venoshock"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Foul Play",
+   "Venoshock"
+  ],
+  "plus": "Defense",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/foongus/legends-z-a/"
+ },
+ "Amoonguss": {
+  "nature": "Bold",
+  "item": "Heavy Duty Boots",
+  "ability": "Regenerator",
+  "moves": [
+   "Toxic",
+   "Giga Drain",
+   "Clear Smog",
+   "Foul Play"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Clear Smog",
+   "Foul Play"
+  ],
+  "plus": "Defense",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/amoonguss/legends-z-a/"
+ },
+ "Heatran": {
+  "nature": "Timid",
+  "item": "Leftovers",
+  "ability": "Flash Fire",
+  "moves": [
+   "Earth Power",
+   "Magma Storm",
+   "Stealth Rock",
+   "Taunt"
+  ],
+  "role": "Special Stallbreaker",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/heatran/legends-z-a/"
+ },
+ "Volcanion": {
+  "nature": "Modest",
+  "item": "Choice Specs",
+  "ability": "Water Absorb",
+  "moves": [
+   "Steam Eruption",
+   "Flamethrower",
+   "Earth Power",
+   "Sludge Bomb"
+  ],
+  "role": "Special Wallbreaker",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/volcanion/legends-z-a/"
+ },
+ "Cobalion": {
+  "nature": "Timid",
+  "item": "Focus Sash",
+  "ability": "Justified",
+  "moves": [
+   "Stealth Rock",
+   "Body Press",
+   "Taunt",
+   "Steel Beam"
+  ],
+  "role": "Special Stallbreaker",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Body Press"
+  ],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/cobalion/legends-z-a/"
+ },
+ "Terrakion": {
+  "nature": "Jolly",
+  "item": "Leftovers",
+  "ability": "Justified",
+  "moves": [
+   "Close Combat",
+   "Stone Edge",
+   "Earthquake",
+   "Swords Dance"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/terrakion/legends-z-a/"
+ },
+ "Virizion": {
+  "nature": "Jolly",
+  "item": "Lum Berry",
+  "ability": "Justified",
+  "moves": [
+   "Leaf Blade",
+   "Stone Edge",
+   "Swords Dance",
+   "Close Combat"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/virizion/legends-z-a/"
+ },
+ "Keldeo": {
+  "nature": "Timid",
+  "item": "Choice Specs",
+  "ability": "Justified",
+  "moves": [
+   "Surf",
+   "Secret Sword",
+   "Vacuum Wave",
+   "Flip Turn"
+  ],
+  "role": "Special Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/keldeo/legends-z-a/"
+ },
+ "Meloetta": {
+  "nature": "Timid",
+  "item": "Assault Vest",
+  "ability": "Serene Grace",
+  "moves": [
+   "Psychic",
+   "Shadow Ball",
+   "Relic Song",
+   "Thunderbolt"
+  ],
+  "role": "Special Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/meloetta/legends-z-a/"
+ },
+ "Genesect": {
+  "nature": "Adamant",
+  "item": "Choice Scarf",
+  "ability": "Download",
+  "moves": [
+   "U Turn",
+   "Techno Blast",
+   "Iron Head",
+   "Extreme Speed"
+  ],
+  "role": "Physical Revenge Killer",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Extreme Speed"
+  ],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/genesect/legends-z-a/"
+ },
+ "Hoopa": {
+  "nature": "Quiet",
+  "item": "Assault Vest",
+  "ability": "Magician",
+  "moves": [
+   "Shadow Ball",
+   "Psychic",
+   "Focus Blast",
+   "Psyshock"
+  ],
+  "role": "Special Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Atk",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/hoopa/legends-z-a/"
+ },
+ "Marshadow": {
+  "nature": "Jolly",
+  "item": "Focus Sash",
+  "ability": "Technician",
+  "moves": [
+   "Spectral Thief",
+   "Shadow Sneak",
+   "Close Combat",
+   "Bulk Up"
+  ],
+  "role": "Physical Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/marshadow/legends-z-a/"
+ },
+ "Meltan": {
+  "nature": "Relaxed",
+  "item": "Leftovers",
+  "ability": "Magnet Pull",
+  "moves": [
+   "Toxic",
+   "Tail Whip",
+   "Gyro Ball",
+   "Protect"
+  ],
+  "role": "Wall",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Toxic",
+   "Gyro Ball"
+  ],
+  "plus": "Defense",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/meltan/legends-z-a/"
+ },
+ "Melmetal": {
+  "nature": "Brave",
+  "item": "Choice Band",
+  "ability": "Iron Fist",
+  "moves": [
+   "Double Iron Bash",
+   "Earthquake",
+   "Thunder Punch",
+   "Ice Punch"
+  ],
+  "role": "Physical Wallbreaker",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Speed",
+  "source": "https://rankedboost.com/pokemon/melmetal/legends-z-a/"
+ },
+ "Darkrai": {
+  "nature": "Timid",
+  "item": "Heavy Duty Boots",
+  "ability": "Bad Dreams",
+  "moves": [
+   "Dark Pulse",
+   "Ice Beam",
+   "Sludge Bomb",
+   "Nasty Plot"
+  ],
+  "role": "Special Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/darkrai/legends-z-a/"
+ },
+ "Latias": {
+  "nature": "Timid",
+  "item": "Weakness Policy",
+  "ability": "Levitate",
+  "moves": [
+   "Calm Mind",
+   "Stored Power",
+   "Aura Sphere",
+   "Recover"
+  ],
+  "role": "Special Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Stored Power"
+  ],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/latias/legends-z-a/"
+ },
+ "Latios": {
+  "nature": "Timid",
+  "item": "Soul Dew",
+  "ability": "Levitate",
+  "moves": [
+   "Draco Meteor",
+   "Luster Purge",
+   "Calm Mind",
+   "Recover"
+  ],
+  "role": "Special Setup Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/latios/legends-z-a/"
+ },
+ "Kyogre": {
+  "nature": "Timid",
+  "item": "Choice Scarf",
+  "ability": "Drizzle",
+  "moves": [
+   "Ice Beam",
+   "Ice Beam",
+   "Thunder",
+   "Thunder"
+  ],
+  "role": "Special Revenge Killer",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/kyogre/legends-z-a/"
+ },
+ "Groudon": {
+  "nature": "Adamant",
+  "item": "Heat Rock",
+  "ability": "Drought",
+  "moves": [
+   "Precipice Blades",
+   "Precipice Blades",
+   "Stealth Rock",
+   "Stealth Rock"
+  ],
+  "role": "Physical Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Attack",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/groudon/legends-z-a/"
+ },
+ "Rayquaza": {
+  "nature": "Jolly",
+  "item": "Life Orb",
+  "ability": "Air Lock",
+  "moves": [
+   "Dragon Ascent",
+   "Dragon Ascent",
+   "Extreme Speed",
+   "Extreme Speed"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/rayquaza/legends-z-a/"
+ },
+ "Magearna": {
+  "nature": "Modest",
+  "item": "Leftovers",
+  "ability": "Soul-Heart",
+  "moves": [
+   "Fleur Cannon",
+   "Fleur Cannon",
+   "Draining Kiss",
+   "Flash Cannon"
+  ],
+  "role": "Special Tank",
+  "confidence": "Experimental",
+  "notLearnable": [],
+  "plus": "Sp. Atk",
+  "minus": "Attack",
+  "source": "https://rankedboost.com/pokemon/magearna/legends-z-a/"
+ },
+ "Zeraora": {
+  "nature": "Jolly",
+  "item": "Life Orb",
+  "ability": "Volt Absorb",
+  "moves": [
+   "Plasma Fists",
+   "Close Combat",
+   "Play Rough",
+   "Knock Off"
+  ],
+  "role": "Physical Sweeper",
+  "confidence": "Experimental",
+  "notLearnable": [
+   "Knock Off"
+  ],
+  "plus": "Speed",
+  "minus": "Sp. Atk",
+  "source": "https://rankedboost.com/pokemon/zeraora/legends-z-a/"
+ }
+}
