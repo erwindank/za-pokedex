@@ -15,9 +15,14 @@ Open `index.html` in a browser — no install needed. Or host it free with GitHu
 
 ## Where the data comes from
 
-- **Natures, movesets, items, locations, evolution methods:** the Google Sheet
-  *Pokemon Legends Z-A Pokedex Tracker* ("Full List" tab).
-- **Pictures, types of new forms, Mega forms, gender differences, evolution lines:** [PokeAPI](https://pokeapi.co).
+- **[Serebii.net](https://www.serebii.net/legendsz-a/):** official Lumiose and Hyperspace dex numbers,
+  where to find each Pokémon (Legends: Z-A and Mega Dimension), evolution methods, the guaranteed
+  Alpha move, every move it can learn in Z-A, and where to get each Mega Stone.
+- **The Google Sheet** *Pokemon Legends Z-A Pokedex Tracker* ("Full List" tab): best nature,
+  competitive moveset and held item (Serebii doesn't publish these). The sheet's own location notes
+  are still shown under "Your sheet's note".
+- **[PokeAPI](https://pokeapi.co):** pictures (normal, shiny, female, every form), Mega forms the
+  sheet doesn't list yet, and gender differences.
 
 Forms that aren't in the sheet yet (most Megas, some regional forms, Rotom, Tatsugiri, Squawkabilly…)
 are added automatically and marked in the app. Their nature is copied from the main form.
@@ -25,11 +30,13 @@ are added automatically and marked in the app. Their nature is copied from the m
 ## Updating the data
 
 1. Export the sheet's "Full List" values to `tools/sheet.json` as `{"values": [[...], ...]}`.
-2. Run `python tools/build_data.py` (needs internet the first time; PokeAPI answers are cached in `tools/.cache`).
-3. Bump `?v=` on `data/pokedex.js` in `index.html` so browsers load the new file.
+2. `python tools/serebii_fetch.py` downloads the Serebii pages once (one request every 1.2 s) into
+   `tools/.cache/serebii`. Add `--fresh` after a game update to download them again.
+3. `python tools/build_data.py` builds `data/pokedex.js` (PokeAPI answers are cached in `tools/.cache`).
+4. Bump `?v=` on `data/pokedex.js` in `index.html` so browsers load the new file.
 
-Sheet fixes the build makes on the fly: dex numbers come from row order (the sheet has a few
-drag-fill mistakes like `H#9` for 90), the shifted Pumpkaboo / Gourgeist size rows, and
-"Deputante" → "Debutante" Trim.
+Fixes the build makes on the fly: dex numbers come from Serebii (the sheet has a few drag-fill
+mistakes like `H#9` for 90), the shifted Pumpkaboo / Gourgeist size rows, "Deputante" → "Debutante"
+Trim, and the sheet's Machamp "Mega" row is dropped (Machamp has no Mega Evolution).
 
 Pokémon and all related names are trademarks of Nintendo / Creatures / GAME FREAK. Fan project, not affiliated.

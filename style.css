@@ -309,6 +309,32 @@ select {
 .vtable .vname { color: var(--muted); }
 
 .auto-note { font-size: 12px; color: var(--muted); margin: 0; }
+.auto-note a { color: var(--accent); }
+
+/* Serebii data: labelled location lines, sheet note, Alpha move, move list */
+.info-lines .lbl {
+  display: block; font-size: 11px; font-weight: 700; letter-spacing: .05em;
+  text-transform: uppercase; color: var(--muted); margin-bottom: 2px;
+}
+.sheet-note { margin-top: 8px; font-size: 13px; }
+.sheet-note summary { cursor: pointer; color: var(--muted); }
+.sheet-note p { margin: 6px 0 0; background: var(--card-2); border-radius: 9px; padding: 8px 10px; }
+.alpha-hl b { color: var(--alpha); }
+.learn summary { cursor: pointer; list-style: none; display: flex; align-items: center; justify-content: space-between; }
+.learn summary::-webkit-details-marker { display: none; }
+.learn summary::after { content: "▾"; color: var(--muted); }
+.learn[open] summary::after { content: "▴"; }
+.learn summary h3 { margin: 0; }
+.learn h4 { margin: 12px 0 4px; font-size: 13px; }
+.mtable { width: 100%; border-collapse: collapse; font-size: 13px; }
+.mtable th { text-align: left; color: var(--muted); font-weight: 600; font-size: 11px; padding: 4px; }
+.mtable td { padding: 5px 4px; border-top: 1px solid var(--line); }
+.mtable .at { color: var(--muted); white-space: nowrap; }
+.mtable .cat { color: var(--muted); }
+.mtable .pow { text-align: right; }
+.plus { font-size: 11px; font-weight: 700; color: var(--accent); }
+.evo .arrow { display: flex; flex-direction: column; align-items: center; }
+.evo .arrow small, .evo .how { font-size: 10px; color: var(--muted); font-weight: 600; text-align: center; max-width: 86px; line-height: 1.2; }
 
 /* toast + modal */
 .toast {

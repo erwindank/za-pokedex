@@ -294,21 +294,39 @@
     const moves = `<div class="panel"><h3>Competitive moveset</h3>
       ${form.moves.length ? `<div class="moves">${form.moves.map((m) => `<div>${esc(m)}</div>`).join("")}</div>` : `<p class="none">No moveset in the sheet yet for this form.</p>`}
       ${form.item ? `<p class="item">Held item: <b>${esc(form.item)}</b></p>` : ""}
+      ${sp.alphaMove && !form.mega && !sp.legendary ? `<p class="item${alpha ? " alpha-hl" : ""}">Alphas always know: <b>${esc(sp.alphaMove)}</b></p>` : ""}
     </div>`;
 
-    // location / evolution: fall back to the first form's text when this form has none
-    let info = form.info;
-    let infoFrom = "";
-    if (!info && !form.mega) {
-      const other = sp.forms.find((f) => f.info && !f.mega);
-      if (other) { info = other.info; infoFrom = other.form; }
+    // Where to find / how to evolve — from Serebii; the sheet's own note is shown under it
+    const lines = [];
+    if (form.mega) {
+      if (form.stone) lines.push({ label: form.stone.stone, text: form.stone.where });
+    } else {
+      for (const w of sp.where) lines.push(w);
+      // a Pokémon can evolve from more than one (Slowking: Slowpoke, or Galarian Slowbro)
+      for (const e of sp.evolvesFrom || []) {
+        const into = e.into ? ` → ${e.into} ${sp.name}` : "";
+        lines.push({ label: "Evolves from " + e.from + into, text: e.how });
+      }
     }
+    const sheetNote = form.sheetInfo || (!form.mega && (sp.forms.find((f) => f.sheetInfo && !f.mega) || {}).sheetInfo) || "";
     const where = `<div class="panel"><h3>${form.mega ? "How to get the Mega Stone" : "Where to find · How to evolve"}</h3>
-      ${info ? `<ul class="info-lines">${info.split("\n").map((l) => `<li>${esc(l)}</li>`).join("")}</ul>
-        ${infoFrom ? `<p class="auto-note" style="margin-top:6px">From the ${esc(infoFrom)} entry.</p>` : ""}`
-        : `<p class="none">Not in the sheet yet.</p>`}
+      ${lines.length ? `<ul class="info-lines">${lines.map((l) => `<li><span class="lbl">${esc(l.label)}</span>${esc(l.text)}</li>`).join("")}</ul>`
+        : `<p class="none">Serebii doesn't list this one.</p>`}
+      ${sheetNote ? `<details class="sheet-note"><summary>Your sheet's note</summary><p>${esc(sheetNote).replace(/\n/g, "<br>")}</p></details>` : ""}
       ${form.auto ? `<p class="auto-note" style="margin-top:6px">This form isn't in your sheet yet — it was added automatically. Nature copied from the main form.</p>` : ""}
+      <p class="auto-note" style="margin-top:8px">Source: <a href="${esc(sp.serebii)}" target="_blank" rel="noopener">${esc(sp.name)} on Serebii.net ↗</a></p>
     </div>`;
+
+    // every move it can learn in Z-A (Serebii), folded away by default
+    const moveRows = (list) => list.map((m) => `<tr><td class="at">${esc(m.at)}</td><td><b>${esc(m.name)}</b>${m.plusLv ? ` <span class="plus" title="Becomes a Plus Move at level ${esc(m.plusLv)}">+${esc(m.plusLv)}</span>` : ""}</td>
+      <td>${m.type ? `<span class="type t-${esc(m.type)}">${esc(m.type)}</span>` : ""}</td><td class="cat">${esc(m.cat)}</td><td class="pow">${esc(m.power)}</td></tr>`).join("");
+    const learn = (sp.learn.levelUp.length || sp.learn.tm.length) ? `<div class="panel"><details class="learn">
+      <summary><h3>All moves it can learn in Z-A</h3></summary>
+      ${sp.learn.levelUp.length ? `<h4>Level up</h4><table class="mtable"><thead><tr><th>Lv</th><th>Move</th><th>Type</th><th>Cat.</th><th>Pow</th></tr></thead><tbody>${moveRows(sp.learn.levelUp)}</tbody></table>` : ""}
+      ${sp.learn.tm.length ? `<h4>TMs</h4><table class="mtable"><thead><tr><th>TM</th><th>Move</th><th>Type</th><th>Cat.</th><th>Pow</th></tr></thead><tbody>${moveRows(sp.learn.tm)}</tbody></table>` : ""}
+      <p class="auto-note">+N = the level it becomes a Plus Move.</p>
+    </details></div>` : "";
 
     const evo = sp.chain.length > 1 ? `<div class="panel"><h3>Evolution line</h3>${evoHtml(sp)}</div>` : "";
 
@@ -323,20 +341,22 @@
       }).join("")).join("")}
       </tbody></table></div>`;
 
-    $("#dBody").innerHTML = tabs + hero + nature + moves + where + evo + table;
+    $("#dBody").innerHTML = tabs + hero + nature + moves + where + evo + learn + table;
   }
 
   function evoHtml(sp) {
     // group the chain by depth: stage 1 → stage 2 → stage 3 (branches stack)
     const stages = [];
     for (const c of sp.chain) (stages[c.depth] = stages[c.depth] || []).push(c);
+    // the method (from Serebii) sits under the arrow; with branches each one shows its own
     return `<div class="evo">${stages.map((st, i) =>
-      (i ? `<span class="arrow">→</span>` : "") +
+      (i ? `<span class="arrow">→${st.length === 1 && st[0].how ? `<small>${esc(st[0].how)}</small>` : ""}</span>` : "") +
       `<div class="branch">${st.map((c) => {
         const target = c.key && byKey.get(c.key);
         const img = target ? target.forms[0].img : "";
         return `<button data-evo="${c.key || ""}" class="${c.key === sp.key ? "cur" : ""}" ${target ? "" : "disabled title=\"Not in this game's Pokédex\""}>
-          ${img ? `<img src="${esc(img)}" alt="" loading="lazy">` : ""}${esc(c.name)}${target ? `<small style="color:var(--muted)">${numLabel(target)}</small>` : ""}</button>`;
+          ${img ? `<img src="${esc(img)}" alt="" loading="lazy">` : ""}${esc(c.name)}${target ? `<small style="color:var(--muted)">${numLabel(target)}</small>` : ""}
+          ${st.length > 1 && c.how ? `<small class="how">${esc(c.how)}</small>` : ""}</button>`;
       }).join("")}</div>`).join("")}</div>`;
   }
 

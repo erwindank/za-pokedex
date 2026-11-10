@@ -98,14 +98,23 @@ species = []          # ordered list of species dicts
 by_name = {}
 seed = {}             # "speciesKey|form|variant" -> {"caught":bool,"lv100":bool}
 
-lumiose_order = []    # base dex in sheet order
-hyper_order = []
-for r in rows:
-    name = clean(r[1])
-    is_h = clean(r[0]).upper().startswith("H")
-    lst = hyper_order if is_h else lumiose_order
-    if name not in lst and name not in (hyper_order if not is_h else lumiose_order):
-        lst.append(name)
+# Official dex numbers come from Serebii's Lumiose and Hyperspace Pokédex lists.
+# (The sheet's own numbers have a few drag-fill mistakes, e.g. "H#9" for 90.)
+sys.path.insert(0, os.path.join(ROOT, "tools"))
+import serebii_parse as sp_parse  # noqa: E402
+
+SEREBII_DEX = {}      # name -> (dex, number, serebii page path)
+for dex, num, nm, path in sp_parse.dex_lists():
+    SEREBII_DEX[nm] = (dex, num, path)
+lumiose_order = [n for n, v in sorted(SEREBII_DEX.items(), key=lambda x: x[1][1]) if v[0] == "lumiose"]
+hyper_order = [n for n, v in sorted(SEREBII_DEX.items(), key=lambda x: x[1][1]) if v[0] == "hyperspace"]
+sheet_names = {clean(r[1]) for r in rows}
+for nm in SEREBII_DEX:
+    if nm not in sheet_names:
+        print(f"WARNING: {nm} is in Serebii's Pokédex but not in the sheet", file=sys.stderr)
+for nm in sheet_names - set(SEREBII_DEX):
+    print(f"WARNING: {nm} is in the sheet but not in Serebii's Pokédex (skipped)", file=sys.stderr)
+rows = [r for r in rows if clean(r[1]) in SEREBII_DEX]
 
 # Pumpkaboo/Gourgeist rows in the sheet are shifted by one; rebuild those lines cleanly.
 SIZE_FORMS = ["Small Variety", "Medium Variety", "Large Variety", "Jumbo Variety"]
@@ -115,8 +124,8 @@ for r in rows:
     form, shiny, alpha = split_variant(r[2])
     form = FORM_FIXES.get((name, form), form)
     if name not in by_name:
-        is_h = clean(r[0]).upper().startswith("H")
-        num = (hyper_order.index(name) + 1) if is_h else (lumiose_order.index(name) + 1)
+        is_h = SEREBII_DEX[name][0] == "hyperspace"
+        num = SEREBII_DEX[name][1]
         sp = {
             "key": ("H" if is_h else "L") + str(num),
             "dex": "hyperspace" if is_h else "lumiose",
@@ -371,6 +380,16 @@ for sp in species:
     female = dict(sp["forms"][i], form="Female")
     sp["forms"][i:i + 1] = [male, female]
 
+# Drop "Mega" rows for Pokémon that have no Mega Evolution at all (e.g. the sheet's Machamp Mega)
+for sp in species:
+    d = spec_data[sp["key"]]
+    has_mega = d and any("-mega" in v["pokemon"]["name"] for v in d["varieties"])
+    if not has_mega:
+        bad = [f["form"] for f in sp["forms"] if f["form"].lower().startswith("mega")]
+        if bad:
+            print(f"Removed {sp['name']} {bad}: no such Mega Evolution", file=sys.stderr)
+            sp["forms"] = [f for f in sp["forms"] if not f["form"].lower().startswith("mega")]
+
 added_megas = []
 for sp in species:
     d = spec_data[sp["key"]]
@@ -403,9 +422,63 @@ def flatten_chain(node, depth=0, out=None):
     return out
 
 
+# ---------- Serebii: locations, evolution methods, Alpha move, Z-A moves, Mega Stones ----------
+print("Reading Serebii pages…", file=sys.stderr)
+STONES = sp_parse.mega_stones()
+serebii = {sp["key"]: sp_parse.species_page(SEREBII_DEX[sp["name"]][2]) for sp in species}
+# Serebii evolution nodes look like "/pokedex-sv/meowth/|052|Galarian" → turn into names
+NAT_TO_NAME = {spec_data[s["key"]]["id"]: s["name"] for s in species if spec_data[s["key"]]}
+PATH_TO_NAME = {v[2]: n for n, v in SEREBII_DEX.items()}
+
+
+def node_name(node):
+    page, nat, region = node.split("|")
+    name = NAT_TO_NAME.get(int(nat)) if nat.isdigit() else None
+    name = name or PATH_TO_NAME.get(page)
+    if not name:  # not in this game's Pokédex: make a readable name from the page address
+        name = page.rstrip("/").split("/")[-1].replace(".shtml", "").replace("-", " ").title()
+    return name, region
+
+
+# every evolution edge Serebii knows: (from, to) -> {"how", "fromRegion"}
+EVO_EDGES = {}
+for data in serebii.values():
+    for a, b, how in data["evolutions"]:
+        (an, ar), (bn, br) = node_name(a), node_name(b)
+        if how and an != bn:
+            EVO_EDGES.setdefault((an, bn), {"how": how, "region": ar, "toRegion": br})
+unused_stones = set(STONES)
+
+
+def stone_for(sp_name, label):
+    """Mega form label → Serebii Mega Stone entry ('Mega X' → the X stone)."""
+    m = re.match(r"Mega(?: ([XYZ]))?", label)
+    k = (sp_name, m.group(1) or "" if m else "")
+    if k not in STONES and sp_name == "Floette":
+        k = next((x for x in STONES if "Floette" in x[0]), k)
+    unused_stones.discard(k)
+    if sp_name == "Rayquaza":
+        return {"stone": "No Mega Stone needed", "where": "Rayquaza Mega Evolves when it knows Dragon Ascent"}
+    return STONES.get(k)
+
+
 out_species = []
 for sp in species:
     d = spec_data[sp["key"]]
+    sb = serebii[sp["key"]]
+    # "Where to find" lines from Serebii; the sheet's text stays as a fallback
+    where = []
+    if sb["locations"].get("za"):
+        where.append({"label": "Legends: Z-A", "text": sb["locations"]["za"]})
+    if sb["locations"].get("zamd"):
+        where.append({"label": "Mega Dimension", "text": sb["locations"]["zamd"]})
+    # how this Pokémon evolves (regional parents shown, e.g. "Meowth (Galarian)")
+    evolves_from = [
+        {"from": a + (f" ({e['region']})" if e["region"] else ""), "how": e["how"],
+         "into": e["toRegion"]}
+        for (a, b), e in EVO_EDGES.items() if b == sp["name"]
+    ]
+
     forms_out = []
     for f in sp["forms"]:
         label = FORM_LABEL_FIX.get(f["form"], f["form"])
@@ -414,28 +487,48 @@ for sp in species:
             pics = pics_from_pokemon(poke[f["var"]])
         else:
             pics = resolve_pics(sp, label) or {"n": None, "s": None}
+        stone = stone_for(sp["name"], label) if is_mega else None
         forms_out.append({
             "form": label, "types": f["types"], "nature": f["nature"], "plus": f["plus"],
-            "minus": f["minus"], "moves": f["moves"], "item": f["item"], "info": f["info"],
+            "minus": f["minus"], "moves": f["moves"], "item": f["item"],
+            "sheetInfo": f["info"],  # the sheet's own location / evolution note
+            "stone": stone,          # Mega forms: {"stone", "where"} from Serebii
             "mega": is_mega, "auto": f.get("auto", False), "img": pics["n"], "shinyImg": pics["s"],
         })
     chain = []
     if d and d.get("evolution_chain"):
-        for c in flatten_chain(chains[d["evolution_chain"]["url"]]["chain"]):
+        flat = flatten_chain(chains[d["evolution_chain"]["url"]]["chain"])
+        for i, c in enumerate(flat):
             chain.append({"name": c["slug"], "depth": c["depth"], "key": name_to_key.get(c["slug"])})
     out_species.append({
         "key": sp["key"], "dex": sp["dex"], "num": sp["num"], "name": sp["name"],
         "national": d["id"] if d else None,
         "legendary": bool(d and (d["is_legendary"] or d["is_mythical"])),
         "genderDiff": bool(d and d["has_gender_differences"]),
+        "where": where, "evolvesFrom": evolves_from,
+        "alphaMove": sb["moves"]["alpha"],
+        "learn": {"levelUp": sb["moves"]["levelUp"], "tm": sb["moves"]["tm"]},
+        "serebii": "https://www.serebii.net" + SEREBII_DEX[sp["name"]][2],
         "forms": forms_out, "chain": chain,
     })
+
+if unused_stones:
+    print("Mega Stones not matched to a form:", sorted(unused_stones), file=sys.stderr)
+no_where = [s["name"] for s in out_species if not s["where"]]
+if no_where:
+    print(f"{len(no_where)} Pokémon have no Serebii location:", no_where[:20], file=sys.stderr)
 
 # Fill chain display names from our own list (keeps sheet spelling like Flabébé)
 key_to_name = {s["key"]: s["name"] for s in out_species}
 for s in out_species:
     for c in s["chain"]:
         c["name"] = key_to_name.get(c["key"]) or c["name"].replace("-", " ").title()
+    # how each chain member evolves (from Serebii), shown under the arrows
+    for i, c in enumerate(s["chain"]):
+        if c["depth"] == 0:
+            continue
+        parent = next(p for p in reversed(s["chain"][:i]) if p["depth"] == c["depth"] - 1)
+        c["how"] = (EVO_EDGES.get((parent["name"], c["name"])) or {}).get("how", "")
 
 payload = {"built": time.strftime("%Y-%m-%d"), "species": out_species, "seed": seed}
 with open(os.path.join(ROOT, "data", "pokedex.js"), "w", encoding="utf-8") as f:
