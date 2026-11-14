@@ -103,6 +103,32 @@ button { cursor: pointer; }
 .menu button { text-align: left; background: none; border: 0; padding: 10px 12px; border-radius: 8px; }
 .menu button:hover { background: var(--card-2); }
 .menu .danger { color: var(--bad); }
+.menu button[hidden] { display: none; }
+.menu-sep { border: 0; border-top: 1px solid var(--line); margin: 4px 6px; }
+
+/* Google Drive sync status pill (sync.js) */
+.sync-pill {
+  flex: none; display: inline-flex; align-items: center; gap: 7px;
+  height: 40px; padding: 0 12px; border-radius: 10px;
+  border: 1px solid var(--line); background: var(--card);
+  font: 600 13px var(--font-body); color: var(--muted); white-space: nowrap;
+}
+.sync-pill[hidden] { display: none; }
+.sync-pill:hover { border-color: var(--accent); }
+.sync-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--muted); }
+.sync-pill[data-state="ok"] .sync-dot { background: var(--good); }
+.sync-pill[data-state="syncing"] .sync-dot { background: var(--accent); animation: syncPulse 1s ease-in-out infinite; }
+.sync-pill[data-state="tap"] { color: var(--text); border-color: var(--shiny); }
+.sync-pill[data-state="tap"] .sync-dot { background: var(--shiny); }
+.sync-pill[data-state="error"] { color: var(--bad); }
+.sync-pill[data-state="error"] .sync-dot { background: var(--bad); }
+@keyframes syncPulse { 50% { opacity: .3; } }
+/* on phones show just the dot, unless it needs a tap */
+@media (max-width: 560px) {
+  .sync-pill:not([data-state="tap"]):not([data-state="error"]) { padding: 0 14px; }
+  .sync-pill:not([data-state="tap"]):not([data-state="error"]) .sync-text { display: none; }
+}
+@media (prefers-reduced-motion: reduce) { .sync-pill .sync-dot { animation: none; } }
 
 /* ---------- layout ---------- */
 .wrap { max-width: 1280px; margin: 0 auto; padding: 16px; }

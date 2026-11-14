@@ -2,7 +2,8 @@
    Z-A Dex Tracker — app logic
    Data comes from data/pokedex.js (window.ZA_DEX), built from the
    Google Sheet by tools/build_data.py. Ticks are saved in this
-   browser (localStorage) and can be backed up to a file.
+   browser (localStorage), can be backed up to a file, and can
+   sync to the user's Google Drive (sync.js).
    ============================================================ */
 (function () {
   "use strict";
@@ -67,6 +68,8 @@
   }
   function save() {
     try { localStorage.setItem(STORE_KEY, JSON.stringify(state)); } catch (e) { toast("Couldn't save — is storage blocked?"); }
+    // also send it to Google Drive when that's connected (sync.js)
+    if (window.ZASync) window.ZASync.changed();
   }
   function saveUi() {
     try { localStorage.setItem(UI_KEY, JSON.stringify(ui)); } catch (e) { /* not important */ }
@@ -465,6 +468,10 @@
       if (act === "export") exportBackup();
       if (act === "import") $("#importFile").click();
       if (act === "reset") { $("#confirm").hidden = false; $("#cNo").focus(); }
+      // Google Drive sync (sync.js)
+      if (act === "drive-connect") window.ZASync.connect();
+      if (act === "drive-sync") window.ZASync.syncNow();
+      if (act === "drive-off") window.ZASync.disconnect();
     });
     $("#importFile").addEventListener("change", importBackup);
     $("#cNo").addEventListener("click", () => { $("#confirm").hidden = true; });
@@ -504,6 +511,19 @@
   // ---------- start ----------
   bind();
   renderGrid();
+  // Google Drive sync: it reads our ticks and hands back the ones from Drive
+  if (window.ZASync) {
+    window.ZASync.init({
+      getState: () => state,
+      setState: (s) => {
+        // took in changes from Drive: keep them on this device too (no re-upload) and redraw
+        state = s;
+        try { localStorage.setItem(STORE_KEY, JSON.stringify(state)); } catch (e) { /* fine */ }
+        renderGrid(); if (cur) renderDrawer();
+      },
+      toast,
+    });
+  }
   // open straight to a Pokémon from a link like index.html#L3
   const h = location.hash.slice(1);
   if (h && byKey.has(h)) open(h);

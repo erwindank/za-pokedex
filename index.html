@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=3">
+  <link rel="stylesheet" href="style.css?v=4">
 </head>
 <body>
   <!-- Top bar: title, search and backup menu -->
@@ -21,9 +21,17 @@
         <input id="q" type="search" placeholder="Dex number or name — e.g. 3, H12, Rotom" autocomplete="off" spellcheck="false">
         <kbd>/</kbd>
       </label>
+      <!-- Google Drive sync status (sync.js); hidden until Drive is connected -->
+      <button class="sync-pill" id="syncPill" data-state="off" hidden>
+        <span class="sync-dot" aria-hidden="true"></span><span class="sync-text"></span>
+      </button>
       <div class="menu-wrap">
         <button class="icon-btn" id="menuBtn" aria-haspopup="true" aria-expanded="false" title="Backup and settings">⋯</button>
         <div class="menu" id="menu" hidden>
+          <button data-act="drive-connect">Save to Google Drive…</button>
+          <button data-act="drive-sync" hidden>Sync with Google Drive now</button>
+          <button data-act="drive-off" hidden>Stop saving to Google Drive</button>
+          <hr class="menu-sep">
           <button data-act="export">Save backup file</button>
           <button data-act="import">Load backup file</button>
           <button data-act="reset" class="danger">Clear all ticks…</button>
@@ -94,6 +102,7 @@
   </div>
 
   <script src="data/pokedex.js?v=4"></script>
-  <script src="app.js?v=4"></script>
+  <script src="sync.js?v=2"></script>
+  <script src="app.js?v=5"></script>
 </body>
 </html>
